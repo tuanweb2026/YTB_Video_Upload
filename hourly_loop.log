@@ -1,0 +1,72 @@
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-27 14:18:47] STARTING: auto_20260826_130613_Kinh_Nikaya__Bí_Quyết_Vượt_Qua_Nỗi_Sợ_Th.mp4 (1.4 MB)
+[36mℹ️  Pending: 176 video · Đang upload: auto_20260826_130613_Kinh_Nikaya__Bí_Quyết_Vượt_Qua_Nỗi_Sợ_Th.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>[0m
+[2026-08-27 14:18:47] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-27 15:18:48] STARTING: auto_20260826_130621_Ma_Trận_Eisenhower___Phân_Loại_Công_Việc.mp4 (0.7 MB)
+[36mℹ️  Pending: 175 video · Đang upload: auto_20260826_130621_Ma_Trận_Eisenhower___Phân_Loại_Công_Việc.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>[0m
+[2026-08-27 15:18:48] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-27 16:18:48] STARTING: auto_20260826_130629_Làm_Sao_Để_Tha_Thứ_Cho_Người_Làm_Mình_Đa.mp4 (0.9 MB)
+[36mℹ️  Pending: 174 video · Đang upload: auto_20260826_130629_Làm_Sao_Để_Tha_Thứ_Cho_Người_Làm_Mình_Đa.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>[0m
+[2026-08-27 16:18:48] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-27 20:25:02] STARTING: auto_20260826_130636_Sức_Mạnh_Của_Journaling___Viết_Nhật_Ký_1.mp4 (0.9 MB)
+[36mℹ️  Pending: 173 video · Đang upload: auto_20260826_130636_Sức_Mạnh_Của_Journaling___Viết_Nhật_Ký_1.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>[0m
+[2026-08-27 20:25:02] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-27 21:25:03] STARTING: auto_20260826_130642_Tại_Sao_Người_Ít_Nói_Lại_Thường_Được_Tin.mp4 (0.9 MB)
+[36mℹ️  Pending: 172 video · Đang upload: auto_20260826_130642_Tại_Sao_Người_Ít_Nói_Lại_Thường_Được_Tin.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 61] Connection refused>[0m
+[2026-08-27 21:25:03] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-27 22:25:03] STARTING: auto_20260826_130707_Kinh_Nikaya__Tâm_Xả_Vô_Lượng__UPEKKHA___.mp4 (1.4 MB)
+[36mℹ️  Pending: 171 video · Đang upload: auto_20260826_130707_Kinh_Nikaya__Tâm_Xả_Vô_Lượng__UPEKKHA___.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 61] Connection refused>[0m
+[2026-08-27 22:25:03] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-27 23:25:04] STARTING: auto_20260826_130715_Ngừng_Đa_Nhiệm___Làm_Một_Việc_Hiệu_Quả_H.mp4 (0.9 MB)
+[36mℹ️  Pending: 170 video · Đang upload: auto_20260826_130715_Ngừng_Đa_Nhiệm___Làm_Một_Việc_Hiệu_Quả_H.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 61] Connection refused>[0m
+[2026-08-27 23:25:04] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-28 06:50:14] STARTING: auto_20260826_221553_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 (0.0 MB)
+[36mℹ️  Pending: 166 video · Đang upload: auto_20260826_221553_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 61] Connection refused>[0m
+[2026-08-28 06:50:14] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py

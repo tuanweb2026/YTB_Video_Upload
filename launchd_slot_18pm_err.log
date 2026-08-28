@@ -1,0 +1,326 @@
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+[aist#0:0/pcm_s16be @ 0x7fc990105000] Guessed Channel Layout: mono
+Input #0, aiff, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_voice.aiff':
+  Duration: 00:00:15.27, start: 0.000000, bitrate: 354 kb/s
+  Stream #0:0: Audio: pcm_s16be (twos / 0x736F7774), 22050 Hz, mono, s16, 352 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16be (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_raw.wav':
+  Metadata:
+    ISFT            : Lavf63.1.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 pcm_s16le
+[out#0/wav @ 0x7fc990104840] video:0KiB audio:658KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.011582%
+size=     658KiB time=00:00:15.27 bitrate= 352.8kbits/s speed=1.77e+03x elapsed=0:00:00.00    
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+[aist#0:0/pcm_s16le @ 0x7fe3a8704b40] Guessed Channel Layout: mono
+Input #0, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_raw.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:15.27, bitrate: 352 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_processed.wav':
+  Metadata:
+    ISFT            : Lavf63.1.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 pcm_s16le
+[Parsed_equalizer_4 @ 0x7fe3a9408880] Channel 0 clipping 1 times. Please reduce gain.
+[Parsed_lowpass_5 @ 0x7fe3a9408b00] Channel 0 clipping 1 times. Please reduce gain.
+[out#0/wav @ 0x7fe3a9204240] video:0KiB audio:657KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.011592%
+size=     657KiB time=00:00:15.25 bitrate= 352.8kbits/s speed= 417x elapsed=0:00:00.03    
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+[aist#0:0/pcm_s16le @ 0x7fd70a905a00] Guessed Channel Layout: mono
+Input #0, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_processed.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:15.26, bitrate: 352 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+[aist#1:0/pcm_s16le @ 0x7fd70a906a40] Guessed Channel Layout: mono
+Input #1, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/clean_bg_chill.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:30.00, bitrate: 352 kb/s
+  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+Stream mapping:
+  Stream #0:0 (pcm_s16le) -> volume:default
+  Stream #1:0 (pcm_s16le) -> volume:default
+  amix:default -> Stream #0:0 (pcm_s16le)
+Press [q] to stop, [?] for help
+Output #0, wav, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_mixed_audio.wav':
+  Metadata:
+    ISFT            : Lavf63.1.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 pcm_s16le
+[out#0/wav @ 0x7fd70ad04240] video:0KiB audio:657KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.011592%
+size=     657KiB time=00:00:15.25 bitrate= 352.8kbits/s speed=1.23e+03x elapsed=0:00:00.01    
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+Input #0, image2, from '/Users/abc/.gemini/antigravity/brain/f1b616c4-34df-4bce-8ba5-f93a710452fb/youtube_shorts_thumbnail_1787412760992.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 152501 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 300:300 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+Input #1, image2, from '/Users/abc/.gemini/antigravity/brain/f1b616c4-34df-4bce-8ba5-f93a710452fb/shorts_scene2_phone_1787412813911.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 153767 kb/s
+  Stream #1:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 300:300 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+Input #2, image2, from '/Users/abc/.gemini/antigravity/brain/f1b616c4-34df-4bce-8ba5-f93a710452fb/shorts_scene3_headphones_1787412829319.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 158527 kb/s
+  Stream #2:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 300:300 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+[aist#3:0/pcm_s16le @ 0x7feb4ac07bc0] Guessed Channel Layout: mono
+Input #3, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_mixed_audio.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:15.26, bitrate: 352 kb/s
+  Stream #3:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (mjpeg) -> scale:default
+  Stream #2:0 (mjpeg) -> scale:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+  Stream #3:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0x7feb4a909ec0] Too many bits 8916.462585 > 6144 per frame requested, clamping to max
+[swscaler @ 0x7feb4d7c2000] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x7feb5258b000] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x7feb5289c000] deprecated pixel format used, make sure you did set range correctly
+[libx264 @ 0x7feb4a908900] using SAR=1/1
+[libx264 @ 0x7feb4a908900] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x7feb4a908900] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0x7feb4a908900] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=18 lookahead_threads=3 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_2_slot_18pm.mp4':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(pc, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+    Metadata:
+      encoder         : Lavc63.1.100 libx264
+    Side data:
+      CPB properties: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 22050 Hz, mono, fltp, 132 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 aac
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=00:00:01.48 bitrate=   0.3kbits/s dup=58 drop=0 speed=2.66x elapsed=0:00:00.55    frame=   34 fps= 30 q=29.0 size=     256KiB time=00:00:03.20 bitrate= 654.6kbits/s dup=116 drop=0 speed=2.83x elapsed=0:00:01.13    frame=   78 fps= 47 q=29.0 size=     256KiB time=00:00:04.64 bitrate= 451.7kbits/s dup=145 drop=0 speed= 2.8x elapsed=0:00:01.65    frame=  124 fps= 57 q=29.0 size=     256KiB time=00:00:06.17 bitrate= 339.6kbits/s dup=203 drop=0 speed=2.86x elapsed=0:00:02.15    frame=  178 fps= 65 q=29.0 size=     256KiB time=00:00:07.98 bitrate= 262.6kbits/s dup=261 drop=0 speed=2.92x elapsed=0:00:02.73    frame=  231 fps= 70 q=29.0 size=     256KiB time=00:00:09.70 bitrate= 216.1kbits/s dup=290 drop=0 speed=2.94x elapsed=0:00:03.30    frame=  284 fps= 73 q=29.0 size=     512KiB time=00:00:10.40 bitrate= 403.2kbits/s dup=638 drop=0 speed=2.69x elapsed=0:00:03.87    frame=  332 fps= 76 q=29.0 size=     512KiB time=00:00:11.00 bitrate= 381.3kbits/s dup=696 drop=0 speed=2.52x elapsed=0:00:04.37    frame=  384 fps= 79 q=29.0 size=     768KiB time=00:00:12.73 bitrate= 494.1kbits/s dup=725 drop=0 speed=2.61x elapsed=0:00:04.87    frame=  436 fps= 81 q=29.0 size=     768KiB time=00:00:14.46 bitrate= 434.9kbits/s dup=783 drop=0 speed=2.68x elapsed=0:00:05.40    frame=  500 fps= 84 q=29.0 size=     768KiB time=N/A bitrate=N/A dup=812 drop=0 speed=N/A elapsed=0:00:05.95    [out#0/mp4 @ 0x7feb4a907600] video:963KiB audio:163KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 1.290629%
+frame=  532 fps= 83 q=-1.0 Lsize=    1141KiB time=00:00:17.66 bitrate= 528.9kbits/s dup=812 drop=0 speed=2.76x elapsed=0:00:06.38    
+[libx264 @ 0x7feb4a908900] frame I:3     Avg QP:16.28  size:302969
+[libx264 @ 0x7feb4a908900] frame P:134   Avg QP:17.12  size:   359
+[libx264 @ 0x7feb4a908900] frame B:395   Avg QP:23.34  size:    73
+[libx264 @ 0x7feb4a908900] consecutive B-frames:  0.9%  0.0%  0.6% 98.5%
+[libx264 @ 0x7feb4a908900] mb I  I16..4:  2.5% 76.9% 20.6%
+[libx264 @ 0x7feb4a908900] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  1.6%  0.1%  0.1%  0.0%  0.0%    skip:98.3%
+[libx264 @ 0x7feb4a908900] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.1%  0.0%  0.0%  direct: 0.0%  skip:99.9%  L0: 2.3% L1:97.7% BI: 0.0%
+[libx264 @ 0x7feb4a908900] 8x8 transform intra:76.9% inter:98.5%
+[libx264 @ 0x7feb4a908900] coded y,uvDC,uvAC intra: 97.6% 96.5% 87.0% inter: 0.0% 0.3% 0.0%
+[libx264 @ 0x7feb4a908900] i16 v,h,dc,p: 27%  2% 13% 59%
+[libx264 @ 0x7feb4a908900] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 17% 13% 15%  6%  7%  5%  8%  6% 23%
+[libx264 @ 0x7feb4a908900] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 14%  8%  8% 13%  7%  8%  5% 12%
+[libx264 @ 0x7feb4a908900] i8c dc,h,v,p: 43% 21% 23% 13%
+[libx264 @ 0x7feb4a908900] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x7feb4a908900] ref P L0: 92.6%  0.2%  6.1%  1.1%
+[libx264 @ 0x7feb4a908900] ref B L0: 15.5% 84.5%
+[libx264 @ 0x7feb4a908900] ref B L1: 86.4% 13.6%
+[libx264 @ 0x7feb4a908900] kb/s:444.70
+[aac @ 0x7feb4a909ec0] Qavg: 64629.176
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+[in#0/mp3 @ 0x7feacdf05e80] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_neural.mp3':
+  Duration: 00:00:21.79, start: 0.000000, bitrate: 48 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 24000 Hz, mono, fltp, 48 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_raw.wav':
+  Metadata:
+    ISFT            : Lavf63.1.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 pcm_s16le
+[out#0/wav @ 0x7feacdf08480] video:0KiB audio:1022KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.007457%
+size=    1022KiB time=00:00:21.79 bitrate= 384.0kbits/s speed= 533x elapsed=0:00:00.04    
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+[aist#0:0/pcm_s16le @ 0x7f7bc0005140] Guessed Channel Layout: mono
+Input #0, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_raw.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:21.79, bitrate: 384 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_processed.wav':
+  Metadata:
+    ISFT            : Lavf63.1.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 pcm_s16le
+[out#0/wav @ 0x7f7bc0005a00] video:0KiB audio:1022KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.007457%
+size=    1022KiB time=00:00:21.79 bitrate= 384.0kbits/s speed= 601x elapsed=0:00:00.03    
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+[aist#0:0/pcm_s16le @ 0x7fcdb7906d80] Guessed Channel Layout: mono
+Input #0, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_speech_processed.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:21.79, bitrate: 384 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+[aist#1:0/pcm_s16le @ 0x7fcdb7908800] Guessed Channel Layout: mono
+Input #1, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/clean_bg_chill.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:30.00, bitrate: 352 kb/s
+  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s
+Stream mapping:
+  Stream #0:0 (pcm_s16le) -> volume:default
+  Stream #1:0 (pcm_s16le) -> volume:default
+  amix:default -> Stream #0:0 (pcm_s16le)
+Press [q] to stop, [?] for help
+Output #0, wav, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_mixed_audio.wav':
+  Metadata:
+    ISFT            : Lavf63.1.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 pcm_s16le
+[out#0/wav @ 0x7fcdb7907a40] video:0KiB audio:1022KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.007457%
+size=    1022KiB time=00:00:21.79 bitrate= 384.0kbits/s speed= 861x elapsed=0:00:00.02    
+ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+Input #0, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/title_card_shorts_day_2_slot_18pm.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 94194 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+Input #1, image2, from '/Users/abc/.gemini/antigravity/brain/f1b616c4-34df-4bce-8ba5-f93a710452fb/shorts_scene2_phone_1787412813911.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 153767 kb/s
+  Stream #1:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 300:300 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+Input #2, image2, from '/Users/abc/.gemini/antigravity/brain/f1b616c4-34df-4bce-8ba5-f93a710452fb/bg_zen_meditation_1787464848840.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 192851 kb/s
+  Stream #2:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 300:300 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+[aist#3:0/pcm_s16le @ 0x7fa7b970cc80] Guessed Channel Layout: mono
+Input #3, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_mixed_audio.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:21.79, bitrate: 384 kb/s
+  Stream #3:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (mjpeg) -> scale:default
+  Stream #2:0 (mjpeg) -> scale:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+  Stream #3:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0x7fa7b970fac0] Too many bits 8192.000000 > 6144 per frame requested, clamping to max
+[swscaler @ 0x7fa7ba4e3000] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x7fa7c186e000] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x7fa7c1c01000] deprecated pixel format used, make sure you did set range correctly
+[libx264 @ 0x7fa7b970e4c0] using SAR=1/1
+[libx264 @ 0x7fa7b970e4c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x7fa7b970e4c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0x7fa7b970e4c0] 264 - core 165 r3223 0480cb0 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=18 lookahead_threads=3 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_2_slot_18pm.mp4':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(pc, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+    Metadata:
+      encoder         : Lavc63.1.100 libx264
+    Side data:
+      CPB properties: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 144 kb/s
+    Metadata:
+      encoder         : Lavc63.1.100 aac
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=00:00:01.49 bitrate=   0.3kbits/s dup=58 drop=0 speed=2.32x elapsed=0:00:00.64    frame=    0 fps=0.0 q=0.0 size=       0KiB time=00:00:02.04 bitrate=   0.2kbits/s dup=87 drop=0 speed=1.59x elapsed=0:00:01.28    frame=   34 fps= 18 q=29.0 size=     256KiB time=00:00:03.20 bitrate= 655.5kbits/s dup=116 drop=0 speed=1.65x elapsed=0:00:01.93    frame=   58 fps= 23 q=29.0 size=     256KiB time=00:00:04.01 bitrate= 523.0kbits/s dup=145 drop=0 speed=1.61x elapsed=0:00:02.49    frame=   81 fps= 27 q=29.0 size=     256KiB time=00:00:04.69 bitrate= 446.9kbits/s dup=145 drop=0 speed=1.57x elapsed=0:00:02.99    frame=  114 fps= 32 q=29.0 size=     256KiB time=00:00:05.84 bitrate= 358.8kbits/s dup=174 drop=0 speed=1.63x elapsed=0:00:03.59    frame=  138 fps= 34 q=29.0 size=     256KiB time=00:00:06.65 bitrate= 315.1kbits/s dup=203 drop=0 speed=1.63x elapsed=0:00:04.09    frame=  166 fps= 36 q=29.0 size=     256KiB time=00:00:07.59 bitrate= 276.2kbits/s dup=232 drop=0 speed=1.65x elapsed=0:00:04.60    frame=  194 fps= 38 q=29.0 size=     256KiB time=00:00:08.53 bitrate= 245.8kbits/s dup=261 drop=0 speed=1.66x elapsed=0:00:05.14    frame=  226 fps= 39 q=29.0 size=     256KiB time=00:00:09.60 bitrate= 218.5kbits/s dup=290 drop=0 speed=1.66x elapsed=0:00:05.79    frame=  250 fps= 40 q=29.0 size=     256KiB time=00:00:10.41 bitrate= 201.5kbits/s dup=609 drop=0 speed=1.65x elapsed=0:00:06.29    frame=  284 fps= 41 q=29.0 size=     768KiB time=00:00:10.41 bitrate= 604.4kbits/s dup=638 drop=0 speed=1.51x elapsed=0:00:06.90    frame=  312 fps= 41 q=29.0 size=     768KiB time=00:00:10.41 bitrate= 604.4kbits/s dup=667 drop=0 speed=1.38x elapsed=0:00:07.53    frame=  348 fps= 43 q=29.0 size=     768KiB time=00:00:11.53 bitrate= 545.5kbits/s dup=696 drop=0 speed=1.42x elapsed=0:00:08.13    frame=  384 fps= 44 q=29.0 size=     768KiB time=00:00:12.80 bitrate= 491.6kbits/s dup=725 drop=0 speed=1.47x elapsed=0:00:08.72    frame=  408 fps= 44 q=29.0 size=     768KiB time=00:00:13.53 bitrate= 464.9kbits/s dup=754 drop=0 speed=1.46x elapsed=0:00:09.25    frame=  444 fps= 45 q=29.0 size=     768KiB time=00:00:14.73 bitrate= 427.0kbits/s dup=783 drop=0 speed= 1.5x elapsed=0:00:09.84    frame=  468 fps= 45 q=29.0 size=     768KiB time=00:00:15.53 bitrate= 405.1kbits/s dup=812 drop=0 speed= 1.5x elapsed=0:00:10.34    frame=  500 fps= 46 q=29.0 size=     768KiB time=00:00:16.60 bitrate= 379.0kbits/s dup=841 drop=0 speed=1.52x elapsed=0:00:10.89    frame=  532 fps= 46 q=29.0 size=    1280KiB time=00:00:17.74 bitrate= 590.8kbits/s dup=870 drop=0 speed=1.54x elapsed=0:00:11.53    frame=  566 fps= 46 q=29.0 size=    1280KiB time=00:00:18.80 bitrate= 557.8kbits/s dup=899 drop=0 speed=1.54x elapsed=0:00:12.18    frame=  602 fps= 47 q=29.0 size=    1280KiB time=00:00:20.00 bitrate= 524.3kbits/s dup=957 drop=0 speed=1.56x elapsed=0:00:12.83    frame=  632 fps= 47 q=29.0 size=    1280KiB time=00:00:21.00 bitrate= 499.3kbits/s dup=986 drop=0 speed=1.57x elapsed=0:00:13.37    frame=  658 fps= 47 q=29.0 size=    1280KiB time=N/A bitrate=N/A dup=986 drop=0 speed=N/A elapsed=0:00:13.89    frame=  692 fps= 48 q=29.0 size=    1280KiB time=N/A bitrate=N/A dup=986 drop=0 speed=N/A elapsed=0:00:14.39    [out#0/mp4 @ 0x7fa7b970a700] video:1283KiB audio:234KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 1.265247%
+frame=  720 fps= 49 q=-1.0 Lsize=    1536KiB time=00:00:23.93 bitrate= 525.9kbits/s dup=986 drop=0 speed=1.62x elapsed=0:00:14.75    
+[libx264 @ 0x7fa7b970e4c0] frame I:3     Avg QP:18.02  size:412271
+[libx264 @ 0x7fa7b970e4c0] frame P:181   Avg QP:18.05  size:   206
+[libx264 @ 0x7fa7b970e4c0] frame B:536   Avg QP:30.33  size:    73
+[libx264 @ 0x7fa7b970e4c0] consecutive B-frames:  0.7%  0.0%  0.4% 98.9%
+[libx264 @ 0x7fa7b970e4c0] mb I  I16..4:  1.2% 64.9% 33.9%
+[libx264 @ 0x7fa7b970e4c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.8%  0.0%  0.0%  0.0%  0.0%    skip:99.1%
+[libx264 @ 0x7fa7b970e4c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.1%  0.0%  0.0%  direct: 0.0%  skip:99.9%  L0:22.2% L1:77.8% BI: 0.0%
+[libx264 @ 0x7fa7b970e4c0] 8x8 transform intra:64.9% inter:85.8%
+[libx264 @ 0x7fa7b970e4c0] coded y,uvDC,uvAC intra: 97.8% 95.5% 81.8% inter: 0.0% 0.2% 0.0%
+[libx264 @ 0x7fa7b970e4c0] i16 v,h,dc,p: 20% 37%  3% 40%
+[libx264 @ 0x7fa7b970e4c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 23%  9%  6% 10%  7% 12%  7% 14%
+[libx264 @ 0x7fa7b970e4c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 22%  6%  6% 10%  8% 11%  7% 10%
+[libx264 @ 0x7fa7b970e4c0] i8c dc,h,v,p: 40% 32% 17% 11%
+[libx264 @ 0x7fa7b970e4c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x7fa7b970e4c0] ref P L0: 92.7%  0.1%  6.6%  0.6%
+[libx264 @ 0x7fa7b970e4c0] ref B L0: 61.7% 38.3%
+[libx264 @ 0x7fa7b970e4c0] ref B L1: 94.6%  5.4%
+[libx264 @ 0x7fa7b970e4c0] kb/s:437.81
+[aac @ 0x7fa7b970fac0] Qavg: 65161.281
+Traceback (most recent call last):
+  File "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_pilot_daemon.py", line 83, in <module>
+    run_slot_pipeline(target_slot)
+  File "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/auto_pilot_daemon.py", line 69, in run_slot_pipeline
+    db["published_videos"].append(record)
+TypeError: list indices must be integers or slices, not str

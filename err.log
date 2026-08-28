@@ -1,0 +1,273 @@
+[2026-08-26 22:34:13] ✅ ============================================================
+[2026-08-26 22:34:13] ✅ Auto Create Daily Videos — @1995lido — 2026-08-26 22:34:13
+[2026-08-26 22:34:13] ✅ ============================================================
+[2026-08-26 22:34:13] ✅ === Bắt đầu tạo 5 video cho ngày 2026-08-31 ===
+[2026-08-26 22:34:13] ✅ 
+[1/5] 🌅 Sáng 8h — nikaya — Kinh Nikaya: Luật Nhân Quả (KAMA) - Bạn Là Chủ Nhân Số 
+[2026-08-26 22:34:13] 🔵 BUILD: Kinh Nikaya: Luật Nhân Quả (KAMA) - Bạn Là Chủ Nhân Số Phận 
+[2026-08-26 22:34:14] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-26 22:34:14] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-26 22:34:15] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-26 22:34:16] ✅   Step 4: FFmpeg encode (18.9s)
+[2026-08-26 22:34:16] ❌   ❌ Lỗi tạo video slot 08:00: FFmpeg encode lỗi: ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+Input #0, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_08836eca_tc.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 37940 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 500x884 [SAR 1:1 DAR 125:221], 25 fps, 25 tbr, 25 tbn
+Input #1, png_pipe, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_Zen1.jpg':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 506x900 [SAR 5669:5669 DAR 253:450], 25 fps, 25 tbr, 25 tbn
+Input #2, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_animation_style.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 94373 kb/s
+  Stream #2:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+[aist#3:0/pcm_s16le @ 0x7f9384404700] Guessed Channel Layout: mono
+Input #3, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_08836eca_m.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:18.94, bitrate: 384 kb/s
+  Stream #3:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (png) -> scale:default
+  Stream #2:0 (mjpeg) -> scale:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+  Stream #3:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0x7f93844096c0] Too many bits 8192.000000 > 6144 per frame requested, clamping to max
+[Parsed_concat_12 @ 0x7f9384011540] Input link in0:v0 parameters (size 1080x1920, SAR 486013:486000) do not match the corresponding output link in0:v0 parameters (1080x1920, SAR 40000:40001)
+[Parsed_concat_12 @ 0x7f9384011540] Failed to configure output pad on Parsed_concat_12
+[fc#0 @ 0x7f9383808200] Error reinitializing filters!
+[fc#0 @ 0x7f9383808200] Task finished with error code: -22 (Invalid argument)
+[fc#0 @ 0x7f9383808200] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7f9384407840] [enc:libx264 @ 0x7f9384407fc0] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0x7f9384407840] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7f9384407840] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0x7f9384404580] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=00:00:00.98 bitrate=   0.0kbits/s speed=9.68x elapsed=0:00:00.10    
+[aac @ 0x7f93844096c0] Qavg: 57263.293
+Conversion failed!
+
+[2026-08-26 22:34:17] ✅ 
+[2/5] ☀️ Trưa 11h — deep_work — Kỹ Thuật Time Boxing Nâng Cao — Làm Chủ 1 Ngày Không Xa
+[2026-08-26 22:34:17] 🔵 BUILD: Kỹ Thuật Time Boxing Nâng Cao — Làm Chủ 1 Ngày Không Xao Nhã
+[2026-08-26 22:34:17] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-26 22:34:17] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-26 22:34:18] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-26 22:34:18] ✅   Step 4: FFmpeg encode (14.2s)
+[2026-08-26 22:34:19] ❌   ❌ Lỗi tạo video slot 11:00: FFmpeg encode lỗi: ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+Input #0, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_d8a67a46_tc.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 89643 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+Input #1, png_pipe, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_Zen1.jpg':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 506x900 [SAR 5669:5669 DAR 253:450], 25 fps, 25 tbr, 25 tbn
+Input #2, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_animation_style.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 94373 kb/s
+  Stream #2:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+[aist#3:0/pcm_s16le @ 0x7fa60f106140] Guessed Channel Layout: mono
+Input #3, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_d8a67a46_m.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:14.23, bitrate: 384 kb/s
+  Stream #3:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (png) -> scale:default
+  Stream #2:0 (mjpeg) -> scale:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+  Stream #3:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0x7fa60e709f40] Too many bits 8192.000000 > 6144 per frame requested, clamping to max
+[Parsed_concat_12 @ 0x7fa61160cc00] Input link in0:v0 parameters (size 1080x1920, SAR 486013:486000) do not match the corresponding output link in0:v0 parameters (1080x1920, SAR 1:1)
+[Parsed_concat_12 @ 0x7fa61160cc00] Failed to configure output pad on Parsed_concat_12
+[fc#0 @ 0x7fa610008600] Error reinitializing filters!
+[fc#0 @ 0x7fa610008600] Task finished with error code: -22 (Invalid argument)
+[fc#0 @ 0x7fa610008600] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7fa60f108fc0] [enc:libx264 @ 0x7fa60f109640] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0x7fa60f108fc0] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7fa60f108fc0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0x7fa60f105d80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=00:00:00.98 bitrate=   0.0kbits/s speed=8.44x elapsed=0:00:00.11    
+[aac @ 0x7fa60e709f40] Qavg: 55365.074
+Conversion failed!
+
+[2026-08-26 22:34:20] ✅ 
+[3/5] 🌆 Chiều 18h — healing — Cách Thoát Khỏi Vòng Lặp Overthinking Mỗi Đêm
+[2026-08-26 22:34:20] 🔵 BUILD: Cách Thoát Khỏi Vòng Lặp Overthinking Mỗi Đêm
+[2026-08-26 22:34:20] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-26 22:34:20] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-26 22:34:21] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-26 22:34:21] ✅   Step 4: FFmpeg encode (11.9s)
+[2026-08-26 22:34:22] ❌   ❌ Lỗi tạo video slot 18:00: FFmpeg encode lỗi: ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+Input #0, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_708d5529_tc.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 88202 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+Input #1, png_pipe, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_Zen1.jpg':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 506x900 [SAR 5669:5669 DAR 253:450], 25 fps, 25 tbr, 25 tbn
+Input #2, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_healing_noon.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 92621 kb/s
+  Stream #2:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+[aist#3:0/pcm_s16le @ 0x7fd266405f80] Guessed Channel Layout: mono
+Input #3, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_708d5529_m.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:11.95, bitrate: 384 kb/s
+  Stream #3:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (png) -> scale:default
+  Stream #2:0 (mjpeg) -> scale:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+  Stream #3:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0x7fd263506400] Too many bits 8192.000000 > 6144 per frame requested, clamping to max
+[Parsed_concat_12 @ 0x7fd263609a80] Input link in0:v0 parameters (size 1080x1920, SAR 486013:486000) do not match the corresponding output link in0:v0 parameters (1080x1920, SAR 1:1)
+[Parsed_concat_12 @ 0x7fd263609a80] Failed to configure output pad on Parsed_concat_12
+[fc#0 @ 0x7fd264008a00] Error reinitializing filters!
+[fc#0 @ 0x7fd264008a00] Task finished with error code: -22 (Invalid argument)
+[fc#0 @ 0x7fd264008a00] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7fd269d070c0] [enc:libx264 @ 0x7fd269d05bc0] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0x7fd269d070c0] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7fd269d070c0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0x7fd269d06700] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=00:00:00.98 bitrate=   0.0kbits/s speed=8.26x elapsed=0:00:00.11    
+[aac @ 0x7fd263506400] Qavg: 65536.000
+Conversion failed!
+
+[2026-08-26 22:34:23] ✅ 
+[4/5] 🌙 Tối 20h — discipline — Atomic Habits — Thay Đổi 1% Mỗi Ngày Để Tạo Bước Nhảy V
+[2026-08-26 22:34:23] 🔵 BUILD: Atomic Habits — Thay Đổi 1% Mỗi Ngày Để Tạo Bước Nhảy Vọt
+[2026-08-26 22:34:23] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-26 22:34:23] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-26 22:34:24] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-26 22:34:24] ✅   Step 4: FFmpeg encode (13.1s)
+[2026-08-26 22:34:25] ❌   ❌ Lỗi tạo video slot 20:00: FFmpeg encode lỗi: ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+Input #0, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_1ed21b2e_tc.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 88194 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+Input #1, png_pipe, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_Zen1.jpg':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 506x900 [SAR 5669:5669 DAR 253:450], 25 fps, 25 tbr, 25 tbn
+Input #2, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_animation_style.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 94373 kb/s
+  Stream #2:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+[aist#3:0/pcm_s16le @ 0x7faea7d06d80] Guessed Channel Layout: mono
+Input #3, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_1ed21b2e_m.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:13.08, bitrate: 384 kb/s
+  Stream #3:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (png) -> scale:default
+  Stream #2:0 (mjpeg) -> scale:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+  Stream #3:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0x7faea7d09380] Too many bits 8192.000000 > 6144 per frame requested, clamping to max
+[Parsed_concat_12 @ 0x7faea61131c0] Input link in0:v0 parameters (size 1080x1920, SAR 486013:486000) do not match the corresponding output link in0:v0 parameters (1080x1920, SAR 1:1)
+[Parsed_concat_12 @ 0x7faea61131c0] Failed to configure output pad on Parsed_concat_12
+[fc#0 @ 0x7faea500d800] Error reinitializing filters!
+[fc#0 @ 0x7faea500d800] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7faea7d07700] [enc:libx264 @ 0x7faea7d07c80] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0x7faea7d07700] Task finished with error code: -22 (Invalid argument)
+[fc#0 @ 0x7faea500d800] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7faea7d07700] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0x7faea7d06c00] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=00:00:00.98 bitrate=   0.0kbits/s speed=9.61x elapsed=0:00:00.10    
+[aac @ 0x7faea7d09380] Qavg: 57368.973
+Conversion failed!
+
+[2026-08-26 22:34:26] ✅ 
+[5/5] ⭐ Đêm 21h30 — life_skills — First Impression — 7 Giây Đầu Quyết Định Mọi Thứ
+[2026-08-26 22:34:26] 🔵 BUILD: First Impression — 7 Giây Đầu Quyết Định Mọi Thứ
+[2026-08-26 22:34:26] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-26 22:34:26] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-26 22:34:27] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-26 22:34:27] ✅   Step 4: FFmpeg encode (12.8s)
+[2026-08-26 22:34:27] ❌   ❌ Lỗi tạo video slot 21:30: FFmpeg encode lỗi: ffmpeg version 9.0-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.4.2)
+  configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libharfbuzz --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+  libavutil      61.  1.100 / 61.  1.100
+  libavcodec     63.  1.100 / 63.  1.100
+  libavformat    63.  1.100 / 63.  1.100
+  libavdevice    63.  1.100 / 63.  1.100
+  libavfilter    12.  1.100 / 12.  1.100
+  libswscale     10.  1.100 / 10.  1.100
+  libswresample   7.  1.100 /  7.  1.100
+Input #0, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_74f4e588_tc.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 38592 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 506x882 [SAR 1:1 DAR 253:441], 25 fps, 25 tbr, 25 tbn
+Input #1, png_pipe, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_Zen1.jpg':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 506x900 [SAR 5669:5669 DAR 253:450], 25 fps, 25 tbr, 25 tbn
+Input #2, image2, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_backgrounds/bg_animation_style.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 94373 kb/s
+  Stream #2:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 768x1376 [SAR 1:1 DAR 24:43], 25 fps, 25 tbr, 25 tbn
+[aist#3:0/pcm_s16le @ 0x7f964eb06d80] Guessed Channel Layout: mono
+Input #3, wav, from '/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/studio_tmp/tmp_74f4e588_m.wav':
+  Metadata:
+    encoder         : Lavf63.1.100
+  Duration: 00:00:12.84, bitrate: 384 kb/s
+  Stream #3:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (png) -> scale:default
+  Stream #2:0 (mjpeg) -> scale:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+  Stream #3:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0x7f964eb09480] Too many bits 8192.000000 > 6144 per frame requested, clamping to max
+[Parsed_concat_12 @ 0x7f964d90dc00] Input link in0:v0 parameters (size 1080x1920, SAR 486013:486000) do not match the corresponding output link in0:v0 parameters (1080x1920, SAR 161920:161847)
+[Parsed_concat_12 @ 0x7f964d90dc00] Failed to configure output pad on Parsed_concat_12
+[fc#0 @ 0x7f964b80a000] Error reinitializing filters!
+[fc#0 @ 0x7f964b80a000] Task finished with error code: -22 (Invalid argument)
+[fc#0 @ 0x7f964b80a000] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7f964eb07780] [enc:libx264 @ 0x7f964eb07e80] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0x7f964eb07780] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0x7f964eb07780] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0x7f964eb06c00] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=00:00:00.98 bitrate=   0.0kbits/s speed=9.83x elapsed=0:00:00.09    
+[aac @ 0x7f964eb09480] Qavg: 55383.875
+Conversion failed!
+
+[2026-08-26 22:34:28] ✅ 
+=== Ngày 2026-08-31: Tạo 0/5 video thành công ===
+[2026-08-26 22:34:28] ✅   📂 Xem video tại: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual
+[2026-08-26 22:34:28] ✅   🌐 Review tại: http://localhost:8098

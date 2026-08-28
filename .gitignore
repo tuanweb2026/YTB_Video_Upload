@@ -1,0 +1,39 @@
+# Exclude credentials and tokens
+token.json
+client_secret.json
+client_secrets.json
+*.json.lock
+
+# Exclude media files (MP4, MP3, WAV, images)
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+output_queue/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv
+.env
+
+studio_music/
+extracted_voice.mp3
+*.avi
+*.mov
+*.zip
+*.tar.gz

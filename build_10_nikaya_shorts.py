@@ -1,0 +1,129 @@
+#!/usr/bin/env python3
+"""
+Nikaya Kinh 10-Post Shorts Generator & Pre-renderer for @1995lido (Thảo Dương TV)
+- Video duration: ~30 seconds long.
+- Script features warm Southern Neural AI voiceover (vi-VN-HoaiMyNeural).
+- Ends with channel subscription call-to-action slogan.
+- Dynamic unique Title Card image printed on every background scene!
+"""
+
+import os
+import sys
+import json
+import ssl
+from video_builder import build_video_for_content
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
+SCRATCH_DIR = "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management"
+NIKAYA_JSON = f"{SCRATCH_DIR}/nikaya_10_shorts.json"
+
+# 10 High-impact ~30s Nikaya Kinh scripts with ending call-to-action
+NIKAYA_10_POSTS = [
+    {
+        "index": 1,
+        "source_title": "Con Đường Giáo Dục Tự Học & Bình An Từ Lối Sống Biết Đủ",
+        "title": "Lối Sống Biết Đủ (SANTUTTHI): Mở Khóa Bình An Cho Gia Đình #Shorts #NikayaKinh",
+        "hook": "Thương con không phải là cho con trường đắt nhất, mà là dạy con sự biết đủ...",
+        "script": "Dạ chào bạn nhen! Trong Kinh Nikaya, Đức Phật dạy về triết lý SANTUTTHI, nghĩa là sự 'Biết Đủ'. Giữa thời đại chạy đua bằng cấp và áp lực tài chính đắt đỏ, việc lựa chọn một lối sống biết đủ và rèn luyện năng lực tự học chính là chìa khóa mở ra bình an thực sự cho cả gia đình. Tối giản vật chất nhưng tối đa hóa nội lực cho con trẻ nhen! Nếu thấy bài học này hữu ích, bấm Đăng Ký Kênh Thảo Dương TV để lắng nghe mỗi ngày nhen!",
+        "category": "Triết Lý Nikaya - Lối Sống Biết Đủ",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "BiếtĐủ", "GiáoDụcTựHọc", "Shorts"]
+    },
+    {
+        "index": 2,
+        "source_title": "Lời Phật Dạy Về Sự Nhẫn Nại & Tự Chủ Cảm Xúc",
+        "title": "Sức Mạnh Của Nhẫn Nại (KHANTI): Thắng Được Cơn Giận Là Thắng Tất Cả #Shorts #NikayaKinh",
+        "hook": "Khi bị xúc phạm, người bản lĩnh chọn im lặng lắng nghe hay đáp trả?...",
+        "script": "Dạ chào bạn nhen! Trong Kinh Tương Ưng, Đức Phật dạy nhẫn nại KHANTI là pháp tu cao nhất. Người biết kiềm chế cơn giận dữ cũng giống như người tài xế dũng cảm làm chủ chiếc xe đang lao dốc. Nhẫn nại không phải là yếu đuối hay chịu đựng vô ích, mà là đỉnh cao của bản lĩnh và trí tuệ nội tại nhen! Hãy bấm Đăng Ký Kênh Thảo Dương TV để cùng rèn luyện tâm trí mỗi ngày nhen!",
+        "category": "Triết Lý Nikaya - Nhẫn Nại & Tự Chủ",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "NhẫnNại", "LàmChủCảmXúc", "Shorts"]
+    },
+    {
+        "index": 3,
+        "source_title": "Kinh Trung Bộ - Bài Học Về Chánh Niệm Trong Từng Hơi Thở",
+        "title": "Chánh Niệm Hơi Thở (ANAPANASATI): Trở Về Với Hiện Tại Ngay Lúc Này #Shorts #NikayaKinh",
+        "hook": "Đừng sống trong quá khứ lo âu hay tương lai bất an. Quá khứ đã qua, tương lai chưa tới...",
+        "script": "Chào bạn nhen! Đức Phật dạy trong Kinh Trung Bộ: Quá khứ đã trôi qua, tương lai thì chưa tới, chỉ có phút giây hiện tại là điểm tựa duy nhất có thật. Ngay lúc này, hãy dành 10 giây thả lỏng bờ vai, hít một hơi thật sâu, nhận biết mình đang sống và mỉm cười thanh thản nhen! Bấm Đăng Ký Kênh Thảo Dương TV để nhận năng lượng bình an mỗi ngày nhen!",
+        "category": "Triết Lý Nikaya - Chánh Niệm Hơi Thở",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "ChánhNiệm", "HơiThởHiệnTại", "Shorts"]
+    },
+    {
+        "index": 4,
+        "source_title": "Bài Học Về Nhân Quả & Nghiệp Tự Làm Tự Chịu",
+        "title": "Luật Nhân Quả (KAMA): Bạn Là Chủ Nhân Của Chính Số Phận Mình #Shorts #NikayaKinh",
+        "hook": "Không ai có thể cứu rỗi bạn ngoài chính suy nghĩ và hành động của bạn...",
+        "script": "Dạ chào bạn nhen! Kinh Tăng Chi Bố khẳng định: Con người là chủ nhân của nghiệp, là thừa tự của chính hành động mình tạo ra. Gieo suy nghĩ thiện lành, gieo lời nói chân thật thì trái ngọt bình an tự tìm đến. Bạn chính là người kiến tạo nên số phận mình nhen! Nhấn Đăng Ký Kênh Thảo Dương TV để học hỏi triết lý chánh kiến mỗi ngày nhen!",
+        "category": "Triết Lý Nikaya - Luật Nhân Quả",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "NhânQuả", "TuTâmTíchĐức", "Shorts"]
+    },
+    {
+        "index": 5,
+        "source_title": "Tâm Từ Bi & Nghệ Thuật Tha Thứ",
+        "title": "Tâm Từ Vô Lượng (METTA): Hóa Giải Mọi Thù Hận Bằng Tình Thương #Shorts #NikayaKinh",
+        "hook": "Hận thù không thể dập tắt bằng hận thù, chỉ có tình thương mới xóa tan oán hận...",
+        "script": "Chào buổi sáng nhen! Trong Kinh Tiểu Bộ, Đức Phật dạy tâm từ METTA giống như người mẹ hy sinh bảo vệ đứa con duy nhất của mình. Khi bạn mở lòng tha thứ cho lỗi lầm người khác, người đầu tiên giải thoát khỏi chiếc cùm u mờ tâm trí chính là bản thân bạn nhen! Hãy bấm Đăng Ký Kênh Thảo Dương TV để lan tỏa tình yêu thương nhen!",
+        "category": "Triết Lý Nikaya - Tâm Từ Chữa Lành",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "TâmTừBi", "ThaThứ", "Shorts"]
+    },
+    {
+        "index": 6,
+        "source_title": "Sự Thật Về Vô Thường & Buông Bỏ Áp Lực Dính Mắc",
+        "title": "Định Luật Vô Thường (ANICCA): Mọi Mệt Mỏi Rồi Cũng Sẽ Qua Đi #Shorts #NikayaKinh",
+        "hook": "Cõi đời này không có gì là vĩnh cửu. Niềm vui hay nỗi buồn rồi cũng biến chuyển...",
+        "script": "Dạ chào bạn nhen! Mỗi khi gặp điều không như ý hay vướng vào nỗi đau, hãy tự thì thầm với mình câu này: 'Điều này rồi cũng sẽ qua'. Nhìn thấu bản chất vô thường ANICCA giúp ta buông bỏ mọi áp lực dính mắc và tìm lại sự tự do thanh thản nhen! Bấm Đăng Ký Kênh Thảo Dương TV để lắng nghe những góc nhìn chánh kiến nhen!",
+        "category": "Triết Lý Nikaya - Vô Thường & Buông Bỏ",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "VôThường", "BuôngBỏ", "Shorts"]
+    },
+    {
+        "index": 7,
+        "source_title": "Học Cách Bình Tản Trước Lời Khen Chê Dịch Lý",
+        "title": "8 Ngọn Gió Đời (BAT THET PHAP): Bình Thản Trước Khen Chê Bát Phong #Shorts #NikayaKinh",
+        "hook": "Khen chê, được mất, vinh đùa, ngợi ca... Đừng để ngọn gió đời làm nghiêng ngả bạn...",
+        "script": "Chào bạn nhen! Kinh Nikaya dạy về 8 ngọn gió đời: Được - Mất, Khen - Chê, Vinh - Nhục, Sướng - Khổ. Tâm người có trí tuệ như ngọn núi đá ngàn năm đứng vững trước dông bão, không dính mắc hay lay chuyển trước tiếng khen chê của thế gian nhen! Bấm Đăng Ký Kênh Thảo Dương TV để rèn luyện bản lĩnh nội tại nhen!",
+        "category": "Triết Lý Nikaya - Bản Lĩnh Nội Tại",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "BátPhongBấtĐộng", "BảnLĩnh", "Shorts"]
+    },
+    {
+        "index": 8,
+        "source_title": "Nghệ Thuật Lắng Nghe & Lời Nói Ôn Hòa Chánh Ngữ",
+        "title": "Chánh Ngữ (SAMMA VACA): Lời Nói Nhẹ Nhàng Xoa Dịu Mọi Tổn Thương #Shorts #NikayaKinh",
+        "hook": "Lưỡi không xương nhưng có thể bẻ gãy một trái tim. Hãy cẩn trọng lời nói...",
+        "script": "Dạ chào bạn nhen! Đức Phật dạy Chánh Ngữ SAMMA VACA là chỉ nói những lời chân thật, ôn hòa, mang lại sự gắn kết và xoa dịu tổn thương. Trước khi cất lời, hãy tự hỏi: Lời này có đúng sự thật không? Có lợi ích không? Có đúng thời điểm không nhen! Đừng quên bấm Đăng Ký Kênh Thảo Dương TV để đón xem video mới nhen!",
+        "category": "Triết Lý Nikaya - Chánh Ngữ Chữa Lành",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "ChánhNgữ", "LờiNóiChữaLành", "Shorts"]
+    },
+    {
+        "index": 9,
+        "source_title": "Tự Mình Là Ngọn Đèn Cho Chính Mình",
+        "title": "Tự Mình Là Hải Đăng (ATTADIPA): Nương Tựa Vào Nội Lực Bản Thân #Shorts #NikayaKinh",
+        "hook": "Hãy tự mình là ngọn đèn cho chính mình, chớ nương tựa vào một ai khác...",
+        "script": "Chào bạn nhen! Lời dặn dò quý báu cuối cùng của Đức Phật trong Kinh Trường Bộ: Hãy tự mình là ngọn đèn cho chính mình, lấy Chánh Pháp làm chỗ nương tựa vững chắc. Khi bạn quay về nuôi dưỡng nguồn nội lực bên trong, bạn sẽ không bao giờ cảm thấy chới với nhen! Hãy nhấn Đăng Ký Kênh Thảo Dương TV để tiếp thêm sức mạnh mỗi ngày nhen!",
+        "category": "Triết Lý Nikaya - Nâng Cao Nội Lực",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "NộiLực", "TựCường", "Shorts"]
+    },
+    {
+        "index": 10,
+        "source_title": "Sự Tĩnh Lặng Trí Tuệ Buổi Tối & Thiền Tịnh",
+        "title": "[Nhạc Thiền] Sự Tĩnh Lặng Nội Tại Từ Lời Kinh Nikaya #Shorts #ThaoDuongTV",
+        "hook": "Sau những ồn ào vội vã, hãy trả tâm trí về với sự tĩnh lặng nguyên sơ...",
+        "script": "Chào buổi tối bình yên nhen... Đeo tai nghe vào, thả lỏng toàn bộ cơ thể và cùng Thảo Dương đắm mình trong dải âm thanh thiền định 432Hz giúp xoa dịu căng thẳng và ru ngủ sâu giấc nhen! Chúc bạn có một giấc ngủ an lành trong Chánh Niệm. Đừng quên bấm Đăng Ký Kênh Thảo Dương TV để thư giãn mỗi đêm nhen!",
+        "category": "Triết Lý Nikaya - Nhạc Thiền Tĩnh Tâm",
+        "tags": ["NikayaKinh", "ThảoDươngTV", "NhạcThiền432Hz", "RuNgủAnLành", "Shorts"]
+    }
+]
+
+def render_10_nikaya_videos():
+    print("🎬 Rendering 10 Expanded ~30s Nikaya Shorts with Dynamic Title Overlays & End Call-to-Action...")
+    
+    with open(NIKAYA_JSON, "w", encoding="utf-8") as f:
+        json.dump(NIKAYA_10_POSTS, f, ensure_ascii=False, indent=2)
+        
+    for p in NIKAYA_10_POSTS:
+        filename = f"shorts_nikaya_{p['index']}.mp4"
+        print(f"[{p['index']}/10] Rendering: {p['title']}...")
+        build_video_for_content(p, filename)
+        
+    print("🎉 ALL 10 NIKAYA SHORTS VIDEOS PRE-RENDERED SUCCESSFULLY!")
+
+if __name__ == "__main__":
+    render_10_nikaya_videos()

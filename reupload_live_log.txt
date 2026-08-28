@@ -1,0 +1,708 @@
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130405_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4[0m [33m0.7MB[0m
+      📝 [90mCách Xây Dựng Buổi Sáng 30 Phút Thay Đổi #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130405_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4[0m
+  📝 Tiêu đề: [1mCách Xây Dựng Buổi Sáng 30 Phút Thay Đổi #Shorts[0m
+  📦 Size   : [33m0.7 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.7 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.3 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mwDml4sE_ogA[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=wDml4sE_ogA[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130405_Cách_Xây_Dựng_Buổi_
+     🔗 [32mhttps://www.youtube.com/watch?v=wDml4sE_ogA[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130412_First_Impression___7_Giây_Đầu_Quyết_Định.mp4[0m [33m0.9MB[0m
+      📝 [90mFirst Impression 7 Giây Đầu Quyết Định #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130412_First_Impression___7_Giây_Đầu_Quyết_Định.mp4[0m
+  📝 Tiêu đề: [1mFirst Impression 7 Giây Đầu Quyết Định #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.5 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mkVXwbKDiCH0[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=kVXwbKDiCH0[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130412_First_Impression___
+     🔗 [32mhttps://www.youtube.com/watch?v=kVXwbKDiCH0[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130429_Kinh_Nikaya__Quán_Thân_Trên_Thân__KAYANU.mp4[0m [33m1.0MB[0m
+      📝 [90mKinh Nikaya Quán Thân Trên Thân Kayanu #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130429_Kinh_Nikaya__Quán_Thân_Trên_Thân__KAYANU.mp4[0m
+  📝 Tiêu đề: [1mKinh Nikaya Quán Thân Trên Thân Kayanu #Shorts[0m
+  📦 Size   : [33m1.0 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.0 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.3 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mU2TBFllqa34[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=U2TBFllqa34[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130429_Kinh_Nikaya__Quán_T
+     🔗 [32mhttps://www.youtube.com/watch?v=U2TBFllqa34[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130450_Tại_Sao_Người_Thành_Công_Thức_Dậy_Sớm_Hơ.mp4[0m [33m0.9MB[0m
+      📝 [90mTại Sao Người Thành Công Thức Dậy Sớm Hơ #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130450_Tại_Sao_Người_Thành_Công_Thức_Dậy_Sớm_Hơ.mp4[0m
+  📝 Tiêu đề: [1mTại Sao Người Thành Công Thức Dậy Sớm Hơ #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.3 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mavEH3gknWMU[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=avEH3gknWMU[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130450_Tại_Sao_Người_Thành
+     🔗 [32mhttps://www.youtube.com/watch?v=avEH3gknWMU[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130457_Khi_Sự_Nhiệt_Huyết_Biến_Mất___Vượt_Qua_T.mp4[0m [33m0.9MB[0m
+      📝 [90mKhi Sự Nhiệt Huyết Biến Mất Vượt Qua T #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130457_Khi_Sự_Nhiệt_Huyết_Biến_Mất___Vượt_Qua_T.mp4[0m
+  📝 Tiêu đề: [1mKhi Sự Nhiệt Huyết Biến Mất Vượt Qua T #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.3 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32maBpsnIuLO6c[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=aBpsnIuLO6c[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130457_Khi_Sự_Nhiệt_Huyết_
+     🔗 [32mhttps://www.youtube.com/watch?v=aBpsnIuLO6c[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130511_Nghệ_Thuật_Lắng_Nghe_Chủ_Động___Kỹ_Năng_.mp4[0m [33m0.7MB[0m
+      📝 [90mNghệ Thuật Lắng Nghe Chủ Động Kỹ Năng #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130511_Nghệ_Thuật_Lắng_Nghe_Chủ_Động___Kỹ_Năng_.mp4[0m
+  📝 Tiêu đề: [1mNghệ Thuật Lắng Nghe Chủ Động Kỹ Năng #Shorts[0m
+  📦 Size   : [33m0.7 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.7 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.1 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mveBBoQLK21s[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=veBBoQLK21s[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130511_Nghệ_Thuật_Lắng_Ngh
+     🔗 [32mhttps://www.youtube.com/watch?v=veBBoQLK21s[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130536_Kỹ_Thuật_Time_Boxing_Nâng_Cao___Làm_Chủ_.mp4[0m [33m1.2MB[0m
+      📝 [90mKỹ Thuật Time Boxing Nâng Cao Làm Chủ #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130536_Kỹ_Thuật_Time_Boxing_Nâng_Cao___Làm_Chủ_.mp4[0m
+  📝 Tiêu đề: [1mKỹ Thuật Time Boxing Nâng Cao Làm Chủ #Shorts[0m
+  📦 Size   : [33m1.2 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.2 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.5 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32myVKEtKn8xzo[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=yVKEtKn8xzo[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130536_Kỹ_Thuật_Time_Boxin
+     🔗 [32mhttps://www.youtube.com/watch?v=yVKEtKn8xzo[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130543_Nghệ_Thuật_Buông_Bỏ_Kỳ_Vọng___Giải_Tỏa_Á.mp4[0m [33m0.6MB[0m
+      📝 [90mNghệ Thuật Buông Bỏ Kỳ Vọng Giải Tỏa Á #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130543_Nghệ_Thuật_Buông_Bỏ_Kỳ_Vọng___Giải_Tỏa_Á.mp4[0m
+  📝 Tiêu đề: [1mNghệ Thuật Buông Bỏ Kỳ Vọng Giải Tỏa Á #Shorts[0m
+  📦 Size   : [33m0.6 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.6 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32m_8_cZaLCNFQ[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=_8_cZaLCNFQ[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130543_Nghệ_Thuật_Buông_Bỏ
+     🔗 [32mhttps://www.youtube.com/watch?v=_8_cZaLCNFQ[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130550_Habit_Stacking___Ghép_Thói_Quen_Mới_Vào_.mp4[0m [33m0.9MB[0m
+      📝 [90mHabit Stacking Ghép Thói Quen Mới Vào #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130550_Habit_Stacking___Ghép_Thói_Quen_Mới_Vào_.mp4[0m
+  📝 Tiêu đề: [1mHabit Stacking Ghép Thói Quen Mới Vào #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.5 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mzELBz9OQUSg[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=zELBz9OQUSg[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130550_Habit_Stacking___Gh
+     🔗 [32mhttps://www.youtube.com/watch?v=zELBz9OQUSg[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130557_Nghệ_Thuật_Lắng_Nghe_Chủ_Động___Kỹ_Năng_.mp4[0m [33m0.9MB[0m
+      📝 [90mNghệ Thuật Lắng Nghe Chủ Động Kỹ Năng #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130557_Nghệ_Thuật_Lắng_Nghe_Chủ_Động___Kỹ_Năng_.mp4[0m
+  📝 Tiêu đề: [1mNghệ Thuật Lắng Nghe Chủ Động Kỹ Năng #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32m3RmAZaz0MHo[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=3RmAZaz0MHo[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130557_Nghệ_Thuật_Lắng_Ngh
+     🔗 [32mhttps://www.youtube.com/watch?v=3RmAZaz0MHo[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130613_Kinh_Nikaya__Bí_Quyết_Vượt_Qua_Nỗi_Sợ_Th.mp4[0m [33m1.4MB[0m
+      📝 [90mKinh Nikaya Bí Quyết Vượt Qua Nỗi Sợ Th #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130613_Kinh_Nikaya__Bí_Quyết_Vượt_Qua_Nỗi_Sợ_Th.mp4[0m
+  📝 Tiêu đề: [1mKinh Nikaya Bí Quyết Vượt Qua Nỗi Sợ Th #Shorts[0m
+  📦 Size   : [33m1.4 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.4 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.4 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32m8tZEanIgf3E[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=8tZEanIgf3E[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130613_Kinh_Nikaya__Bí_Quy
+     🔗 [32mhttps://www.youtube.com/watch?v=8tZEanIgf3E[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130350_Phương_Pháp_Deep_Work_Của_Cal_Newport___.mp4[0m [33m0.9MB[0m
+      📝 [90mPhương Pháp Deep Work Của Cal Newport #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130350_Phương_Pháp_Deep_Work_Của_Cal_Newport___.mp4[0m
+  📝 Tiêu đề: [1mPhương Pháp Deep Work Của Cal Newport #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.4 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mf8CwPaMSJgM[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=f8CwPaMSJgM[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130350_Phương_Pháp_Deep_Wo
+     🔗 [32mhttps://www.youtube.com/watch?v=f8CwPaMSJgM[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130357_5_Dấu_Hiệu_Bạn_Đang_Burnout___Nhận_Ra_Tr.mp4[0m [33m0.9MB[0m
+      📝 [90m5 Dấu Hiệu Bạn Đang Burnout Nhận Ra Tr #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130357_5_Dấu_Hiệu_Bạn_Đang_Burnout___Nhận_Ra_Tr.mp4[0m
+  📝 Tiêu đề: [1m5 Dấu Hiệu Bạn Đang Burnout Nhận Ra Tr #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mJ_b0irbRYx0[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=J_b0irbRYx0[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130357_5_Dấu_Hiệu_Bạn_Đang
+     🔗 [32mhttps://www.youtube.com/watch?v=J_b0irbRYx0[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130405_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4[0m [33m0.7MB[0m
+      📝 [90mCách Xây Dựng Buổi Sáng 30 Phút Thay Đổi #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130405_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4[0m
+  📝 Tiêu đề: [1mCách Xây Dựng Buổi Sáng 30 Phút Thay Đổi #Shorts[0m
+  📦 Size   : [33m0.7 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.7 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mXiq7aYuu6hQ[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=Xiq7aYuu6hQ[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130405_Cách_Xây_Dựng_Buổi_
+     🔗 [32mhttps://www.youtube.com/watch?v=Xiq7aYuu6hQ[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130412_First_Impression___7_Giây_Đầu_Quyết_Định.mp4[0m [33m0.9MB[0m
+      📝 [90mFirst Impression 7 Giây Đầu Quyết Định #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130412_First_Impression___7_Giây_Đầu_Quyết_Định.mp4[0m
+  📝 Tiêu đề: [1mFirst Impression 7 Giây Đầu Quyết Định #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mRG660A-7J6s[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=RG660A-7J6s[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130412_First_Impression___
+     🔗 [32mhttps://www.youtube.com/watch?v=RG660A-7J6s[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[1m📋 Danh sách file sẽ upload:[0m
+   1. [36mauto_20260826_130504_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4[0m [33m0.9MB[0m
+      📝 [90mCách Xây Dựng Buổi Sáng 30 Phút Thay Đổi #Shorts[0m
+
+  Tổng: [1m1 file[0m · Privacy: [35mpublic[0m
+
+[32m✅ Xác thực YouTube OAuth OK[0m
+
+[1m[1/1][0m Đang xử lý...
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_130504_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4[0m
+  📝 Tiêu đề: [1mCách Xây Dựng Buổi Sáng 30 Phút Thay Đổi #Shorts[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+  [██████████████████████████████] 100.0% · 0.3 MB/s
+[32m✅ Upload thành công![0m
+  🎬 Video ID : [32mKl7MuUo9ETY[0m
+  🔗 URL      : [32mhttps://www.youtube.com/watch?v=Kl7MuUo9ETY[0m
+
+[1m============================================================[0m
+  📊 KẾT QUẢ UPLOAD
+============================================================[0m
+  [32m✅[0m auto_20260826_130504_Cách_Xây_Dựng_Buổi_
+     🔗 [32mhttps://www.youtube.com/watch?v=Kl7MuUo9ETY[0m
+
+  Tổng: [1m1 file[0m · [32m1 thành công[0m · [31m0 thất bại[0m
+  Log : /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/yt_terminal_upload_log.json
+[1m============================================================[0m
+
+🔍 Đang phân tích các short video đã đăng để tìm video < 200 views...
+📊 Tìm thấy 26 video trong lịch sử.
+⚠️ Có 16 video dưới 200 views cần re-upload.
+
+🔄 [1/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130405_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [2/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130412_First_Impression___7_Giây_Đầu_Quyết_Định.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [3/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130429_Kinh_Nikaya__Quán_Thân_Trên_Thân__KAYANU.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [4/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130450_Tại_Sao_Người_Thành_Công_Thức_Dậy_Sớm_Hơ.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [5/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130457_Khi_Sự_Nhiệt_Huyết_Biến_Mất___Vượt_Qua_T.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [6/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130511_Nghệ_Thuật_Lắng_Nghe_Chủ_Động___Kỹ_Năng_.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [7/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130536_Kỹ_Thuật_Time_Boxing_Nâng_Cao___Làm_Chủ_.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [8/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130543_Nghệ_Thuật_Buông_Bỏ_Kỳ_Vọng___Giải_Tỏa_Á.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [9/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130550_Habit_Stacking___Ghép_Thói_Quen_Mới_Vào_.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [10/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130557_Nghệ_Thuật_Lắng_Nghe_Chủ_Động___Kỹ_Năng_.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [11/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130613_Kinh_Nikaya__Bí_Quyết_Vượt_Qua_Nỗi_Sợ_Th.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [12/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130350_Phương_Pháp_Deep_Work_Của_Cal_Newport___.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [13/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130357_5_Dấu_Hiệu_Bạn_Đang_Burnout___Nhận_Ra_Tr.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [14/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130405_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [15/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130412_First_Impression___7_Giây_Đầu_Quyết_Định.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+⏳ Chờ 15 phút (900s) trước khi upload video tiếp theo để an toàn kênh...
+
+🔄 [16/16] Đang chuẩn bị re-upload: /Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_130504_Cách_Xây_Dựng_Buổi_Sáng_30_Phút_Thay_Đổi.mp4
+🚀 Bắt đầu upload...
+✅ Re-upload thành công!
+
+🎉 HOÀN THÀNH QUÁ TRÌNH RE-UPLOAD!
