@@ -543,5 +543,18 @@
     "calendar_date": "28/08/2026",
     "category": "Series B - Tư Duy Deep Work Sáng",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": null,
+    "day": 7,
+    "slot": "slot_11am",
+    "title": "Nghệ Thuật Buông Bỏ Kỳ Vọng: Giải Tỏa Áp Lực So Sánh Bản Thân #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=GUG2KAx_iMU",
+    "video_id": "GUG2KAx_iMU",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_7_slot_11am.mp4",
+    "published_at": "2026-08-28T11:00:08.572164",
+    "calendar_date": "28/08/2026",
+    "category": "Series A - Sơ Cứu Tâm Lý & Chữa Lành Trưa",
+    "status": "LIVE_SUCCESS"
   }
 ]

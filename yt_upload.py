@@ -356,10 +356,11 @@ def auto_short_upload():
         report_log("ERROR: Thư mục output_manual/ không tồn tại.")
         sys.exit(2)
 
-    # Lấy tất cả file video
+    # Lấy tất cả file video có dung lượng hợp lệ (> 1KB)
     all_videos = sorted([
         f for f in output_dir.iterdir()
         if f.suffix.lower() in VIDEO_EXTS and not f.name.startswith(".")
+        and f.stat().st_size > 1024
     ])
 
     if not all_videos:
