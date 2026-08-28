@@ -3579,3 +3579,552 @@ Conversion failed!
 [2026-08-27 08:07:59] ✅ ============================================================
 [2026-08-27 08:07:59] ✅ Auto Create Daily Videos — @1995lido — 2026-08-27 08:07:59
 [2026-08-27 08:07:59] ✅ ============================================================
+[2026-08-28 15:46:59] 🔵 BUILD: Kinh Nikaya: Lối Sống Biết Đủ (SANTUTTHI) - Mở Khóa Bình An 
+[2026-08-28 15:46:59] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 15:46:59] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:47:35] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 15:48:01] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:48:01] ✅   Step 4: FFmpeg encode (22.6s)
+[2026-08-28 15:48:08] ✅   ✅ OK: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 (0.88MB)
+[2026-08-28 15:48:08] 🔵 BUILD: Kinh Nikaya: Sức Mạnh Của Nhẫn Nại (KHANTI) - Thắng Cơn Giận
+[2026-08-28 15:48:08] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 15:48:08] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:48:34] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:48:35] ✅   Step 4: FFmpeg encode (21.6s)
+[2026-08-28 15:48:42] ✅   ✅ OK: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 (1.44MB)
+[2026-08-28 15:48:42] 🔵 BUILD: Kinh Nikaya: Chánh Niệm Hơi Thở (ANAPANASATI) - Trở Về Hiện 
+[2026-08-28 15:48:42] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 15:48:43] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:48:49] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:48:50] ✅   Step 4: FFmpeg encode (21.8s)
+[2026-08-28 15:48:57] ✅   ✅ OK: auto_20260828_154842_Kinh_Nikaya__Chánh_Niệm_Hơi_Thở__ANAPANA.mp4 (1.42MB)
+[2026-08-28 15:48:57] 🔵 BUILD: Kinh Nikaya: Luật Nhân Quả (KAMA) - Bạn Là Chủ Nhân Số Phận 
+[2026-08-28 15:48:57] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 15:48:57] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:49:25] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:49:25] ✅   Step 4: FFmpeg encode (19.2s)
+[2026-08-28 15:49:32] ✅   ✅ OK: auto_20260828_154857_Kinh_Nikaya__Luật_Nhân_Quả__KAMA____Bạn_.mp4 (1.03MB)
+[2026-08-28 15:49:32] 🔵 BUILD: Kinh Nikaya: Tâm Từ Vô Lượng (METTA) - Hóa Giải Oán Hận Bằng
+[2026-08-28 15:49:32] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 15:49:32] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:49:52] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:49:52] ✅   Step 4: FFmpeg encode (21.6s)
+[2026-08-28 15:49:59] ✅   ✅ OK: auto_20260828_154932_Kinh_Nikaya__Tâm_Từ_Vô_Lượng__METTA____H.mp4 (1.12MB)
+[2026-08-28 15:49:59] 🔵 BUILD: Kinh Nikaya: Định Luật Vô Thường (ANICCA) - Mọi Mệt Mỏi Rồi 
+[2026-08-28 15:49:59] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 15:49:59] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:50:20] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:50:20] ✅   Step 4: FFmpeg encode (19.2s)
+[2026-08-28 15:50:26] ✅   ✅ OK: auto_20260828_154959_Kinh_Nikaya__Định_Luật_Vô_Thường__ANICCA.mp4 (1.01MB)
+[2026-08-28 15:50:26] 🔵 BUILD: Kinh Nikaya: 8 Ngọn Gió Đời (BÁT THẾT PHÁP) - Bình Thản Trướ
+[2026-08-28 15:50:26] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 15:50:26] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:50:54] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:50:54] ✅   Step 4: FFmpeg encode (17.9s)
+[2026-08-28 15:51:00] ✅   ✅ OK: auto_20260828_155026_Kinh_Nikaya__8_Ngọn_Gió_Đời__BÁT_THẾT_PH.mp4 (0.73MB)
+[2026-08-28 15:51:00] 🔵 BUILD: Kinh Nikaya: Chánh Ngữ (SAMMA VACA) - Lời Nói Nhẹ Nhàng Xoa 
+[2026-08-28 15:51:00] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 15:51:00] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:51:16] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:51:16] ✅   Step 4: FFmpeg encode (18.1s)
+[2026-08-28 15:51:22] ✅   ✅ OK: auto_20260828_155100_Kinh_Nikaya__Chánh_Ngữ__SAMMA_VACA____Lờ.mp4 (1.39MB)
+[2026-08-28 15:51:22] 🔵 BUILD: Kinh Nikaya: Tự Mình Là Hải Đăng (ATTADIPA) - Nương Tựa Vào 
+[2026-08-28 15:51:22] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 15:51:22] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:51:40] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:51:40] ✅   Step 4: FFmpeg encode (17.8s)
+[2026-08-28 15:51:46] ✅   ✅ OK: auto_20260828_155122_Kinh_Nikaya__Tự_Mình_Là_Hải_Đăng__ATTADI.mp4 (0.74MB)
+[2026-08-28 15:51:46] 🔵 BUILD: Kinh Nikaya: Trừ Bỏ 5 Màn Mây Che Mờ Tâm Trí (NIVARANA)
+[2026-08-28 15:51:46] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 15:51:46] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:52:12] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:52:12] ✅   Step 4: FFmpeg encode (19.6s)
+[2026-08-28 15:52:18] ✅   ✅ OK: auto_20260828_155146_Kinh_Nikaya__Trừ_Bỏ_5_Màn_Mây_Che_Mờ_Tâm.mp4 (1.39MB)
+[2026-08-28 15:52:18] 🔵 BUILD: Kinh Nikaya: Lời Phật Dạy Về Nghệ Thuật Lắng Nghe & Quản Trị
+[2026-08-28 15:52:18] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 15:52:18] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:52:54] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 15:53:39] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 15:53:59] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:53:59] ✅   Step 4: FFmpeg encode (17.3s)
+[2026-08-28 15:54:05] ✅   ✅ OK: auto_20260828_155218_Kinh_Nikaya__Lời_Phật_Dạy_Về_Nghệ_Thuật_.mp4 (1.37MB)
+[2026-08-28 15:54:05] 🔵 BUILD: Kinh Nikaya: Quán Thân Trên Thân (KAYANUPASSANA) - Giải Tỏa 
+[2026-08-28 15:54:05] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 15:54:05] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:54:47] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 15:55:06] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:55:06] ✅   Step 4: FFmpeg encode (18.5s)
+[2026-08-28 15:55:13] ✅   ✅ OK: auto_20260828_155405_Kinh_Nikaya__Quán_Thân_Trên_Thân__KAYANU.mp4 (1.02MB)
+[2026-08-28 15:55:13] 🔵 BUILD: Kinh Nikaya: Bí Quyết Vượt Qua Nỗi Sợ Thất Bại & Biến Cố Cuộ
+[2026-08-28 15:55:13] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 15:55:13] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:55:55] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 15:56:33] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 15:57:12] ⚠️    TTS attempt 3 thất bại
+[2026-08-28 15:57:15] 🔵 BUILD: Kinh Nikaya: Ý Thức Về Sự Sống Sắp Hết - Trân Trọng Từng Phú
+[2026-08-28 15:57:15] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 15:57:15] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:57:34] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:57:34] ✅   Step 4: FFmpeg encode (16.8s)
+[2026-08-28 15:57:41] ✅   ✅ OK: auto_20260828_155715_Kinh_Nikaya__Ý_Thức_Về_Sự_Sống_Sắp_Hết__.mp4 (0.97MB)
+[2026-08-28 15:57:41] 🔵 BUILD: Kinh Nikaya: Nghệ Thuật Chọn Bạn Mà Chơi (THIỆN HỮU TRI KỶ)
+[2026-08-28 15:57:41] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 15:57:41] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:58:09] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:58:10] ✅   Step 4: FFmpeg encode (18.7s)
+[2026-08-28 15:58:15] ✅   ✅ OK: auto_20260828_155741_Kinh_Nikaya__Nghệ_Thuật_Chọn_Bạn_Mà_Chơi.mp4 (0.73MB)
+[2026-08-28 15:58:15] 🔵 BUILD: Kinh Nikaya: Học Cách Dừng Lại (SAMATHA) Khi Tâm Trí Quá Tải
+[2026-08-28 15:58:15] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 15:58:15] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 15:58:35] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 15:58:35] ✅   Step 4: FFmpeg encode (17.6s)
+[2026-08-28 15:58:42] ✅   ✅ OK: auto_20260828_155815_Kinh_Nikaya__Học_Cách_Dừng_Lại__SAMATHA_.mp4 (1.36MB)
+[2026-08-28 15:58:42] 🔵 BUILD: Kinh Nikaya: Chữ 'Tâm' Trong Sạch - Nguồn Gốc Của Mọi Bình A
+[2026-08-28 15:58:42] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 15:58:42] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 15:59:18] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:03:09] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 16:03:13] ⚠️    TTS attempt 3 thất bại
+[2026-08-28 16:03:16] 🔵 BUILD: Kinh Nikaya: Buông Bỏ Lòng Tham Dục (LOBHA) Để Nhẹ Nhõm Tâm 
+[2026-08-28 16:03:16] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 16:03:17] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:03:18] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:03:23] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 16:03:27] ⚠️    TTS attempt 3 thất bại
+[2026-08-28 16:03:30] 🔵 BUILD: Kinh Nikaya: Sự Tự Do Khỏi Định Kiến & Khái Niệm Phân Biệt
+[2026-08-28 16:03:30] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 16:03:30] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:03:32] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:03:36] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 16:03:40] ⚠️    TTS attempt 3 thất bại
+[2026-08-28 16:03:43] 🔵 BUILD: Kinh Nikaya: Tâm Hỷ Vô Lượng (MUDITA) - Vui Với Thắng Lợi Củ
+[2026-08-28 16:03:43] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 16:03:44] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:03:45] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:31:37] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 16:31:41] ⚠️    TTS attempt 3 thất bại
+[2026-08-28 16:31:44] 🔵 BUILD: Kinh Nikaya: Tâm Xả Vô Lượng (UPEKKHA) - Đứng Vững Trước Són
+[2026-08-28 16:31:44] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 16:31:44] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:31:44] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:32:04] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:32:06] ✅   Step 4: FFmpeg encode (17.6s)
+[2026-08-28 16:38:57] ✅   ✅ OK: auto_20260828_163144_Kinh_Nikaya__Tâm_Xả_Vô_Lượng__UPEKKHA___.mp4 (1.07MB)
+[2026-08-28 16:38:57] 🔵 BUILD: Kinh Nikaya: Nghệ Thuật Hiếu Kính Cha Mẹ Trọn Vẹn
+[2026-08-28 16:38:57] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 16:38:57] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:39:34] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:39:55] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:39:55] ✅   Step 4: FFmpeg encode (18.8s)
+[2026-08-28 16:40:02] ✅   ✅ OK: auto_20260828_163857_Kinh_Nikaya__Nghệ_Thuật_Hiếu_Kính_Cha_Mẹ.mp4 (0.98MB)
+[2026-08-28 16:40:02] 🔵 BUILD: Kinh Nikaya: Thắng Bản Thân Là Chiến Thắng Vĩ Đại Nhất
+[2026-08-28 16:40:02] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 16:40:02] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:40:24] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:40:25] ✅   Step 4: FFmpeg encode (17.0s)
+[2026-08-28 16:40:31] ✅   ✅ OK: auto_20260828_164002_Kinh_Nikaya__Thắng_Bản_Thân_Là_Chiến_Thắ.mp4 (0.70MB)
+[2026-08-28 16:40:31] 🔵 BUILD: Kinh Nikaya: Giữ Vững Sức Mạnh Chánh Mạng (SAMMA AJIVA)
+[2026-08-28 16:40:31] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 16:40:31] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:41:07] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:41:28] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:41:28] ✅   Step 4: FFmpeg encode (17.6s)
+[2026-08-28 16:41:34] ✅   ✅ OK: auto_20260828_164031_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4 (1.37MB)
+[2026-08-28 16:41:34] 🔵 BUILD: Kinh Nikaya: Chánh Tinh Tấn (SAMMA VAYAMA) - Nỗ Lực Đúng Hướ
+[2026-08-28 16:41:34] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 16:41:34] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:41:46] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:41:46] ✅   Step 4: FFmpeg encode (16.9s)
+[2026-08-28 16:41:51] ✅   ✅ OK: auto_20260828_164134_Kinh_Nikaya__Chánh_Tinh_Tấn__SAMMA_VAYAM.mp4 (0.73MB)
+[2026-08-28 16:41:51] 🔵 BUILD: Kinh Nikaya: Trí Tuệ Quán Thấu Bản Chất Của Nỗi Đau (DUKKA)
+[2026-08-28 16:41:51] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 16:41:51] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:42:11] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:42:11] ✅   Step 4: FFmpeg encode (18.5s)
+[2026-08-28 16:42:17] ✅   ✅ OK: auto_20260828_164151_Kinh_Nikaya__Trí_Tuệ_Quán_Thấu_Bản_Chất_.mp4 (1.38MB)
+[2026-08-28 16:42:17] 🔵 BUILD: Kinh Nikaya: Con Đường Tứ Diệu Đế - 4 Sự Thật Cao Quý
+[2026-08-28 16:42:17] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 16:42:18] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:42:34] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:42:34] ✅   Step 4: FFmpeg encode (16.9s)
+[2026-08-28 16:42:40] ✅   ✅ OK: auto_20260828_164217_Kinh_Nikaya__Con_Đường_Tứ_Diệu_Đế___4_Sự.mp4 (1.35MB)
+[2026-08-28 16:42:40] 🔵 BUILD: Kinh Nikaya: Sức Mạnh Của Lòng Biết Ơn (KATANNYU)
+[2026-08-28 16:42:40] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 16:42:40] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:42:54] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:42:54] ✅   Step 4: FFmpeg encode (16.6s)
+[2026-08-28 16:43:00] ✅   ✅ OK: auto_20260828_164240_Kinh_Nikaya__Sức_Mạnh_Của_Lòng_Biết_Ơn__.mp4 (0.98MB)
+[2026-08-28 16:43:00] 🔵 BUILD: Kinh Nikaya: Giữ Vững Chánh Định (SAMMA SAMADHI) Trước Mọi C
+[2026-08-28 16:43:00] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 16:43:00] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:43:17] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:43:18] ✅   Step 4: FFmpeg encode (18.1s)
+[2026-08-28 16:43:23] ✅   ✅ OK: auto_20260828_164300_Kinh_Nikaya__Giữ_Vững_Chánh_Định__SAMMA_.mp4 (1.09MB)
+[2026-08-28 16:43:23] 🔵 BUILD: Kinh Nikaya: Niết Bàn Ngay Trong Hiện Tại (DITTHADHAMMA NIBB
+[2026-08-28 16:43:23] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 16:43:24] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:43:51] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:43:52] ✅   Step 4: FFmpeg encode (16.8s)
+[2026-08-28 16:43:58] ✅   ✅ OK: auto_20260828_164323_Kinh_Nikaya__Niết_Bàn_Ngay_Trong_Hiện_Tạ.mp4 (0.96MB)
+[2026-08-28 16:43:58] 🔵 BUILD: Tứ Diệu Đế #1 - Khổ Đế: Tại Sao Phật Dạy Đời Là Khổ Và Đây K
+[2026-08-28 16:43:58] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 16:43:58] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:44:34] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:45:20] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:45:20] ✅   Step 4: FFmpeg encode (25.9s)
+[2026-08-28 16:45:28] ✅   ✅ OK: auto_20260828_164358_Tứ_Diệu_Đế__1___Khổ_Đế__Tại_Sao_Phật_Dạy.mp4 (1.01MB)
+[2026-08-28 16:45:28] 🔵 BUILD: Tứ Diệu Đế #2 - Tập Đế: Khám Phá Nguồn Gốc Tham Sân Si Làm K
+[2026-08-28 16:45:28] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 16:45:28] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:46:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:46:13] ✅   Step 4: FFmpeg encode (25.4s)
+[2026-08-28 16:46:25] ✅   ✅ OK: auto_20260828_164528_Tứ_Diệu_Đế__2___Tập_Đế__Khám_Phá_Nguồn_G.mp4 (1.89MB)
+[2026-08-28 16:46:25] 🔵 BUILD: Tứ Diệu Đế #3 - Diệt Đế: Niết Bàn Là Trạng Thái Hạnh Phúc Ca
+[2026-08-28 16:46:25] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 16:46:25] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:47:01] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:47:40] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 16:48:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:48:13] ✅   Step 4: FFmpeg encode (26.3s)
+[2026-08-28 16:48:23] ✅   ✅ OK: auto_20260828_164625_Tứ_Diệu_Đế__3___Diệt_Đế__Niết_Bàn_Là_Trạ.mp4 (1.05MB)
+[2026-08-28 16:48:23] 🔵 BUILD: Tứ Diệu Đế #4 - Đạo Đế: Bát Chánh Đạo 8 Bước Thực Hành Thoát
+[2026-08-28 16:48:23] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 16:48:23] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:48:32] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:48:32] ✅   Step 4: FFmpeg encode (26.8s)
+[2026-08-28 16:48:40] ✅   ✅ OK: auto_20260828_164823_Tứ_Diệu_Đế__4___Đạo_Đế__Bát_Chánh_Đạo_8_.mp4 (1.90MB)
+[2026-08-28 16:48:40] 🔵 BUILD: Chánh Kiến (Samma Ditthi): Cách Nhìn Đời Không Méo Mó - Nền 
+[2026-08-28 16:48:40] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 16:48:40] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:49:16] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:49:17] ✅   Step 4: FFmpeg encode (26.2s)
+[2026-08-28 16:49:25] ✅   ✅ OK: auto_20260828_164840_Chánh_Kiến__Samma_Ditthi___Cách_Nhìn_Đời.mp4 (1.88MB)
+[2026-08-28 16:49:25] 🔵 BUILD: Chánh Tư Duy (Samma Sankappa): Dọn Sạch Rác Trong Đầu - Tư D
+[2026-08-28 16:49:25] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 16:49:25] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:49:50] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:49:51] ✅   Step 4: FFmpeg encode (25.5s)
+[2026-08-28 16:49:58] ✅   ✅ OK: auto_20260828_164925_Chánh_Tư_Duy__Samma_Sankappa___Dọn_Sạch_.mp4 (1.39MB)
+[2026-08-28 16:49:58] 🔵 BUILD: Chánh Ngữ (Samma Vaca): 5 Tiêu Chí Lời Nói Chữa Lành Theo Ph
+[2026-08-28 16:49:58] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 16:49:59] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:50:28] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:50:29] ✅   Step 4: FFmpeg encode (25.8s)
+[2026-08-28 16:50:37] ✅   ✅ OK: auto_20260828_164958_Chánh_Ngữ__Samma_Vaca___5_Tiêu_Chí_Lời_N.mp4 (1.47MB)
+[2026-08-28 16:50:37] 🔵 BUILD: Chánh Nghiệp (Samma Kammanta): Hành Động Tạo Nghiệp Lành - Ứ
+[2026-08-28 16:50:37] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 16:50:37] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:51:02] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:51:02] ✅   Step 4: FFmpeg encode (25.4s)
+[2026-08-28 16:51:12] ✅   ✅ OK: auto_20260828_165037_Chánh_Nghiệp__Samma_Kammanta___Hành_Động.mp4 (1.34MB)
+[2026-08-28 16:51:12] 🔵 BUILD: Chánh Mạng (Samma Ajiva): Hướng Dẫn Kiếm Tiền Có Đạo Đức Và 
+[2026-08-28 16:51:12] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 16:51:12] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:51:48] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:52:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:52:14] ✅   Step 4: FFmpeg encode (25.7s)
+[2026-08-28 16:52:21] ✅   ✅ OK: auto_20260828_165112_Chánh_Mạng__Samma_Ajiva___Hướng_Dẫn_Kiếm.mp4 (1.00MB)
+[2026-08-28 16:52:21] 🔵 BUILD: Chánh Tinh Tấn (Samma Vayama): Khác Biệt Giữa Nỗ Lực Thông M
+[2026-08-28 16:52:21] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 16:52:21] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:52:47] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:52:48] ✅   Step 4: FFmpeg encode (25.9s)
+[2026-08-28 16:52:57] ✅   ✅ OK: auto_20260828_165221_Chánh_Tinh_Tấn__Samma_Vayama___Khác_Biệt.mp4 (1.88MB)
+[2026-08-28 16:52:57] 🔵 BUILD: Chánh Niệm (Samma Sati): Hướng Dẫn Sống Tỉnh Thức 24/7 Không
+[2026-08-28 16:52:57] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 16:52:57] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:53:33] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:54:12] ⚠️    TTS attempt 2 thất bại
+[2026-08-28 16:54:42] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:54:42] ✅   Step 4: FFmpeg encode (27.2s)
+[2026-08-28 16:54:51] ✅   ✅ OK: auto_20260828_165257_Chánh_Niệm__Samma_Sati___Hướng_Dẫn_Sống_.mp4 (1.07MB)
+[2026-08-28 16:54:51] 🔵 BUILD: Chánh Định (Samma Samadhi): 4 Tầng Jhana Thiền Định Và Cách 
+[2026-08-28 16:54:51] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 16:54:51] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:55:27] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 16:56:05] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:56:05] ✅   Step 4: FFmpeg encode (26.6s)
+[2026-08-28 16:56:17] ✅   ✅ OK: auto_20260828_165451_Chánh_Định__Samma_Samadhi___4_Tầng_Jhana.mp4 (1.90MB)
+[2026-08-28 16:56:17] 🔵 BUILD: Phật Dạy Cách Trị Lo Âu: 5 Kỹ Thuật Tâm Lý Từ Kinh Nikaya Ch
+[2026-08-28 16:56:17] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 16:56:18] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 16:56:53] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:56:53] ✅   Step 4: FFmpeg encode (27.3s)
+[2026-08-28 16:57:02] ✅   ✅ OK: auto_20260828_165617_Phật_Dạy_Cách_Trị_Lo_Âu__5_Kỹ_Thuật_Tâm_.mp4 (1.89MB)
+[2026-08-28 16:57:02] 🔵 BUILD: Vượt Qua Trầm Cảm Với Trí Tuệ Nikaya: Khi Khoa Học Tâm Lý Hi
+[2026-08-28 16:57:02] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 16:57:02] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 16:57:25] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 16:57:25] ✅   Step 4: FFmpeg encode (25.8s)
+[2026-08-28 16:57:33] ✅   ✅ OK: auto_20260828_165702_Vượt_Qua_Trầm_Cảm_Với_Trí_Tuệ_Nikaya__Kh.mp4 (1.39MB)
+[2026-08-28 16:57:33] 🔵 BUILD: Mất Ngủ Theo Phật Dạy: Thiền Định Và 5 Thực Hành Tối Giúp Ru
+[2026-08-28 16:57:33] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 16:57:33] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 18:58:55] 🔵 BUILD: Xây Dựng Gia Đình Hạnh Phúc Theo Kinh Sigalovada: Phật Dạy C
+[2026-08-28 18:58:55] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 18:58:55] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:14:32] 🔵 BUILD: Thiện Tri Thức: Tiêu Chí Chọn Bạn Đúng Đắn Và Xây Dựng Tình 
+[2026-08-28 19:14:32] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 19:14:32] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:15:09] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:15:10] ✅   Step 4: FFmpeg encode (26.5s)
+[2026-08-28 19:15:16] ✅   ✅ OK: auto_20260828_191432_Thiện_Tri_Thức__Tiêu_Chí_Chọn_Bạn_Đúng_Đ.mp4 (1.01MB)
+[2026-08-28 19:15:16] 🔵 BUILD: Phật Dạy Về Tình Yêu Và Hôn Nhân: Kinh Pháp Cú Và Những Nguy
+[2026-08-28 19:15:16] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 19:15:16] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:15:45] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:15:45] ✅   Step 4: FFmpeg encode (26.4s)
+[2026-08-28 19:15:52] ✅   ✅ OK: auto_20260828_191516_Phật_Dạy_Về_Tình_Yêu_Và_Hôn_Nhân__Kinh_P.mp4 (1.90MB)
+[2026-08-28 19:15:52] 🔵 BUILD: Nghệ Thuật Nuôi Dạy Con Theo Triết Lý Phật Giáo: Trồng Cây Đ
+[2026-08-28 19:15:52] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 19:15:52] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:16:22] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:16:22] ✅   Step 4: FFmpeg encode (24.7s)
+[2026-08-28 19:16:28] ✅   ✅ OK: auto_20260828_191552_Nghệ_Thuật_Nuôi_Dạy_Con_Theo_Triết_Lý_Ph.mp4 (1.02MB)
+[2026-08-28 19:16:28] 🔵 BUILD: Làm Thế Nào Khi Làm Việc Với Người Khó Chịu? Nikaya Có 5 Các
+[2026-08-28 19:16:28] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 19:16:28] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:16:48] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:16:48] ✅   Step 4: FFmpeg encode (26.2s)
+[2026-08-28 19:16:55] ✅   ✅ OK: auto_20260828_191628_Làm_Thế_Nào_Khi_Làm_Việc_Với_Người_Khó_C.mp4 (1.90MB)
+[2026-08-28 19:16:55] 🔵 BUILD: Khoa Học Của Sự Tha Thứ: Tại Sao Phật Dạy Tha Thứ Là Quà Tặn
+[2026-08-28 19:16:55] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 19:16:56] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:17:20] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:17:20] ✅   Step 4: FFmpeg encode (26.2s)
+[2026-08-28 19:17:29] ✅   ✅ OK: auto_20260828_191655_Khoa_Học_Của_Sự_Tha_Thứ__Tại_Sao_Phật_Dạ.mp4 (1.89MB)
+[2026-08-28 19:17:29] 🔵 BUILD: Quy Y Tam Bảo Trong Thế Giới Hiện Đại: Phật Pháp Tăng Là Gì 
+[2026-08-28 19:17:29] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 19:17:29] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:17:55] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:17:55] ✅   Step 4: FFmpeg encode (25.6s)
+[2026-08-28 19:18:03] ✅   ✅ OK: auto_20260828_191729_Quy_Y_Tam_Bảo_Trong_Thế_Giới_Hiện_Đại__P.mp4 (1.38MB)
+[2026-08-28 19:18:03] 🔵 BUILD: Luật Nhân Quả Trong Phật Giáo: Không Phải Mê Tín Mà Là Khoa 
+[2026-08-28 19:18:03] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 19:18:03] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:18:39] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:18:39] ✅   Step 4: FFmpeg encode (26.5s)
+[2026-08-28 19:18:47] ✅   ✅ OK: auto_20260828_191803_Luật_Nhân_Quả_Trong_Phật_Giáo__Không_Phả.mp4 (1.49MB)
+[2026-08-28 19:18:47] 🔵 BUILD: Tái Sinh Trong Phật Giáo Nikaya: Chứng Cứ, Ý Nghĩa Và Cách S
+[2026-08-28 19:18:47] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 19:18:48] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:19:07] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:19:07] ✅   Step 4: FFmpeg encode (25.8s)
+[2026-08-28 19:19:17] ✅   ✅ OK: auto_20260828_191847_Tái_Sinh_Trong_Phật_Giáo_Nikaya__Chứng_C.mp4 (1.36MB)
+[2026-08-28 19:19:17] 🔵 BUILD: 5 Giới Phật Dạy Áp Dụng Thế Nào Trong Thế Giới Hiện Đại? Hướ
+[2026-08-28 19:19:17] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 19:19:17] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:19:40] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:19:40] ✅   Step 4: FFmpeg encode (26.5s)
+[2026-08-28 19:19:48] ✅   ✅ OK: auto_20260828_191917_5_Giới_Phật_Dạy_Áp_Dụng_Thế_Nào_Trong_Th.mp4 (1.01MB)
+[2026-08-28 19:19:48] 🔵 BUILD: Kinh Pháp Cú (Dhammapada): 50 Câu Kệ Tinh Hoa Nhất Và Ý Nghĩ
+[2026-08-28 19:19:48] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 19:19:48] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:20:06] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:20:06] ✅   Step 4: FFmpeg encode (26.3s)
+[2026-08-28 19:20:16] ✅   ✅ OK: auto_20260828_191948_Kinh_Pháp_Cú__Dhammapada___50_Câu_Kệ_Tin.mp4 (1.89MB)
+[2026-08-28 19:20:16] 🔵 BUILD: Những Bài Giảng Nổi Tiếng Nhất Trong Trung Bộ Kinh: Từ Kinh 
+[2026-08-28 19:20:16] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 19:20:16] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:20:42] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:20:43] ✅   Step 4: FFmpeg encode (26.4s)
+[2026-08-28 19:20:50] ✅   ✅ OK: auto_20260828_192016_Những_Bài_Giảng_Nổi_Tiếng_Nhất_Trong_Tru.mp4 (1.04MB)
+[2026-08-28 19:20:50] 🔵 BUILD: Tương Ưng Bộ Kinh: Giải Mã Bộ Kinh Có Hệ Thống Chủ Đề Hoàn C
+[2026-08-28 19:20:50] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 19:20:50] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:21:16] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:21:16] ✅   Step 4: FFmpeg encode (25.2s)
+[2026-08-28 19:21:24] ✅   ✅ OK: auto_20260828_192050_Tương_Ưng_Bộ_Kinh__Giải_Mã_Bộ_Kinh_Có_Hệ.mp4 (1.88MB)
+[2026-08-28 19:21:24] 🔵 BUILD: Tăng Chi Bộ Kinh: Tại Sao Phật Dạy Theo Con Số 1, 2, 3... Và
+[2026-08-28 19:21:24] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 19:21:24] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:21:52] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:21:53] ✅   Step 4: FFmpeg encode (25.6s)
+[2026-08-28 19:22:00] ✅   ✅ OK: auto_20260828_192124_Tăng_Chi_Bộ_Kinh__Tại_Sao_Phật_Dạy_Theo_.mp4 (1.87MB)
+[2026-08-28 19:22:00] 🔵 BUILD: Trường Bộ Kinh: Khám Phá 34 Bài Kinh Dài Và Sâu Sắc Nhất Tro
+[2026-08-28 19:22:00] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 19:22:00] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:22:25] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:22:25] ✅   Step 4: FFmpeg encode (25.0s)
+[2026-08-28 19:22:33] ✅   ✅ OK: auto_20260828_192200_Trường_Bộ_Kinh__Khám_Phá_34_Bài_Kinh_Dài.mp4 (1.37MB)
+[2026-08-28 19:22:33] 🔵 BUILD: Tiểu Bộ Kinh: Từ Pháp Cú Đến Trưởng Lão Tăng Kệ - Bản Đồ Kho
+[2026-08-28 19:22:33] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 19:22:33] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:23:00] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:23:01] ✅   Step 4: FFmpeg encode (25.9s)
+[2026-08-28 19:23:09] ✅   ✅ OK: auto_20260828_192233_Tiểu_Bộ_Kinh__Từ_Pháp_Cú_Đến_Trưởng_Lão_.mp4 (1.47MB)
+[2026-08-28 19:23:09] 🔵 BUILD: Thiền Định 10 Phút Cho Người Không Có Thời Gian: Phương Pháp
+[2026-08-28 19:23:09] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 19:23:09] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:23:35] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:23:35] ✅   Step 4: FFmpeg encode (26.5s)
+[2026-08-28 19:23:43] ✅   ✅ OK: auto_20260828_192309_Thiền_Định_10_Phút_Cho_Người_Không_Có_Th.mp4 (1.35MB)
+[2026-08-28 19:23:43] 🔵 BUILD: Mindfulness Trong Công Việc: 7 Kỹ Thuật Từ Nikaya Giúp Làm V
+[2026-08-28 19:23:43] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 19:23:43] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:24:19] ⚠️    TTS attempt 1 thất bại
+[2026-08-28 19:24:48] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:24:48] ✅   Step 4: FFmpeg encode (26.2s)
+[2026-08-28 19:24:57] ✅   ✅ OK: auto_20260828_192343_Mindfulness_Trong_Công_Việc__7_Kỹ_Thuật_.mp4 (1.01MB)
+[2026-08-28 19:24:57] 🔵 BUILD: Phật Dạy Gì Về Quản Lý Thời Gian? Bài Học Từ Vô Thường Giúp 
+[2026-08-28 19:24:57] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 19:24:57] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:25:16] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:25:16] ✅   Step 4: FFmpeg encode (25.8s)
+[2026-08-28 19:25:25] ✅   ✅ OK: auto_20260828_192457_Phật_Dạy_Gì_Về_Quản_Lý_Thời_Gian__Bài_Họ.mp4 (1.89MB)
+[2026-08-28 19:25:25] 🔵 BUILD: 8 Bước Giảm Stress Theo Chương Trình MBSR: Khi Y Học Hiện Đạ
+[2026-08-28 19:25:25] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 19:25:26] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:25:48] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:25:49] ✅   Step 4: FFmpeg encode (27.3s)
+[2026-08-28 19:25:56] ✅   ✅ OK: auto_20260828_192525_8_Bước_Giảm_Stress_Theo_Chương_Trình_MBS.mp4 (1.06MB)
+[2026-08-28 19:25:56] 🔵 BUILD: Yoga Phật Giáo Và Thiền Đi Kinh Hành: Khi Cơ Thể Và Tâm Trí 
+[2026-08-28 19:25:56] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 19:25:56] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:26:26] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:26:26] ✅   Step 4: FFmpeg encode (26.3s)
+[2026-08-28 19:26:35] ✅   ✅ OK: auto_20260828_192556_Yoga_Phật_Giáo_Và_Thiền_Đi_Kinh_Hành__Kh.mp4 (1.89MB)
+[2026-08-28 19:26:35] 🔵 BUILD: Ăn Uống Như Người Tu Tập: Phương Pháp Chánh Niệm Khi Ăn Từ N
+[2026-08-28 19:26:35] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 19:26:35] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:26:58] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:26:59] ✅   Step 4: FFmpeg encode (26.1s)
+[2026-08-28 19:27:07] ✅   ✅ OK: auto_20260828_192635_Ăn_Uống_Như_Người_Tu_Tập__Phương_Pháp_Ch.mp4 (1.87MB)
+[2026-08-28 19:27:07] 🔵 BUILD: 4 Nguyên Tắc Giao Tiếp Phi Bạo Lực Theo Nikaya: Khi Nói Chuy
+[2026-08-28 19:27:07] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 19:27:07] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:27:34] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:27:35] ✅   Step 4: FFmpeg encode (26.9s)
+[2026-08-28 19:27:43] ✅   ✅ OK: auto_20260828_192707_4_Nguyên_Tắc_Giao_Tiếp_Phi_Bạo_Lực_Theo_.mp4 (1.40MB)
+[2026-08-28 19:27:43] 🔵 BUILD: Lãnh Đạo Với Trái Tim Rộng Lượng: 7 Phẩm Chất Lãnh Đạo Theo 
+[2026-08-28 19:27:43] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 19:27:43] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:28:04] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:28:04] ✅   Step 4: FFmpeg encode (26.5s)
+[2026-08-28 19:28:14] ✅   ✅ OK: auto_20260828_192743_Lãnh_Đạo_Với_Trái_Tim_Rộng_Lượng__7_Phẩm.mp4 (1.49MB)
+[2026-08-28 19:28:14] 🔵 BUILD: Mối Liên Hệ Giữa Thiền Định Và Sáng Tạo: Tại Sao Nhiều Nhà S
+[2026-08-28 19:28:14] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 19:28:14] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:28:40] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:28:40] ✅   Step 4: FFmpeg encode (28.4s)
+[2026-08-28 19:28:51] ✅   ✅ OK: auto_20260828_192814_Mối_Liên_Hệ_Giữa_Thiền_Định_Và_Sáng_Tạo_.mp4 (1.38MB)
+[2026-08-28 19:28:51] 🔵 BUILD: Học Như Người Tu Tập: Chánh Tinh Tấn Và 5 Nguyên Tắc Học Tập
+[2026-08-28 19:28:51] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 19:28:51] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:29:17] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:29:17] ✅   Step 4: FFmpeg encode (26.4s)
+[2026-08-28 19:29:25] ✅   ✅ OK: auto_20260828_192851_Học_Như_Người_Tu_Tập__Chánh_Tinh_Tấn_Và_.mp4 (1.01MB)
+[2026-08-28 19:29:25] 🔵 BUILD: Ngũ Uẩn (Pañcakkhandha): Phật Phân Tích Con Người Thành 5 Th
+[2026-08-28 19:29:25] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 19:29:25] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:29:38] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:29:39] ✅   Step 4: FFmpeg encode (25.4s)
+[2026-08-28 19:29:49] ✅   ✅ OK: auto_20260828_192925_Ngũ_Uẩn__Pañcakkhandha___Phật_Phân_Tích_.mp4 (1.87MB)
+[2026-08-28 19:29:49] 🔵 BUILD: 12 Nhân Duyên (Paticca-samuppada): Vòng Tròn Sinh Tử Và Cách
+[2026-08-28 19:29:49] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 19:29:49] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:30:11] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:30:11] ✅   Step 4: FFmpeg encode (26.3s)
+[2026-08-28 19:30:19] ✅   ✅ OK: auto_20260828_192949_12_Nhân_Duyên__Paticca_samuppada___Vòng_.mp4 (1.04MB)
+[2026-08-28 19:30:19] 🔵 BUILD: 7 Yếu Tố Giác Ngộ (Bojjhanga): Con Đường Phát Triển Tâm Linh
+[2026-08-28 19:30:19] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 19:30:19] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:30:54] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:30:54] ✅   Step 4: FFmpeg encode (25.3s)
+[2026-08-28 19:31:04] ✅   ✅ OK: auto_20260828_193019_7_Yếu_Tố_Giác_Ngộ__Bojjhanga___Con_Đường.mp4 (1.89MB)
+[2026-08-28 19:31:04] 🔵 BUILD: Tứ Niệm Xứ: Hướng Dẫn Thực Hành Đầy Đủ 4 Nền Tảng Chánh Niệm
+[2026-08-28 19:31:04] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 19:31:04] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:31:32] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:31:33] ✅   Step 4: FFmpeg encode (27.2s)
+[2026-08-28 19:31:42] ✅   ✅ OK: auto_20260828_193104_Tứ_Niệm_Xứ__Hướng_Dẫn_Thực_Hành_Đầy_Đủ_4.mp4 (1.89MB)
+[2026-08-28 19:31:42] 🔵 BUILD: 4 Nền Tảng Thành Công Theo Nikaya: Tứ Như Ý Túc Giúp Bạn Đạt
+[2026-08-28 19:31:42] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 19:31:43] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:32:08] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:32:08] ✅   Step 4: FFmpeg encode (26.4s)
+[2026-08-28 19:32:17] ✅   ✅ OK: auto_20260828_193142_4_Nền_Tảng_Thành_Công_Theo_Nikaya__Tứ_Nh.mp4 (1.39MB)
+[2026-08-28 19:32:17] 🔵 BUILD: 5 Năng Lực Tâm Linh (Pañcindriya): Cách Phát Triển Tín Tấn N
+[2026-08-28 19:32:17] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 19:32:17] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:32:25] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:32:26] ✅   Step 4: FFmpeg encode (26.7s)
+[2026-08-28 19:32:38] ✅   ✅ OK: auto_20260828_193217_5_Năng_Lực_Tâm_Linh__Pañcindriya___Cách_.mp4 (1.49MB)
+[2026-08-28 19:32:38] 🔵 BUILD: 5 Sức Mạnh Tâm Linh (Pañcabala): Khi Năng Lực Tu Tập Trở Thà
+[2026-08-28 19:32:38] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 19:32:38] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:32:54] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:32:54] ✅   Step 4: FFmpeg encode (24.0s)
+[2026-08-28 19:33:03] ✅   ✅ OK: auto_20260828_193238_5_Sức_Mạnh_Tâm_Linh__Pañcabala___Khi_Năn.mp4 (1.31MB)
+[2026-08-28 19:33:03] 🔵 BUILD: 7 Loại Của Cải Thật Sự Theo Phật Dạy: Những Gì Không Ai Có T
+[2026-08-28 19:33:03] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 19:33:03] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:33:34] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:33:35] ✅   Step 4: FFmpeg encode (26.9s)
+[2026-08-28 19:33:43] ✅   ✅ OK: auto_20260828_193303_7_Loại_Của_Cải_Thật_Sự_Theo_Phật_Dạy__Nh.mp4 (1.02MB)
+[2026-08-28 19:33:43] 🔵 BUILD: Thiền Tứ Vô Lượng Tâm: Hướng Dẫn Thực Hành Từ Bi Hỷ Xả 4 Tuầ
+[2026-08-28 19:33:43] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 19:33:43] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:34:02] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:34:02] ✅   Step 4: FFmpeg encode (25.5s)
+[2026-08-28 19:34:11] ✅   ✅ OK: auto_20260828_193343_Thiền_Tứ_Vô_Lượng_Tâm__Hướng_Dẫn_Thực_Hà.mp4 (1.88MB)
+[2026-08-28 19:34:11] 🔵 BUILD: Thiền Mettā Bhāvanā: Khoa Học Đằng Sau Thực Hành Tâm Từ Và C
+[2026-08-28 19:34:11] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 19:34:11] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:34:30] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:34:30] ✅   Step 4: FFmpeg encode (28.3s)
+[2026-08-28 19:34:40] ✅   ✅ OK: auto_20260828_193411_Thiền_Mettā_Bhāvanā__Khoa_Học_Đằng_Sau_T.mp4 (1.08MB)
+[2026-08-28 19:34:40] 🔵 BUILD: Câu Chuyện Kisagotami: Bài Học Về Vô Thường Và Cách Vượt Qua
+[2026-08-28 19:34:40] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 19:34:40] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:35:01] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:35:01] ✅   Step 4: FFmpeg encode (26.2s)
+[2026-08-28 19:35:10] ✅   ✅ OK: auto_20260828_193440_Câu_Chuyện_Kisagotami__Bài_Học_Về_Vô_Thư.mp4 (1.89MB)
+[2026-08-28 19:35:10] 🔵 BUILD: Angulimala - Kẻ Sát Nhân Trở Thành Thánh Nhân: Bài Học Về Sứ
+[2026-08-28 19:35:10] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-08-28 19:35:10] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:35:33] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:35:34] ✅   Step 4: FFmpeg encode (29.2s)
+[2026-08-28 19:35:45] ✅   ✅ OK: auto_20260828_193510_Angulimala___Kẻ_Sát_Nhân_Trở_Thành_Thánh.mp4 (1.92MB)
+[2026-08-28 19:35:45] 🔵 BUILD: Ambapali - Kỹ Nữ Trở Thành A La Hán: Bài Học Vô Thường Từ Ng
+[2026-08-28 19:35:45] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-08-28 19:35:45] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:36:09] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:36:10] ✅   Step 4: FFmpeg encode (27.3s)
+[2026-08-28 19:36:18] ✅   ✅ OK: auto_20260828_193545_Ambapali___Kỹ_Nữ_Trở_Thành_A_La_Hán__Bài.mp4 (1.41MB)
+[2026-08-28 19:36:18] 🔵 BUILD: Trưởng Lão Nandaka Dạy Nữ Tu: Bài Học Về Sư Phạm Tâm Linh Và
+[2026-08-28 19:36:18] ✅   Step 1: BG = bg_phat1.jpg
+[2026-08-28 19:36:18] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:36:37] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:36:38] ✅   Step 4: FFmpeg encode (26.8s)
+[2026-08-28 19:36:46] ✅   ✅ OK: auto_20260828_193618_Trưởng_Lão_Nandaka_Dạy_Nữ_Tu__Bài_Học_Về.mp4 (1.50MB)
+[2026-08-28 19:36:46] 🔵 BUILD: Bahiya - Người Giác Ngộ Nhanh Nhất Trong Lịch Sử Phật Giáo: 
+[2026-08-28 19:36:46] ✅   Step 1: BG = bg_phat2.jpg
+[2026-08-28 19:36:46] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:37:08] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:37:08] ✅   Step 4: FFmpeg encode (27.2s)
+[2026-08-28 19:37:16] ✅   ✅ OK: auto_20260828_193646_Bahiya___Người_Giác_Ngộ_Nhanh_Nhất_Trong.mp4 (1.37MB)
+[2026-08-28 19:37:16] 🔵 BUILD: Ratthapala - Chàng Trai Giàu Từ Bỏ Tất Cả: Đối Thoại Sâu Sắc
+[2026-08-28 19:37:16] ✅   Step 1: BG = bg_phat3.jpg
+[2026-08-28 19:37:16] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:37:42] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:37:43] ✅   Step 4: FFmpeg encode (26.7s)
+[2026-08-28 19:37:50] ✅   ✅ OK: auto_20260828_193716_Ratthapala___Chàng_Trai_Giàu_Từ_Bỏ_Tất_C.mp4 (1.02MB)
+[2026-08-28 19:37:50] 🔵 BUILD: Dhaniya Và Phật - Đối Thoại Giữa Hai Lối Sống: Bài Học Về Tự
+[2026-08-28 19:37:50] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-08-28 19:37:50] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:38:16] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:38:16] ✅   Step 4: FFmpeg encode (25.8s)
+[2026-08-28 19:38:25] ✅   ✅ OK: auto_20260828_193750_Dhaniya_Và_Phật___Đối_Thoại_Giữa_Hai_Lối.mp4 (1.89MB)
+[2026-08-28 19:38:25] 🔵 BUILD: Malunkyaputta Và Những Câu Hỏi Siêu Hình: Tại Sao Phật Từ Ch
+[2026-08-28 19:38:25] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-08-28 19:38:25] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-08-28 19:38:49] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:38:49] ✅   Step 4: FFmpeg encode (26.7s)
+[2026-08-28 19:38:57] ✅   ✅ OK: auto_20260828_193825_Malunkyaputta_Và_Những_Câu_Hỏi_Siêu_Hình.mp4 (1.05MB)
+[2026-08-28 19:38:57] 🔵 BUILD: Sona Và Bài Học Dây Đàn: Triết Lý Trung Đạo Qua Câu Chuyện N
+[2026-08-28 19:38:57] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-08-28 19:38:57] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-08-28 19:39:28] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-08-28 19:39:29] ✅   Step 4: FFmpeg encode (25.9s)
+[2026-08-28 19:39:38] ✅   ✅ OK: auto_20260828_193857_Sona_Và_Bài_Học_Dây_Đàn__Triết_Lý_Trung_.mp4 (1.91MB)

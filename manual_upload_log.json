@@ -3690,11 +3690,11 @@
       "Shorts",
       "nikaya"
     ],
-    "status": "ready",
-    "youtube_video_id": null,
-    "youtube_url": null,
-    "uploaded_at": null,
-    "upload_count": 0
+    "status": "uploaded",
+    "youtube_video_id": "kyHyHGiRwVc",
+    "youtube_url": "https://www.youtube.com/watch?v=kyHyHGiRwVc",
+    "uploaded_at": "2026-08-28T15:11:29.480130",
+    "upload_count": 1
   },
   {
     "id": "b693d833-cf2f-49f0-acb1-6b297afe5b56",

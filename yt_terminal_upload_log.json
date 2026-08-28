@@ -768,5 +768,38 @@
     "youtube_video_id": null,
     "youtube_url": null,
     "error": "Upload hoàn tất nhưng không lấy được video ID"
+  },
+  {
+    "uploaded_at": "2026-08-28T15:11:29.480130",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4",
+    "file_name": "auto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4",
+    "title": "Kinh Nikaya Giữ Vững Sức Mạnh Chánh Mạn",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "kyHyHGiRwVc",
+    "youtube_url": "https://www.youtube.com/watch?v=kyHyHGiRwVc",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-08-28T19:28:33.207547",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4",
+    "file_name": "auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4",
+    "title": "Kinh Nikaya Lối Sống Biết Đủ Santutthi",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "ZQ9y48FE7Ys",
+    "youtube_url": "https://www.youtube.com/watch?v=ZQ9y48FE7Ys",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-08-28T19:31:23.411745",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4",
+    "file_name": "auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4",
+    "title": "Kinh Nikaya Sức Mạnh Của Nhẫn Nại Khan",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "F8JJKgySalA",
+    "youtube_url": "https://www.youtube.com/watch?v=F8JJKgySalA",
+    "error": null
   }
 ]

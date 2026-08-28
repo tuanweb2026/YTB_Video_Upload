@@ -1729,3 +1729,139 @@
 [34m🔵 Đang upload 0.0 MB lên YouTube...[0m
 
 [2026-08-28 15:00:03] FAILED: auto_20260826_221553_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 → Error: Upload hoàn tất nhưng không lấy được video ID
+
+============================================================
+[2026-08-28 15:11:20] === AUTO-SHORT UPLOAD START ===
+[2026-08-28 15:11:20] STARTING: auto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4 (1.1 MB)
+[2026-08-28 15:11:29] FILE: auto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4 → YT ID: kyHyHGiRwVc (status: uploaded)
+[2026-08-28 15:11:29] URL: https://www.youtube.com/watch?v=kyHyHGiRwVc
+[2026-08-28 15:11:29] DONE: Còn 150 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-28 15:11:20] STARTING: auto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4 (1.1 MB)
+[36mℹ️  Pending: 151 video · Đang upload: auto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4[0m
+  📝 Tiêu đề: [1mKinh Nikaya Giữ Vững Sức Mạnh Chánh Mạn[0m
+  📦 Size   : [33m1.1 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.1 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.6 MB/s
+[2026-08-28 15:11:29] FILE: auto_20260826_223454_Kinh_Nikaya__Giữ_Vững_Sức_Mạnh_Chánh_Mạn.mp4 → YT ID: kyHyHGiRwVc (status: uploaded)
+[2026-08-28 15:11:29] URL: https://www.youtube.com/watch?v=kyHyHGiRwVc
+[2026-08-28 15:11:29] DONE: Còn 150 video chờ upload.
+[2026-08-28 15:11:29] === AUTO-SHORT UPLOAD END (OK) ===
+
+============================================================
+[2026-08-28 16:03:41] === AUTO-SHORT UPLOAD START ===
+[2026-08-28 16:03:41] STARTING: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 (0.9 MB)
+[2026-08-28 16:03:41] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-28 16:03:41] STARTING: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 (0.9 MB)
+[36mℹ️  Pending: 15 video · Đang upload: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 8] nodename nor servname provided, or not known>[0m
+[2026-08-28 16:03:41] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+[2026-08-28 16:03:41] === AUTO-SHORT UPLOAD END (EXIT CODE: 2) ===
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-28 16:03:41] STARTING: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 (0.9 MB)
+[36mℹ️  Pending: 15 video · Đang upload: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 8] nodename nor servname provided, or not known>[0m
+[2026-08-28 16:03:41] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+============================================================
+[2026-08-28 19:27:06] === AUTO-SHORT UPLOAD START ===
+[2026-08-28 19:27:06] STARTING: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 (0.9 MB)
+[2026-08-28 19:28:33] FILE: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 → YT ID: ZQ9y48FE7Ys (status: uploaded)
+[2026-08-28 19:28:33] URL: https://www.youtube.com/watch?v=ZQ9y48FE7Ys
+[2026-08-28 19:28:33] DONE: Còn 59 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-28 19:27:06] STARTING: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 (0.9 MB)
+[36mℹ️  Pending: 60 video · Đang upload: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4[0m
+  📝 Tiêu đề: [1mKinh Nikaya Lối Sống Biết Đủ Santutthi[0m
+  📦 Size   : [33m0.9 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.9 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.4 MB/s
+[2026-08-28 19:28:33] FILE: auto_20260828_154659_Kinh_Nikaya__Lối_Sống_Biết_Đủ__SANTUTTHI.mp4 → YT ID: ZQ9y48FE7Ys (status: uploaded)
+[2026-08-28 19:28:33] URL: https://www.youtube.com/watch?v=ZQ9y48FE7Ys
+[2026-08-28 19:28:33] DONE: Còn 59 video chờ upload.
+[2026-08-28 19:28:33] === AUTO-SHORT UPLOAD END (OK) ===
+
+============================================================
+[2026-08-28 19:30:01] === AUTO-SHORT UPLOAD START ===
+[2026-08-28 19:30:01] STARTING: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 (1.4 MB)
+[2026-08-28 19:31:23] FILE: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 → YT ID: F8JJKgySalA (status: uploaded)
+[2026-08-28 19:31:23] URL: https://www.youtube.com/watch?v=F8JJKgySalA
+[2026-08-28 19:31:23] DONE: Còn 63 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-28 19:30:01] STARTING: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 (1.4 MB)
+[36mℹ️  Pending: 64 video · Đang upload: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4[0m
+  📝 Tiêu đề: [1mKinh Nikaya Sức Mạnh Của Nhẫn Nại Khan[0m
+  📦 Size   : [33m1.4 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.4 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.5 MB/s
+[2026-08-28 19:31:23] FILE: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 → YT ID: F8JJKgySalA (status: uploaded)
+[2026-08-28 19:31:23] URL: https://www.youtube.com/watch?v=F8JJKgySalA
+[2026-08-28 19:31:23] DONE: Còn 63 video chờ upload.
+[2026-08-28 19:31:23] === AUTO-SHORT UPLOAD END (OK) ===
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-08-28 19:30:01] STARTING: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 (1.4 MB)
+[36mℹ️  Pending: 64 video · Đang upload: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4[0m
+  📝 Tiêu đề: [1mKinh Nikaya Sức Mạnh Của Nhẫn Nại Khan[0m
+  📦 Size   : [33m1.4 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.4 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.5 MB/s
+[2026-08-28 19:31:23] FILE: auto_20260828_154808_Kinh_Nikaya__Sức_Mạnh_Của_Nhẫn_Nại__KHAN.mp4 → YT ID: F8JJKgySalA (status: uploaded)
+[2026-08-28 19:31:23] URL: https://www.youtube.com/watch?v=F8JJKgySalA
+[2026-08-28 19:31:23] DONE: Còn 63 video chờ upload.
