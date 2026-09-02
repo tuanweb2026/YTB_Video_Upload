@@ -608,5 +608,31 @@
     "calendar_date": "29/08/2026",
     "category": "Series B - Tư Duy Deep Work Sáng",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": null,
+    "day": 8,
+    "slot": "slot_11am",
+    "title": "Học Cách Nói KHÔNG Mà Không Cảm Thấy Áy Nấy Hay Bác Bỏ #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=7Z6EntCT54g",
+    "video_id": "7Z6EntCT54g",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_8_slot_11am.mp4",
+    "published_at": "2026-08-29T11:00:17.143172",
+    "calendar_date": "29/08/2026",
+    "category": "Series A - Sơ Cứu Tâm Lý & Chữa Lành Trưa",
+    "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": null,
+    "day": 12,
+    "slot": "slot_08am",
+    "title": "Phương Pháp Học Sâu (Deep Work): Hoàn Thành Việc Khó Trong Thời Gian Ngắn #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=MM_7BArKpuM",
+    "video_id": "MM_7BArKpuM",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_12_slot_08am.mp4",
+    "published_at": "2026-09-02T10:32:59.822951",
+    "calendar_date": "02/09/2026",
+    "category": "Series B - Tư Duy Deep Work Sáng",
+    "status": "LIVE_SUCCESS"
   }
 ]
