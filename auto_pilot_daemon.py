@@ -75,6 +75,22 @@ def run_slot(slot_key):
     except Exception as e:
         log_message(f"💥 Exception during execution of {slot_key}: {e}")
 
+def run_short_upload():
+    log_message("⚡ 30-min Short auto-upload trigger starting...")
+    try:
+        res = subprocess.run(
+            [sys.executable, f"{SCRATCH_DIR}/upload_short_videos.py"],
+            cwd=SCRATCH_DIR,
+            capture_output=True,
+            text=True
+        )
+        if res.returncode == 0:
+            log_message("✅ 30-min Short auto-upload completed successfully.")
+        else:
+            log_message(f"⚠️ 30-min Short auto-upload finished with code {res.returncode}.")
+    except Exception as e:
+        log_message(f"💥 Exception during short auto-upload: {e}")
+
 def daemon_loop():
     acquire_lock()
     log_message("🚀 Standalone Auto-Pilot Daemon started successfully!")
@@ -86,13 +102,18 @@ def daemon_loop():
     
     last_triggered_date = ""
     last_triggered_time = ""
+    last_short_slot = ""
+    last_short_upload_time = time.time()
     
     try:
         while True:
             now = datetime.now()
             current_date = now.strftime("%Y-%m-%d")
             current_time_str = now.strftime("%H:%M")
+            current_hour = now.hour
+            current_minute = now.minute
             
+            # 1. Check 5 golden hour slots
             if current_time_str in SCHEDULE:
                 if last_triggered_date != current_date or last_triggered_time != current_time_str:
                     slot_key = SCHEDULE[current_time_str]
@@ -100,6 +121,16 @@ def daemon_loop():
                     run_slot(slot_key)
                     last_triggered_date = current_date
                     last_triggered_time = current_time_str
+            
+            # 2. Check 30-minute Shorts upload (08:00 - 23:59) with sleep wake-up catch-up
+            if 8 <= current_hour <= 23:
+                is_exact_slot = (current_minute in [0, 30]) and (last_short_slot != f"{current_date}_{current_hour}_{current_minute}")
+                is_overdue = (time.time() - last_short_upload_time >= 1920) # 32 mins overdue due to sleep
+                
+                if is_exact_slot or is_overdue:
+                    last_short_slot = f"{current_date}_{current_hour}_{current_minute}"
+                    last_short_upload_time = time.time()
+                    run_short_upload()
                     
             time.sleep(10)
     except KeyboardInterrupt:
@@ -111,3 +142,4 @@ def daemon_loop():
 
 if __name__ == "__main__":
     daemon_loop()
+
