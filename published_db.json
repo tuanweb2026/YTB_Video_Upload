@@ -673,5 +673,18 @@
     "calendar_date": "02/09/2026",
     "category": "Triết Lý Nikaya Kinh Đêm",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": 33,
+    "day": 12,
+    "slot": "slot_2130pm",
+    "title": "Tứ Diệu Đế #3 - Diệt Đế: Niết Bàn Là Trạng Thái Hạnh Phúc Cao Nhất Không Phải Sự Chết #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=b7lEHeU_VX8",
+    "video_id": "b7lEHeU_VX8",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_12_slot_2130pm.mp4",
+    "published_at": "2026-09-02T21:30:08.959131",
+    "calendar_date": "02/09/2026",
+    "category": "Triết Lý Nikaya Kinh Đêm",
+    "status": "LIVE_SUCCESS"
   }
 ]

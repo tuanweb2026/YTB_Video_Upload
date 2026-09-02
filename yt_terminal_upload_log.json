@@ -1208,5 +1208,71 @@
     "youtube_video_id": "GUTpw_Y0sLA",
     "youtube_url": "https://www.youtube.com/watch?v=GUTpw_Y0sLA",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T21:00:06.441057",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165451_Chánh_Định__Samma_Samadhi___4_Tầng_Jhana.mp4",
+    "file_name": "auto_20260828_165451_Chánh_Định__Samma_Samadhi___4_Tầng_Jhana.mp4",
+    "title": "Chánh Định Samma Samadhi 4 Tầng Jhana",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "G6kwPrydnKk",
+    "youtube_url": "https://www.youtube.com/watch?v=G6kwPrydnKk",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T21:00:11.782986",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165451_Chánh_Định__Samma_Samadhi___4_Tầng_Jhana.mp4",
+    "file_name": "auto_20260828_165451_Chánh_Định__Samma_Samadhi___4_Tầng_Jhana.mp4",
+    "title": "Chánh Định Samma Samadhi 4 Tầng Jhana",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "lynOoFyNcys",
+    "youtube_url": "https://www.youtube.com/watch?v=lynOoFyNcys",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T21:30:14.638675",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165617_Phật_Dạy_Cách_Trị_Lo_Âu__5_Kỹ_Thuật_Tâm_.mp4",
+    "file_name": "auto_20260828_165617_Phật_Dạy_Cách_Trị_Lo_Âu__5_Kỹ_Thuật_Tâm_.mp4",
+    "title": "Phật Dạy Cách Trị Lo Âu 5 Kỹ Thuật Tâm",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "oxkXtlS2pGc",
+    "youtube_url": "https://www.youtube.com/watch?v=oxkXtlS2pGc",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T21:30:17.996582",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165617_Phật_Dạy_Cách_Trị_Lo_Âu__5_Kỹ_Thuật_Tâm_.mp4",
+    "file_name": "auto_20260828_165617_Phật_Dạy_Cách_Trị_Lo_Âu__5_Kỹ_Thuật_Tâm_.mp4",
+    "title": "Phật Dạy Cách Trị Lo Âu 5 Kỹ Thuật Tâm",
+    "privacy": "public",
+    "status": "failed",
+    "youtube_video_id": null,
+    "youtube_url": null,
+    "error": "Lỗi upload: <urlopen error [Errno 32] Broken pipe>"
+  },
+  {
+    "uploaded_at": "2026-09-02T22:00:12.800958",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165702_Vượt_Qua_Trầm_Cảm_Với_Trí_Tuệ_Nikaya__Kh.mp4",
+    "file_name": "auto_20260828_165702_Vượt_Qua_Trầm_Cảm_Với_Trí_Tuệ_Nikaya__Kh.mp4",
+    "title": "Vượt Qua Trầm Cảm Với Trí Tuệ Nikaya Kh",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "hpbrQjXxnxI",
+    "youtube_url": "https://www.youtube.com/watch?v=hpbrQjXxnxI",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T22:00:19.199279",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165702_Vượt_Qua_Trầm_Cảm_Với_Trí_Tuệ_Nikaya__Kh.mp4",
+    "file_name": "auto_20260828_165702_Vượt_Qua_Trầm_Cảm_Với_Trí_Tuệ_Nikaya__Kh.mp4",
+    "title": "Vượt Qua Trầm Cảm Với Trí Tuệ Nikaya Kh",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "zpb3GkbtwpQ",
+    "youtube_url": "https://www.youtube.com/watch?v=zpb3GkbtwpQ",
+    "error": null
   }
 ]
