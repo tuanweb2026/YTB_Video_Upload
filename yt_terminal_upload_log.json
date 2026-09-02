@@ -1274,5 +1274,27 @@
     "youtube_video_id": "zpb3GkbtwpQ",
     "youtube_url": "https://www.youtube.com/watch?v=zpb3GkbtwpQ",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T22:30:09.411925",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_191432_Thiện_Tri_Thức__Tiêu_Chí_Chọn_Bạn_Đúng_Đ.mp4",
+    "file_name": "auto_20260828_191432_Thiện_Tri_Thức__Tiêu_Chí_Chọn_Bạn_Đúng_Đ.mp4",
+    "title": "Thiện Tri Thức Tiêu Chí Chọn Bạn Đúng Đ",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "4MpqDyq9Vwc",
+    "youtube_url": "https://www.youtube.com/watch?v=4MpqDyq9Vwc",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T22:30:24.490969",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_191516_Phật_Dạy_Về_Tình_Yêu_Và_Hôn_Nhân__Kinh_P.mp4",
+    "file_name": "auto_20260828_191516_Phật_Dạy_Về_Tình_Yêu_Và_Hôn_Nhân__Kinh_P.mp4",
+    "title": "Phật Dạy Về Tình Yêu Và Hôn Nhân Kinh P",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "d6ZVaGr_KpA",
+    "youtube_url": "https://www.youtube.com/watch?v=d6ZVaGr_KpA",
+    "error": null
   }
 ]
