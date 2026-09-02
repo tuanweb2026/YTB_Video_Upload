@@ -4608,3 +4608,675 @@ Conversion failed!
 [2026-09-02 15:37:54] 🔵 BUILD: Deep Work Và Thiền Định: Khi Cal Newport Và Phật Giáo Gặp Nh
 [2026-09-02 15:37:54] ✅   Step 1: BG = bg_zen_evening.jpg
 [2026-09-02 15:37:54] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:38:10] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:38:12] ✅   Step 4: FFmpeg encode (19.5s)
+[2026-09-02 15:38:56] 🔵 BUILD: Top 15 Sách Phật Giáo Hay Nhất Cho Người Mới: Từ Nikaya Đến 
+[2026-09-02 15:38:56] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 15:38:57] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:39:17] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:39:18] ✅   Step 4: FFmpeg encode (19.4s)
+[2026-09-02 15:39:28] ✅   ✅ OK: auto_20260902_153856_Top_15_Sách_Phật_Giáo_Hay_Nhất_Cho_Người.mp4 (0.79MB)
+[2026-09-02 15:39:28] 🔵 BUILD: Top 10 Podcast Thiền Định Và Phật Giáo Tiếng Việt Và Tiếng A
+[2026-09-02 15:39:28] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 15:39:28] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:39:44] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:39:44] ✅   Step 4: FFmpeg encode (18.3s)
+[2026-09-02 15:39:56] ✅   ✅ OK: auto_20260902_153928_Top_10_Podcast_Thiền_Định_Và_Phật_Giáo_T.mp4 (1.39MB)
+[2026-09-02 15:39:56] 🔵 BUILD: Top 7 App Thiền Định Tốt Nhất: Từ Insight Timer Đến Waking U
+[2026-09-02 15:39:56] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 15:39:56] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:40:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:40:14] ✅   Step 4: FFmpeg encode (19.3s)
+[2026-09-02 15:40:28] ✅   ✅ OK: auto_20260902_153956_Top_7_App_Thiền_Định_Tốt_Nhất__Từ_Insigh.mp4 (1.40MB)
+[2026-09-02 15:40:28] 🔵 BUILD: Hành Hương 4 Thánh Địa Phật Giáo: Lumbini, Bodh Gaya, Sarnat
+[2026-09-02 15:40:28] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 15:40:28] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:40:46] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:40:46] ✅   Step 4: FFmpeg encode (20.6s)
+[2026-09-02 15:40:56] ✅   ✅ OK: auto_20260902_154028_Hành_Hương_4_Thánh_Địa_Phật_Giáo__Lumbin.mp4 (1.04MB)
+[2026-09-02 15:40:56] 🔵 BUILD: Đại Lễ Vesak - Tam Hợp Phật Đản: Ý Nghĩa Của Ngày Thiêng Liê
+[2026-09-02 15:40:56] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 15:40:57] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:41:23] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:41:23] ✅   Step 4: FFmpeg encode (18.7s)
+[2026-09-02 15:41:29] ✅   ✅ OK: auto_20260902_154056_Đại_Lễ_Vesak___Tam_Hợp_Phật_Đản__Ý_Nghĩa.mp4 (1.09MB)
+[2026-09-02 15:41:29] 🔵 BUILD: Phật Giáo Nguyên Thủy Trong Thế Kỷ 21: Sức Sống Mới Và Cộng 
+[2026-09-02 15:41:29] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 15:41:29] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:41:43] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:41:44] ✅   Step 4: FFmpeg encode (19.2s)
+[2026-09-02 15:41:49] ✅   ✅ OK: auto_20260902_154129_Phật_Giáo_Nguyên_Thủy_Trong_Thế_Kỷ_21__S.mp4 (1.02MB)
+[2026-09-02 15:41:49] 🔵 BUILD: Q&A Phật Giáo #1: Trả Lời 20 Câu Hỏi Thường Gặp Nhất Của Ngư
+[2026-09-02 15:41:49] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 15:41:49] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:42:03] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:42:03] ✅   Step 4: FFmpeg encode (19.7s)
+[2026-09-02 15:42:09] ✅   ✅ OK: auto_20260902_154149_Q_A_Phật_Giáo__1__Trả_Lời_20_Câu_Hỏi_Thư.mp4 (0.77MB)
+[2026-09-02 15:42:09] 🔵 BUILD: Q&A Phật Giáo #2: Có Cần Ăn Chay Không? Có Cần Vào Chùa Khôn
+[2026-09-02 15:42:09] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 15:42:09] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:42:31] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:42:31] ✅   Step 4: FFmpeg encode (22.0s)
+[2026-09-02 15:42:37] ✅   ✅ OK: auto_20260902_154209_Q_A_Phật_Giáo__2__Có_Cần_Ăn_Chay_Không__.mp4 (1.44MB)
+[2026-09-02 15:42:37] 🔵 BUILD: 10 Hiểu Lầm Phổ Biến Nhất Về Phật Giáo Mà 90% Người Việt Nam
+[2026-09-02 15:42:37] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 15:42:38] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:42:55] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:42:55] ✅   Step 4: FFmpeg encode (19.0s)
+[2026-09-02 15:43:01] ✅   ✅ OK: auto_20260902_154237_10_Hiểu_Lầm_Phổ_Biến_Nhất_Về_Phật_Giáo_M.mp4 (0.77MB)
+[2026-09-02 15:43:01] 🔵 BUILD: Người Không Tin Thần Linh Có Học Phật Giáo Được Không? Câu T
+[2026-09-02 15:43:01] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 15:43:01] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:43:18] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:43:18] ✅   Step 4: FFmpeg encode (19.9s)
+[2026-09-02 15:43:25] ✅   ✅ OK: auto_20260902_154301_Người_Không_Tin_Thần_Linh_Có_Học_Phật_Gi.mp4 (1.42MB)
+[2026-09-02 15:43:25] 🔵 BUILD: Phật Giáo Và Kitô Giáo: Điểm Chung Bất Ngờ Và Sự Tôn Trọng G
+[2026-09-02 15:43:25] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 15:43:25] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:43:37] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:43:38] ✅   Step 4: FFmpeg encode (19.7s)
+[2026-09-02 15:43:44] ✅   ✅ OK: auto_20260902_154325_Phật_Giáo_Và_Kitô_Giáo__Điểm_Chung_Bất_N.mp4 (1.40MB)
+[2026-09-02 15:43:44] 🔵 BUILD: Phật Không Chống Lại Sự Giàu Có: Bí Quyết Thịnh Vượng Đạo Đứ
+[2026-09-02 15:43:44] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 15:43:44] 🔵 BUILD: Warren Buffett Và Phật Giáo: Triết Lý Đầu Tư Dài Hạn Và Bài 
+[2026-09-02 15:43:44] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 15:43:44] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:43:58] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:43:58] ✅   Step 4: FFmpeg encode (19.6s)
+[2026-09-02 15:44:04] ✅   ✅ OK: auto_20260902_154344_Warren_Buffett_Và_Phật_Giáo__Triết_Lý_Đầ.mp4 (1.11MB)
+[2026-09-02 15:44:04] 🔵 BUILD: Startup Mindful: Xây Dựng Doanh Nghiệp Với Chánh Niệm Và Tri
+[2026-09-02 15:44:04] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 15:44:04] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:44:23] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:44:23] ✅   Step 4: FFmpeg encode (18.8s)
+[2026-09-02 15:44:29] ✅   ✅ OK: auto_20260902_154404_Startup_Mindful__Xây_Dựng_Doanh_Nghiệp_V.mp4 (0.99MB)
+[2026-09-02 15:44:29] 🔵 BUILD: Kinh Doanh Có Tâm: Chánh Mạng Và Đạo Đức Kinh Doanh Theo Phậ
+[2026-09-02 15:44:29] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 15:44:29] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:44:41] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:44:42] ✅   Step 4: FFmpeg encode (18.7s)
+[2026-09-02 15:44:47] ✅   ✅ OK: auto_20260902_154429_Kinh_Doanh_Có_Tâm__Chánh_Mạng_Và_Đạo_Đức.mp4 (0.75MB)
+[2026-09-02 15:44:47] 🔵 BUILD: Silicon Valley Và Phật Giáo: Tại Sao Nhiều CEO Công Nghệ Lớn
+[2026-09-02 15:44:47] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 15:44:47] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:45:09] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:45:09] ✅   Step 4: FFmpeg encode (19.5s)
+[2026-09-02 15:45:15] ✅   ✅ OK: auto_20260902_154447_Silicon_Valley_Và_Phật_Giáo__Tại_Sao_Nhi.mp4 (1.41MB)
+[2026-09-02 15:45:15] 🔵 BUILD: Kinh Pháp Cú Chương 1: Tâm Là Chủ - 20 Câu Kệ Về Sức Mạnh Củ
+[2026-09-02 15:45:15] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 15:45:15] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:45:33] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:45:33] ✅   Step 4: FFmpeg encode (17.7s)
+[2026-09-02 15:45:38] ✅   ✅ OK: auto_20260902_154515_Kinh_Pháp_Cú_Chương_1__Tâm_Là_Chủ___20_C.mp4 (0.75MB)
+[2026-09-02 15:45:38] 🔵 BUILD: Kinh Pháp Cú Chương 2-3: Không Phóng Dật Và Tâm - Nền Tảng C
+[2026-09-02 15:45:38] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 15:45:38] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:45:58] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:45:58] ✅   Step 4: FFmpeg encode (18.9s)
+[2026-09-02 15:46:04] ✅   ✅ OK: auto_20260902_154538_Kinh_Pháp_Cú_Chương_2_3__Không_Phóng_Dật.mp4 (1.41MB)
+[2026-09-02 15:46:04] 🔵 BUILD: Kinh Pháp Cú Chương 4-6: Hoa, Kẻ Ngu Và Người Trí - Phân Biệ
+[2026-09-02 15:46:04] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 15:46:04] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:46:18] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:46:19] ✅   Step 4: FFmpeg encode (19.3s)
+[2026-09-02 15:46:25] ✅   ✅ OK: auto_20260902_154604_Kinh_Pháp_Cú_Chương_4_6__Hoa__Kẻ_Ngu_Và_.mp4 (1.39MB)
+[2026-09-02 15:46:25] 🔵 BUILD: Kinh Pháp Cú Chương 7-10: Bậc A La Hán, Ngàn Và Ác - Tiêu Ch
+[2026-09-02 15:46:25] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 15:46:25] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:46:41] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:46:42] ✅   Step 4: FFmpeg encode (19.4s)
+[2026-09-02 15:46:48] ✅   ✅ OK: auto_20260902_154625_Kinh_Pháp_Cú_Chương_7_10__Bậc_A_La_Hán__.mp4 (1.04MB)
+[2026-09-02 15:46:48] 🔵 BUILD: Kinh Pháp Cú Chương 11-15: Già, Tự Ngã, Hạnh Phúc - Triết Lý
+[2026-09-02 15:46:48] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 15:46:48] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:47:05] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:47:05] ✅   Step 4: FFmpeg encode (20.3s)
+[2026-09-02 15:47:13] ✅   ✅ OK: auto_20260902_154648_Kinh_Pháp_Cú_Chương_11_15__Già__Tự_Ngã__.mp4 (1.11MB)
+[2026-09-02 15:47:13] 🔵 BUILD: Kinh Tập (Suttanipāta): Bộ Kinh Cổ Nhất Trong Nikaya Và Nhữn
+[2026-09-02 15:47:13] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 15:47:13] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:47:33] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:47:34] ✅   Step 4: FFmpeg encode (19.4s)
+[2026-09-02 15:47:39] ✅   ✅ OK: auto_20260902_154713_Kinh_Tập__Suttanipāta___Bộ_Kinh_Cổ_Nhất_.mp4 (1.01MB)
+[2026-09-02 15:47:39] 🔵 BUILD: Kinh Phật Tự Thuyết (Udāna): 80 Kinh Ngắn Trong Những Khoảnh
+[2026-09-02 15:47:39] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 15:47:39] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:47:53] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:47:54] ✅   Step 4: FFmpeg encode (18.7s)
+[2026-09-02 15:48:00] ✅   ✅ OK: auto_20260902_154739_Kinh_Phật_Tự_Thuyết__Udāna___80_Kinh_Ngắ.mp4 (0.75MB)
+[2026-09-02 15:48:00] 🔵 BUILD: Kinh Như Vậy Thuyết (Itivuttaka): 112 Kinh Ngắn Bắt Đầu Bằng
+[2026-09-02 15:48:00] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 15:48:00] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:48:16] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:48:16] ✅   Step 4: FFmpeg encode (19.4s)
+[2026-09-02 15:48:22] 🔵 BUILD: Theragatha: Những Bài Kệ Của 264 Vị Trưởng Lão Tăng Đã Giác 
+[2026-09-02 15:48:22] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 15:48:22] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:48:46] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:48:46] ✅   Step 4: FFmpeg encode (19.9s)
+[2026-09-02 15:48:52] ✅   ✅ OK: auto_20260902_154822_Theragatha__Những_Bài_Kệ_Của_264_Vị_Trưở.mp4 (0.79MB)
+[2026-09-02 15:48:52] 🔵 BUILD: Therigatha: Những Bài Kệ Của 73 Vị Trưởng Lão Ni - Tiếng Nói
+[2026-09-02 15:48:52] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 15:48:52] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:49:04] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:49:05] ✅   Step 4: FFmpeg encode (19.4s)
+[2026-09-02 15:49:12] ✅   ✅ OK: auto_20260902_154852_Therigatha__Những_Bài_Kệ_Của_73_Vị_Trưởn.mp4 (1.40MB)
+[2026-09-02 15:49:12] 🔵 BUILD: Jataka - Kinh Bổn Sinh: 547 Câu Chuyện Tiền Kiếp Phật Và Bài
+[2026-09-02 15:49:12] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 15:49:12] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:49:30] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:49:30] ✅   Step 4: FFmpeg encode (19.5s)
+[2026-09-02 15:49:36] ✅   ✅ OK: auto_20260902_154912_Jataka___Kinh_Bổn_Sinh__547_Câu_Chuyện_T.mp4 (1.40MB)
+[2026-09-02 15:49:36] 🔵 BUILD: Thanh Tịnh Đạo (Visuddhimagga): Bộ Luận Quan Trọng Nhất Ther
+[2026-09-02 15:49:36] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 15:49:36] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:49:45] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:49:46] ✅   Step 4: FFmpeg encode (18.8s)
+[2026-09-02 15:49:51] ✅   ✅ OK: auto_20260902_154936_Thanh_Tịnh_Đạo__Visuddhimagga___Bộ_Luận_.mp4 (1.03MB)
+[2026-09-02 15:49:51] 🔵 BUILD: Vi Diệu Pháp (Abhidhamma Pitaka): Tâm Lý Học Phật Giáo Siêu 
+[2026-09-02 15:49:51] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 15:49:51] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:50:06] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:50:06] ✅   Step 4: FFmpeg encode (20.0s)
+[2026-09-02 15:50:12] ✅   ✅ OK: auto_20260902_154951_Vi_Diệu_Pháp__Abhidhamma_Pitaka___Tâm_Lý.mp4 (1.11MB)
+[2026-09-02 15:50:12] 🔵 BUILD: Âm Nhạc Cổ Điển Và Thiền Định: Mozart, Bach Và Phật Giáo - M
+[2026-09-02 15:50:12] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 15:50:12] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:50:27] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:50:27] ✅   Step 4: FFmpeg encode (19.7s)
+[2026-09-02 15:50:33] ✅   ✅ OK: auto_20260902_155012_Âm_Nhạc_Cổ_Điển_Và_Thiền_Định__Mozart__B.mp4 (1.02MB)
+[2026-09-02 15:50:33] 🔵 BUILD: Phật Giáo Trong Văn Học Việt Nam: Từ Thiền Sư Vạn Hạnh Đến V
+[2026-09-02 15:50:33] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 15:50:33] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:50:49] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:50:49] ✅   Step 4: FFmpeg encode (18.9s)
+[2026-09-02 15:50:57] ✅   ✅ OK: auto_20260902_155033_Phật_Giáo_Trong_Văn_Học_Việt_Nam__Từ_Thi.mp4 (0.75MB)
+[2026-09-02 15:50:57] 🔵 BUILD: Nghệ Thuật Phật Giáo: Từ Điêu Khắc Ấn Độ Đến Thangka Tây Tạn
+[2026-09-02 15:50:57] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 15:50:57] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:51:16] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:51:16] ✅   Step 4: FFmpeg encode (19.2s)
+[2026-09-02 15:51:24] ✅   ✅ OK: auto_20260902_155057_Nghệ_Thuật_Phật_Giáo__Từ_Điêu_Khắc_Ấn_Độ.mp4 (1.40MB)
+[2026-09-02 15:51:24] 🔵 BUILD: Kiến Trúc Phật Giáo: Từ Stupa Ấn Độ Đến Chùa Chiền Việt Nam 
+[2026-09-02 15:51:24] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 15:51:24] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:51:38] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:51:38] ✅   Step 4: FFmpeg encode (19.8s)
+[2026-09-02 15:51:44] ✅   ✅ OK: auto_20260902_155124_Kiến_Trúc_Phật_Giáo__Từ_Stupa_Ấn_Độ_Đến_.mp4 (0.79MB)
+[2026-09-02 15:51:44] 🔵 BUILD: Sứ Mệnh 1 Triệu View: Lan Tỏa Chánh Pháp Và Trao Đổi Cùng Cộ
+[2026-09-02 15:51:44] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 15:51:44] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:51:58] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:51:59] ✅   Step 4: FFmpeg encode (19.1s)
+[2026-09-02 15:52:05] ✅   ✅ OK: auto_20260902_155144_Sứ_Mệnh_1_Triệu_View__Lan_Tỏa_Chánh_Pháp.mp4 (1.41MB)
+[2026-09-02 15:52:05] 🔵 BUILD: AI Và Phật Giáo: Vô Ngã Trong Thời Đại Trí Tuệ Nhân Tạo - Co
+[2026-09-02 15:52:05] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 15:52:06] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:52:24] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:52:25] ✅   Step 4: FFmpeg encode (23.8s)
+[2026-09-02 15:52:37] ✅   ✅ OK: auto_20260902_155205_AI_Và_Phật_Giáo__Vô_Ngã_Trong_Thời_Đại_T.mp4 (1.83MB)
+[2026-09-02 15:52:37] 🔵 BUILD: Cộng Đồng Thảo Dương TV: Cùng Nhau Học Phật Pháp Và Hỗ Trợ N
+[2026-09-02 15:52:37] 🔵 BUILD: Hành Trình 1 Triệu View: Lời Cảm Ơn Và Cam Kết Tiếp Tục Lan 
+[2026-09-02 15:52:37] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 15:52:37] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:52:53] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:52:55] ✅   Step 4: FFmpeg encode (23.6s)
+[2026-09-02 15:53:24] ✅   ✅ OK: auto_20260902_155237_Hành_Trình_1_Triệu_View__Lời_Cảm_Ơn_Và_C.mp4 (1.41MB)
+[2026-09-02 15:53:24] 🔵 BUILD: TỔNG HỢP TẤT CẢ BÀI VIẾT
+[2026-09-02 15:53:24] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 15:53:25] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:53:40] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:53:42] ✅   Step 4: FFmpeg encode (21.2s)
+[2026-09-02 15:54:02] ✅   ✅ OK: auto_20260902_155324_TỔNG_HỢP_TẤT_CẢ_BÀI_VIẾT.mp4 (0.99MB)
+[2026-09-02 15:54:02] 🔵 BUILD: GỬI NHỮNG GIA ÐÌNH HỮU DUYÊN: CON ÐƯỜNG GIÁO DỤC TỰ HỌC, KHA
+[2026-09-02 15:54:02] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 15:54:03] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:54:23] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:54:24] ✅   Step 4: FFmpeg encode (21.7s)
+[2026-09-02 15:54:46] ✅   ✅ OK: auto_20260902_155402_GỬI_NHỮNG_GIA_ÐÌNH_HỮU_DUYÊN__CON_ÐƯỜNG_.mp4 (0.77MB)
+[2026-09-02 15:54:46] 🔵 BUILD: Giữa một thời đại mà giáo dục đôi khi bị áp lực thành tích đ
+[2026-09-02 15:54:46] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 15:54:46] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:55:04] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:55:05] ✅   Step 4: FFmpeg encode (23.1s)
+[2026-09-02 15:55:26] ✅   ✅ OK: auto_20260902_155446_Giữa_một_thời_đại_mà_giáo_dục_đôi_khi_bị.mp4 (1.71MB)
+[2026-09-02 15:55:26] 🔵 BUILD: Nhiều người nghĩ thương con là phải cho con học trường đắt t
+[2026-09-02 15:55:26] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 15:55:26] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:55:44] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:55:45] ✅   Step 4: FFmpeg encode (23.4s)
+[2026-09-02 15:56:17] ✅   ✅ OK: auto_20260902_155526_Nhiều_người_nghĩ_thương_con_là_phải_cho_.mp4 (0.97MB)
+[2026-09-02 15:56:17] 🔵 BUILD: : Ăn uống: Hãy ưu tiên cơm nhà nấu sạch sẽ, đủ chất. Cắt bỏ 
+[2026-09-02 15:56:17] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 15:56:17] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:56:38] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:56:38] ✅   Step 4: FFmpeg encode (25.3s)
+[2026-09-02 15:56:55] ✅   ✅ OK: auto_20260902_155617___Ăn_uống__Hãy_ưu_tiên_cơm_nhà_nấu_sạch_.mp4 (1.88MB)
+[2026-09-02 15:56:55] 🔵 BUILD: Cốt lõi: Khi cha mẹ bình thản, bớt mong cầu, không khí gia đ
+[2026-09-02 15:56:55] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 15:56:55] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:57:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:57:14] ✅   Step 4: FFmpeg encode (22.6s)
+[2026-09-02 15:57:27] ✅   ✅ OK: auto_20260902_155655_Cốt_lõi__Khi_cha_mẹ_bình_thản__bớt_mong_.mp4 (1.44MB)
+[2026-09-02 15:57:27] 🔵 BUILD: Thay vào đó, hãy rèn cho con thói quen tự đọc sách, tự giải 
+[2026-09-02 15:57:27] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 15:57:28] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:57:42] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:57:42] ✅   Step 4: FFmpeg encode (22.1s)
+[2026-09-02 15:57:56] ✅   ✅ OK: auto_20260902_155727_Thay_vào_đó__hãy_rèn_cho_con_thói_quen_t.mp4 (1.07MB)
+[2026-09-02 15:57:56] 🔵 BUILD: Ðầu tư đúng thế mạnh bẩm sinh: Ðừng bắt con học đều các môn 
+[2026-09-02 15:57:56] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 15:57:56] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:58:18] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:58:19] ✅   Step 4: FFmpeg encode (23.1s)
+[2026-09-02 15:58:42] ✅   ✅ OK: auto_20260902_155756_Ðầu_tư_đúng_thế_mạnh_bẩm_sinh__Ðừng_bắt_.mp4 (1.29MB)
+[2026-09-02 15:58:42] 🔵 BUILD: Không nhất thiết phải ép con vào đại học bằng mọi giá bằng n
+[2026-09-02 15:58:42] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 15:58:42] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 15:59:02] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:59:03] ✅   Step 4: FFmpeg encode (20.9s)
+[2026-09-02 15:59:32] ✅   ✅ OK: auto_20260902_155842_Không_nhất_thiết_phải_ép_con_vào_đại_học.mp4 (1.03MB)
+[2026-09-02 15:59:32] 🔵 BUILD: Kiến thức có thể học sau, nhưng nhân cách phải được rèn từ n
+[2026-09-02 15:59:32] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 15:59:32] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 15:59:56] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 15:59:57] ✅   Step 4: FFmpeg encode (24.6s)
+[2026-09-02 16:00:18] ✅   ✅ OK: auto_20260902_155932_Kiến_thức_có_thể_học_sau__nhưng_nhân_các.mp4 (0.98MB)
+[2026-09-02 16:00:18] 🔵 BUILD: Dạy con khả năng tập trung cao độ khi làm việc, sống trung t
+[2026-09-02 16:00:18] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 16:00:18] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:00:48] 🔵 BUILD: Mong rằng chút chia sẻ này sẽ chạm đến những gia đình Hữu Du
+[2026-09-02 16:00:48] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 16:00:48] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:01:04] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:01:05] ✅   Step 4: FFmpeg encode (19.9s)
+[2026-09-02 16:01:25] ✅   ✅ OK: auto_20260902_160048_Mong_rằng_chút_chia_sẻ_này_sẽ_chạm_đến_n.mp4 (0.79MB)
+[2026-09-02 16:01:25] 🔵 BUILD: [HOA SEN CHỈ NỞ TRONG BÙN: NGHỊCH LÝ CỦA HẠNH PHÚC VÀ SỰ TỈN
+[2026-09-02 16:01:25] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 16:01:25] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:01:50] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:01:50] ✅   Step 4: FFmpeg encode (22.6s)
+[2026-09-02 16:02:14] ✅   ✅ OK: auto_20260902_160125__HOA_SEN_CHỈ_NỞ_TRONG_BÙN__NGHỊCH_LÝ_CỦA.mp4 (1.62MB)
+[2026-09-02 16:02:14] 🔵 BUILD: Chúng ta thường nhìn vào các quốc gia Bắc Âu với sự ngưỡng m
+[2026-09-02 16:02:14] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 16:02:14] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:02:51] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 16:03:17] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:03:18] ✅   Step 4: FFmpeg encode (26.9s)
+[2026-09-02 16:03:37] ✅   ✅ OK: auto_20260902_160214_Chúng_ta_thường_nhìn_vào_các_quốc_gia_Bắ.mp4 (1.90MB)
+[2026-09-02 16:03:37] 🔵 BUILD: Ở các nước Bắc Âu, cuộc sống quá an ổn. Giáo dục miễn phí, y
+[2026-09-02 16:03:37] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 16:03:37] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:04:08] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:04:10] ✅   Step 4: FFmpeg encode (23.9s)
+[2026-09-02 16:04:45] ✅   ✅ OK: auto_20260902_160337_Ở_các_nước_Bắc_Âu__cuộc_sống_quá_an_ổn__.mp4 (1.36MB)
+[2026-09-02 16:04:45] 🔵 BUILD: Ngược lại, ở các quốc gia thuần GDP, hạnh phúc của con người
+[2026-09-02 16:04:45] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 16:04:45] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:05:09] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:05:10] ✅   Step 4: FFmpeg encode (24.3s)
+[2026-09-02 16:05:32] ✅   ✅ OK: auto_20260902_160445_Ngược_lại__ở_các_quốc_gia_thuần_GDP__hạn.mp4 (1.45MB)
+[2026-09-02 16:05:32] 🔵 BUILD: Ðức Phật dạy: Không thấy Khổ thì không thể thấy Ðạo. Ðối với
+[2026-09-02 16:05:32] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 16:05:32] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:05:53] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:05:54] ✅   Step 4: FFmpeg encode (23.5s)
+[2026-09-02 16:06:10] ✅   ✅ OK: auto_20260902_160532_Ðức_Phật_dạy__Không_thấy_Khổ_thì_không_t.mp4 (1.31MB)
+[2026-09-02 16:06:10] 🔵 BUILD: Tuy nhiên, bản năng "muốn ít" thôi là chưa đủ. Nếu sống giữa
+[2026-09-02 16:06:10] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 16:06:10] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:06:25] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:06:26] ✅   Step 4: FFmpeg encode (24.1s)
+[2026-09-02 16:06:46] ✅   ✅ OK: auto_20260902_160610_Tuy_nhiên__bản_năng__muốn_ít__thôi_là_ch.mp4 (0.98MB)
+[2026-09-02 16:06:46] 🔵 BUILD: Bản năng thiểu dục là hạt mầm, nhưng Chánh pháp và Thiện tri
+[2026-09-02 16:06:46] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 16:06:46] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:07:01] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:07:02] ✅   Step 4: FFmpeg encode (22.7s)
+[2026-09-02 16:07:24] ✅   ✅ OK: auto_20260902_160646_Bản_năng_thiểu_dục_là_hạt_mầm__nhưng_Chá.mp4 (1.63MB)
+[2026-09-02 16:07:24] 🔵 BUILD: DUNG HÒA CHAY MẶN TRONG GIA ÐÌNH: BÀI HỌC VỀ TRÍ TUỆ VÀ BAO 
+[2026-09-02 16:07:24] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 16:07:24] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:07:41] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:07:42] ✅   Step 4: FFmpeg encode (22.5s)
+[2026-09-02 16:07:54] ✅   ✅ OK: auto_20260902_160724_DUNG_HÒA_CHAY_MẶN_TRONG_GIA_ÐÌNH__BÀI_HỌ.mp4 (0.80MB)
+[2026-09-02 16:07:54] 🔵 BUILD: Xung đột Chay – Mặn là chướng ngại rất lớn của nhiều cư sĩ t
+[2026-09-02 16:07:54] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 16:07:54] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:08:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:08:14] ✅   Step 4: FFmpeg encode (22.7s)
+[2026-09-02 16:08:40] ✅   ✅ OK: auto_20260902_160754_Xung_đột_Chay___Mặn_là_chướng_ngại_rất_l.mp4 (1.64MB)
+[2026-09-02 16:08:40] 🔵 BUILD: Trong Kinh Tanh Hôi (Tiểu Bộ), Ðức Phật dạy: Sát sinh, trộm 
+[2026-09-02 16:08:40] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 16:08:40] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:09:04] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:09:05] ✅   Step 4: FFmpeg encode (25.9s)
+[2026-09-02 16:09:20] ✅   ✅ OK: auto_20260902_160840_Trong_Kinh_Tanh_Hôi__Tiểu_Bộ___Ðức_Phật_.mp4 (1.87MB)
+[2026-09-02 16:09:20] 🔵 BUILD: Ðể đưa gia đình về thế trung dung, Kinh tạng Nikaya để lại c
+[2026-09-02 16:09:20] 🔵 BUILD: : Tại nhà: Hôm nào thích ăn chay thì nấu đồ chay; hôm nào mu
+[2026-09-02 16:09:20] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 16:09:20] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:09:49] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:09:49] ✅   Step 4: FFmpeg encode (21.4s)
+[2026-09-02 16:10:00] ✅   ✅ OK: auto_20260902_160920___Tại_nhà__Hôm_nào_thích_ăn_chay_thì_nấu.mp4 (1.13MB)
+[2026-09-02 16:10:00] 🔵 BUILD: : Ngoài xã hội: Ði chùa ăn chay để tôn trọng đại chúng; đi t
+[2026-09-02 16:10:00] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 16:10:00] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:10:23] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:10:24] ✅   Step 4: FFmpeg encode (21.4s)
+[2026-09-02 16:10:31] ✅   ✅ OK: auto_20260902_161000___Ngoài_xã_hội__Ði_chùa_ăn_chay_để_tôn_t.mp4 (1.04MB)
+[2026-09-02 16:10:31] 🔵 BUILD: Sự chuyển hóa không bắt đầu từ thực đơn trên bàn ăn, mà bắt 
+[2026-09-02 16:10:31] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 16:10:31] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:10:46] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:10:47] ✅   Step 4: FFmpeg encode (21.0s)
+[2026-09-02 16:11:06] ✅   ✅ OK: auto_20260902_161031_Sự_chuyển_hóa_không_bắt_đầu_từ_thực_đơn_.mp4 (0.77MB)
+[2026-09-02 16:11:06] 🔵 BUILD: Hành động dung hòa này chính là bài học "Thân giáo" vô giá c
+[2026-09-02 16:11:06] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 16:11:06] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:11:18] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:11:19] ✅   Step 4: FFmpeg encode (21.6s)
+[2026-09-02 16:11:37] ✅   ✅ OK: auto_20260902_161106_Hành_động_dung_hòa_này_chính_là_bài_học_.mp4 (1.43MB)
+[2026-09-02 16:11:37] 🔵 BUILD: SỐNG THỰC TẾ - ÐỔI VẬN MỆNH
+[2026-09-02 16:11:37] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 16:11:38] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:11:53] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:11:54] ✅   Step 4: FFmpeg encode (24.8s)
+[2026-09-02 16:12:16] ✅   ✅ OK: auto_20260902_161137_SỐNG_THỰC_TẾ___ÐỔI_VẬN_MỆNH.mp4 (0.97MB)
+[2026-09-02 16:12:16] 🔵 BUILD: Nhiều người hay nghĩ tính cách hay hoàn cảnh sống là "trời s
+[2026-09-02 16:12:16] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 16:12:16] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:12:37] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:12:38] ✅   Step 4: FFmpeg encode (21.3s)
+[2026-09-02 16:12:54] ✅   ✅ OK: auto_20260902_161216_Nhiều_người_hay_nghĩ_tính_cách_hay_hoàn_.mp4 (1.43MB)
+[2026-09-02 16:12:55] 🔵 BUILD: Những tính xấu bấy lâu nay thực chất chỉ là những thói quen 
+[2026-09-02 16:12:55] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 16:12:55] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:13:20] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:13:20] ✅   Step 4: FFmpeg encode (21.6s)
+[2026-09-02 16:13:30] ✅   ✅ OK: auto_20260902_161255_Những_tính_xấu_bấy_lâu_nay_thực_chất_chỉ.mp4 (1.43MB)
+[2026-09-02 16:13:30] 🔵 BUILD: Trong một nhà, không phải ai cũng có thể thay đổi ngay lập t
+[2026-09-02 16:13:30] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 16:13:30] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:13:48] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:13:48] ✅   Step 4: FFmpeg encode (23.3s)
+[2026-09-02 16:13:55] ✅   ✅ OK: auto_20260902_161330_Trong_một_nhà__không_phải_ai_cũng_có_thể.mp4 (1.31MB)
+[2026-09-02 16:13:55] 🔵 BUILD: Chẳng cần phải nói đạo lý cao siêu, cũng không cần hình thức
+[2026-09-02 16:13:55] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 16:13:56] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:14:09] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:14:10] ✅   Step 4: FFmpeg encode (25.1s)
+[2026-09-02 16:14:17] ✅   ✅ OK: auto_20260902_161355_Chẳng_cần_phải_nói_đạo_lý_cao_siêu__cũng.mp4 (1.48MB)
+[2026-09-02 16:14:17] 🔵 BUILD: BẢN CHẤT CỦA LÒNG TỪ: VƯỢT QUA HÌNH THỨC ÐỂ DIỆT TRỪ TÂM SÂN
+[2026-09-02 16:14:17] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 16:14:17] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:14:27] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:14:28] ✅   Step 4: FFmpeg encode (22.4s)
+[2026-09-02 16:14:35] ✅   ✅ OK: auto_20260902_161417_BẢN_CHẤT_CỦA_LÒNG_TỪ__VƯỢT_QUA_HÌNH_THỨC.mp4 (1.15MB)
+[2026-09-02 16:14:35] 🔵 BUILD: Trong đời sống tinh thần, "lòng từ" thường được ca ngợi như 
+[2026-09-02 16:14:35] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 16:14:35] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:14:45] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:14:45] ✅   Step 4: FFmpeg encode (20.7s)
+[2026-09-02 16:14:51] ✅   ✅ OK: auto_20260902_161435_Trong_đời_sống_tinh_thần___lòng_từ__thườ.mp4 (0.77MB)
+[2026-09-02 16:14:51] 🔵 BUILD: Nhiều người quan niệm ăn chay là con đường duy nhất để thể h
+[2026-09-02 16:14:51] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 16:14:51] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:15:12] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:15:13] 🔵 BUILD: Sự nguy hiểm của việc "kẹt vào hình tướng": Thực tế có những
+[2026-09-02 16:15:13] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 16:15:13] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:15:26] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:15:26] ✅   Step 4: FFmpeg encode (22.5s)
+[2026-09-02 16:15:33] ✅   ✅ OK: auto_20260902_161513_Sự_nguy_hiểm_của_việc__kẹt_vào_hình_tướn.mp4 (0.90MB)
+[2026-09-02 16:15:33] 🔵 BUILD: Giống như một người thuộc lòng bảng cửu chương nhưng không h
+[2026-09-02 16:15:33] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 16:15:33] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:15:54] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:15:54] ✅   Step 4: FFmpeg encode (21.9s)
+[2026-09-02 16:16:01] ✅   ✅ OK: auto_20260902_161533_Giống_như_một_người_thuộc_lòng_bảng_cửu_.mp4 (1.44MB)
+[2026-09-02 16:16:01] 🔵 BUILD: Bình đẳng với muôn loài: Lòng từ không chỉ dành cho những ng
+[2026-09-02 16:16:01] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 16:16:01] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:16:29] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:16:30] ✅   Step 4: FFmpeg encode (23.3s)
+[2026-09-02 16:16:37] ✅   ✅ OK: auto_20260902_161601_Bình_đẳng_với_muôn_loài__Lòng_từ_không_c.mp4 (1.82MB)
+[2026-09-02 16:16:37] 🔵 BUILD: Bao dung với người ăn mặn và kẻ ác: Người có lòng từ vô phân
+[2026-09-02 16:16:37] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 16:16:37] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:16:53] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:16:54] ✅   Step 4: FFmpeg encode (21.3s)
+[2026-09-02 16:17:00] ✅   ✅ OK: auto_20260902_161637_Bao_dung_với_người_ăn_mặn_và_kẻ_ác__Ngườ.mp4 (1.07MB)
+[2026-09-02 16:17:00] 🔵 BUILD: Trong Kinh Tăng Chi Bộ, Ðức Phật dạy rằng khi duyên chưa đến
+[2026-09-02 16:17:00] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 16:17:00] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:17:17] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:17:17] ✅   Step 4: FFmpeg encode (23.2s)
+[2026-09-02 16:17:24] ✅   ✅ OK: auto_20260902_161700_Trong_Kinh_Tăng_Chi_Bộ__Ðức_Phật_dạy_rằn.mp4 (1.40MB)
+[2026-09-02 16:17:24] 🔵 BUILD: Vận hành: Bằng "Như lý tác ý", ta nhìn thấy nỗi khổ và sự gi
+[2026-09-02 16:17:24] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 16:17:24] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:17:38] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:17:38] ✅   Step 4: FFmpeg encode (23.3s)
+[2026-09-02 16:17:45] ✅   ✅ OK: auto_20260902_161724_Vận_hành__Bằng__Như_lý_tác_ý___ta_nhìn_t.mp4 (1.30MB)
+[2026-09-02 16:17:45] 🔵 BUILD: Lòng từ không phải là một chiếc áo tu hành để mặc vào cho ng
+[2026-09-02 16:17:45] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 16:17:45] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:18:00] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:18:00] ✅   Step 4: FFmpeg encode (21.5s)
+[2026-09-02 16:18:06] ✅   ✅ OK: auto_20260902_161745_Lòng_từ_không_phải_là_một_chiếc_áo_tu_hà.mp4 (0.79MB)
+[2026-09-02 16:18:06] 🔵 BUILD: BIẾT ÐỦ: NỀN TẢNG CỦA AN LẠC VÀ HẠNH PHÚC TỰ TẠI
+[2026-09-02 16:18:06] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 16:18:07] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:18:21] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:18:21] ✅   Step 4: FFmpeg encode (21.3s)
+[2026-09-02 16:18:31] ✅   ✅ OK: auto_20260902_161806_BIẾT_ÐỦ__NỀN_TẢNG_CỦA_AN_LẠC_VÀ_HẠNH_PHÚ.mp4 (1.41MB)
+[2026-09-02 16:18:31] 🔵 BUILD: Giữa một xã hội luôn bị cuốn vào vòng xoáy của sự sở hữu và 
+[2026-09-02 16:18:31] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 16:18:31] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:19:07] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 16:19:46] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 16:20:06] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:20:06] ✅   Step 4: FFmpeg encode (22.7s)
+[2026-09-02 16:20:14] ✅   ✅ OK: auto_20260902_161831_Giữa_một_xã_hội_luôn_bị_cuốn_vào_vòng_xo.mp4 (0.83MB)
+[2026-09-02 16:20:14] 🔵 BUILD: Tính chất cốt lõi của biết đủ là năng lực tự kiểm soát, quản
+[2026-09-02 16:20:14] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 16:20:14] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:20:35] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:20:35] ✅   Step 4: FFmpeg encode (23.2s)
+[2026-09-02 16:20:45] ✅   ✅ OK: auto_20260902_162014_Tính_chất_cốt_lõi_của_biết_đủ_là_năng_lự.mp4 (1.76MB)
+[2026-09-02 16:20:45] 🔵 BUILD: Hạnh phúc của người biết đủ không nằm ở tương lai mà hiện hữ
+[2026-09-02 16:20:45] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 16:20:45] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:21:06] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:21:07] ✅   Step 4: FFmpeg encode (24.9s)
+[2026-09-02 16:21:39] ✅   ✅ OK: auto_20260902_162045_Hạnh_phúc_của_người_biết_đủ_không_nằm_ở_.mp4 (1.87MB)
+[2026-09-02 16:21:39] 🔵 BUILD: Nếu quan sát bức tranh toàn cầu hiện nay, ta sẽ thấy một cuộ
+[2026-09-02 16:21:39] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 16:21:39] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:22:07] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:22:09] ✅   Step 4: FFmpeg encode (22.2s)
+[2026-09-02 16:22:28] ✅   ✅ OK: auto_20260902_162139_Nếu_quan_sát_bức_tranh_toàn_cầu_hiện_nay.mp4 (1.15MB)
+[2026-09-02 16:22:28] 🔵 BUILD: Biểu hiện ở quy mô lớn: Ðó là mô hình của các cường quốc, cá
+[2026-09-02 16:22:28] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 16:22:28] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:22:55] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:22:56] ✅   Step 4: FFmpeg encode (24.3s)
+[2026-09-02 16:23:22] ✅   ✅ OK: auto_20260902_162228_Biểu_hiện_ở_quy_mô_lớn__Ðó_là_mô_hình_củ.mp4 (1.33MB)
+[2026-09-02 16:23:22] 🔵 BUILD: Sự bấp bênh từ các cuộc khủng hoảng: Lịch sử đã chứng minh c
+[2026-09-02 16:23:22] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 16:23:22] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:23:41] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:23:42] ✅   Step 4: FFmpeg encode (26.9s)
+[2026-09-02 16:23:59] ✅   ✅ OK: auto_20260902_162322_Sự_bấp_bênh_từ_các_cuộc_khủng_hoảng__Lịc.mp4 (1.02MB)
+[2026-09-02 16:23:59] 🔵 BUILD: Lời cảnh báo từ thời đại AI: Trong kỷ nguyên Trí tuệ nhân tạ
+[2026-09-02 16:23:59] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 16:23:59] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:24:18] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:24:19] ✅   Step 4: FFmpeg encode (21.9s)
+[2026-09-02 16:24:40] ✅   ✅ OK: auto_20260902_162359_Lời_cảnh_báo_từ_thời_đại_AI__Trong_kỷ_ng.mp4 (1.44MB)
+[2026-09-02 16:24:40] 🔵 BUILD: Sự khác biệt khi khủng hoảng ập đến: Khi các cuộc khủng hoản
+[2026-09-02 16:24:40] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 16:24:40] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:24:59] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:25:00] ✅   Step 4: FFmpeg encode (20.4s)
+[2026-09-02 16:25:12] ✅   ✅ OK: auto_20260902_162440_Sự_khác_biệt_khi_khủng_hoảng_ập_đến__Khi.mp4 (0.79MB)
+[2026-09-02 16:25:12] 🔵 BUILD: SỰ TỰ HỌC (Chi phí tối thiểu, giá trị tối đa): Ðây là năng l
+[2026-09-02 16:25:12] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 16:25:12] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:25:36] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:25:37] ✅   Step 4: FFmpeg encode (21.1s)
+[2026-09-02 16:25:48] ✅   ✅ OK: auto_20260902_162512_SỰ_TỰ_HỌC__Chi_phí_tối_thiểu__giá_trị_tố.mp4 (1.43MB)
+[2026-09-02 16:25:48] 🔵 BUILD: DÒNG CHẢY SỰ THẬT: TỪ CỌ XÁT ÐẤT SÀI GÒN ÐẾN TƯ DUY GIÁO DỤC
+[2026-09-02 16:25:48] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 16:25:48] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:26:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:26:13] ✅   Step 4: FFmpeg encode (26.1s)
+[2026-09-02 16:26:23] ✅   ✅ OK: auto_20260902_162548_DÒNG_CHẢY_SỰ_THẬT__TỪ_CỌ_XÁT_ÐẤT_SÀI_GÒN.mp4 (1.89MB)
+[2026-09-02 16:26:23] 🔵 BUILD: Rời bỏ ngành giáo dục, năm 1994, tôi chính thức đặt chân lên
+[2026-09-02 16:26:23] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 16:26:23] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:26:59] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 16:27:24] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:27:25] ✅   Step 4: FFmpeg encode (25.1s)
+[2026-09-02 16:27:36] ✅   ✅ OK: auto_20260902_162623_Rời_bỏ_ngành_giáo_dục__năm_1994__tôi_chí.mp4 (1.37MB)
+[2026-09-02 16:27:36] 🔵 BUILD: Giai đoạn chưa tu học - Tập trung vào năng khiếu: Lúc đang l
+[2026-09-02 16:27:36] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 16:27:36] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:28:00] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:28:00] ✅   Step 4: FFmpeg encode (23.3s)
+[2026-09-02 16:28:24] ✅   ✅ OK: auto_20260902_162736_Giai_đoạn_chưa_tu_học___Tập_trung_vào_nă.mp4 (1.40MB)
+[2026-09-02 16:28:24] 🔵 BUILD: Giai đoạn tu học Kinh Nikaya - Hướng đến Giáo dục Hạnh phúc 
+[2026-09-02 16:28:24] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 16:28:24] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:28:38] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:28:38] ✅   Step 4: FFmpeg encode (21.2s)
+[2026-09-02 16:28:55] ✅   ✅ OK: auto_20260902_162824_Giai_đoạn_tu_học_Kinh_Nikaya___Hướng_đến.mp4 (1.03MB)
+[2026-09-02 16:28:55] 🔵 BUILD: Cháu gái út: Mang tính cách nội tâm, sâu sắc, con được định 
+[2026-09-02 16:28:55] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 16:28:55] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:29:15] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:29:15] ✅   Step 4: FFmpeg encode (22.9s)
+[2026-09-02 16:29:24] ✅   ✅ OK: auto_20260902_162855_Cháu_gái_út__Mang_tính_cách_nội_tâm__sâu.mp4 (0.87MB)
+[2026-09-02 16:29:24] 🔵 BUILD: Vợ hiền còn nhiều vất vả,  nên tôi thực hiện lối sống muốn í
+[2026-09-02 16:29:24] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 16:29:24] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:29:42] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:29:43] ✅   Step 4: FFmpeg encode (24.8s)
+[2026-09-02 16:29:50] ✅   ✅ OK: auto_20260902_162924_Vợ_hiền_còn_nhiều_vất_vả___nên_tôi_thực_.mp4 (1.02MB)
+[2026-09-02 16:29:50] 🔵 BUILD: Thiểu dục tri túc - Khi trong lòng biết đủ, con cái đồng lòn
+[2026-09-02 16:29:50] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 16:29:50] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:30:13] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:30:13] ✅   Step 4: FFmpeg encode (22.6s)
+[2026-09-02 16:30:21] ✅   ✅ OK: auto_20260902_162950_Thiểu_dục_tri_túc___Khi_trong_lòng_biết_.mp4 (1.45MB)
+[2026-09-02 16:30:21] 🔵 BUILD: SỐNG THUẬN TRỜI ÐẤT: COI VẬY MÀ BÌNH YÊN THIỆT SỰ
+[2026-09-02 16:30:21] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 16:30:21] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:30:58] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 16:31:36] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 16:32:03] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:32:04] ✅   Step 4: FFmpeg encode (23.9s)
+[2026-09-02 16:32:13] ✅   ✅ OK: auto_20260902_163021_SỐNG_THUẬN_TRỜI_ÐẤT__COI_VẬY_MÀ_BÌNH_YÊN.mp4 (1.81MB)
+[2026-09-02 16:32:13] 🔵 BUILD: Bây giờ ngó đâu cũng thấy bê tông khép kín, khói bụi với xe 
+[2026-09-02 16:32:13] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 16:32:13] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 16:32:40] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 16:32:41] ✅   Step 4: FFmpeg encode (23.7s)
+[2026-09-02 16:32:51] ✅   ✅ OK: auto_20260902_163213_Bây_giờ_ngó_đâu_cũng_thấy_bê_tông_khép_k.mp4 (1.34MB)
+[2026-09-02 16:32:51] 🔵 BUILD: Thuận với Ðất: Là biết thương quý cái không gian quanh mình.
+[2026-09-02 16:32:51] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 16:32:51] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 16:42:48] 🔵 BUILD: Lối sống này ngẫm lại thấy đậm chất phóng khoáng của người N
+[2026-09-02 16:42:48] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 16:42:48] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 18:34:01] 🔵 BUILD: VỀ QUÊ HAY NGOẠI Ô - SỐNG THUẬN TỰ NHIÊN
+[2026-09-02 18:34:01] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 18:34:01] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 18:34:03] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 18:34:07] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 18:34:11] ⚠️    TTS attempt 3 thất bại
+[2026-09-02 18:34:14] 🔵 BUILD: TU MÀ NHƯ KHÔNG TU – ÐỈNH CAO CỦA ÐẠO HÒA VÀO ÐỜI
+[2026-09-02 18:34:14] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 18:34:15] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 18:34:16] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 18:34:20] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 18:34:24] ⚠️    TTS attempt 3 thất bại
+[2026-09-02 18:34:27] 🔵 BUILD: Dạo này, mình hay suy ngẫm về hai chữ "chia sẻ" và "tu tập".
+[2026-09-02 18:34:27] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 18:34:27] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 18:34:29] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 18:34:33] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 18:39:00] ⚠️    TTS attempt 3 thất bại
+[2026-09-02 18:39:03] 🔵 BUILD: CHIẾC GIƯỜNG ÐẮT NHẤT THẾ GIỚI LÀ GIƯỜNG BỆNH – NỖI KHỔ KHÔN
+[2026-09-02 18:39:03] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 18:39:03] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 18:39:03] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 18:39:07] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 18:39:11] ⚠️    TTS attempt 3 thất bại
+[2026-09-02 18:39:14] 🔵 BUILD: Thế nhưng, người đời ngoài kia vẫn cứ mải miết chạy đua, đi 
+[2026-09-02 18:39:14] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 18:39:14] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 18:39:15] 🔵 BUILD: Ðể rồi khi đối diện với bạo bệnh hay bệnh, chết tất cả đều t
+[2026-09-02 18:39:15] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 18:39:16] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 18:39:17] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 18:39:21] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 18:39:25] ⚠️    TTS attempt 3 thất bại
+[2026-09-02 18:39:28] 🔵 BUILD: "Chiếc giường đắt nhất thế giới chính là giường bệnh. Bạn có
+[2026-09-02 18:39:28] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 18:39:28] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 18:39:30] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 18:39:34] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 18:39:38] ⚠️    TTS attempt 3 thất bại
+[2026-09-02 18:39:41] 🔵 BUILD: Thế nhưng, phần lớn con người lại mắc cái bệnh "ỷ lại" và "m
+[2026-09-02 18:39:41] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 18:39:41] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 18:39:43] ⚠️    TTS attempt 1 thất bại
+[2026-09-02 18:39:47] ⚠️    TTS attempt 2 thất bại
+[2026-09-02 18:46:38] ⚠️    TTS attempt 3 thất bại
+[2026-09-02 18:46:41] 🔵 BUILD: Vậy mà giông bão vừa qua đi, cuộc sống bình thường trở lại, 
+[2026-09-02 18:46:41] ✅   Step 1: BG = bg_phat3.jpg
+[2026-09-02 18:46:41] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 18:46:56] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 18:46:57] ✅   Step 4: FFmpeg encode (23.2s)
+[2026-09-02 19:34:55] ✅   ✅ OK: auto_20260902_184641_Vậy_mà_giông_bão_vừa_qua_đi__cuộc_sống_b.mp4 (0.91MB)
+[2026-09-02 19:34:55] 🔵 BUILD: Họ chọn lối sống TRI TÚC (Biết đủ), chấp nhận sống "ngược dò
+[2026-09-02 19:34:55] ✅   Step 1: BG = bg_zen_evening.jpg
+[2026-09-02 19:34:55] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 20:25:53] 🔵 BUILD: TỪ QUY LUẬT SANH DIỆT ÐẾN SỰ BÌNH AN VÔ SANH: BẠN ÐANG Ở ÐÂU
+[2026-09-02 20:25:53] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 20:25:54] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 20:26:10] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 20:26:11] ✅   Step 4: FFmpeg encode (22.1s)
+[2026-09-02 20:26:16] ✅   ✅ OK: auto_20260902_202553_TỪ_QUY_LUẬT_SANH_DIỆT_ÐẾN_SỰ_BÌNH_AN_VÔ_.mp4 (0.80MB)
+[2026-09-02 20:26:16] 🔵 BUILD: Từ vĩ mô như một cơn bão ngoài tự nhiên: sinh ra từ áp thấp,
+[2026-09-02 20:26:16] ✅   Step 1: BG = bg_animation_style.jpg
+[2026-09-02 20:26:16] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 20:26:35] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 20:26:36] ✅   Step 4: FFmpeg encode (23.1s)
+[2026-09-02 20:26:45] ✅   ✅ OK: auto_20260902_202616_Từ_vĩ_mô_như_một_cơn_bão_ngoài_tự_nhiên_.mp4 (1.81MB)
+[2026-09-02 20:26:45] 🔵 BUILD: Nhưng lòng tham (Ái) lại khác. Nó không nhanh đến nhanh đi n
+[2026-09-02 20:26:45] ✅   Step 1: BG = bg_healing_noon.jpg
+[2026-09-02 20:26:45] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 20:27:07] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 20:27:08] ✅   Step 4: FFmpeg encode (24.6s)
+[2026-09-02 20:27:16] ✅   ✅ OK: auto_20260902_202645_Nhưng_lòng_tham__Ái__lại_khác__Nó_không_.mp4 (1.87MB)
+[2026-09-02 20:27:16] 🔵 BUILD: Tuy nhiên, nếu chỉ thấy sanh diệt mà không chứng biết được t
+[2026-09-02 20:27:16] ✅   Step 1: BG = bg_morning_deepwork.jpg
+[2026-09-02 20:27:16] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 20:27:29] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 20:27:29] ✅   Step 4: FFmpeg encode (17.9s)
+[2026-09-02 20:27:34] ✅   ✅ OK: auto_20260902_202716_Tuy_nhiên__nếu_chỉ_thấy_sanh_diệt_mà_khô.mp4 (1.01MB)
+[2026-09-02 20:27:34] 🔵 BUILD: Về lời nói (Chánh Ngữ): Khi bạn thấy việc nói xấu người khác
+[2026-09-02 20:27:34] ✅   Step 1: BG = bg_phat1.jpg
+[2026-09-02 20:27:34] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 20:27:53] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 20:27:54] ✅   Step 4: FFmpeg encode (22.5s)
+[2026-09-02 20:28:01] ✅   ✅ OK: auto_20260902_202734_Về_lời_nói__Chánh_Ngữ___Khi_bạn_thấy_việ.mp4 (1.28MB)
+[2026-09-02 20:28:02] 🔵 BUILD: Về hành động (Chánh Nghiệp): Tương tự, khi bạn nhận ra ăn tr
+[2026-09-02 20:28:02] ✅   Step 1: BG = bg_phat2.jpg
+[2026-09-02 20:28:02] ✅   Step 2: TTS (vi-VN-NamMinhNeural)
+[2026-09-02 20:28:22] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 20:28:23] ✅   Step 4: FFmpeg encode (24.5s)
+[2026-09-02 20:28:31] ✅   ✅ OK: auto_20260902_202802_Về_hành_động__Chánh_Nghiệp___Tương_tự__k.mp4 (1.33MB)

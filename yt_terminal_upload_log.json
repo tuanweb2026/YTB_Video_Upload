@@ -1109,5 +1109,60 @@
     "youtube_video_id": "bDIKJFSgzj0",
     "youtube_url": "https://www.youtube.com/watch?v=bDIKJFSgzj0",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T16:00:16.890209",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_164840_Chánh_Kiến__Samma_Ditthi___Cách_Nhìn_Đời.mp4",
+    "file_name": "auto_20260828_164840_Chánh_Kiến__Samma_Ditthi___Cách_Nhìn_Đời.mp4",
+    "title": "Chánh Kiến Samma Ditthi Cách Nhìn Đời",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "wcGkRDZWFLk",
+    "youtube_url": "https://www.youtube.com/watch?v=wcGkRDZWFLk",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T16:30:04.844296",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_164925_Chánh_Tư_Duy__Samma_Sankappa___Dọn_Sạch_.mp4",
+    "file_name": "auto_20260828_164925_Chánh_Tư_Duy__Samma_Sankappa___Dọn_Sạch_.mp4",
+    "title": "Chánh Tư Duy Samma Sankappa Dọn Sạch",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "5OroGZRG7jw",
+    "youtube_url": "https://www.youtube.com/watch?v=5OroGZRG7jw",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T16:30:11.673474",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_164958_Chánh_Ngữ__Samma_Vaca___5_Tiêu_Chí_Lời_N.mp4",
+    "file_name": "auto_20260828_164958_Chánh_Ngữ__Samma_Vaca___5_Tiêu_Chí_Lời_N.mp4",
+    "title": "Chánh Ngữ Samma Vaca 5 Tiêu Chí Lời N",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "8hliNWUsbck",
+    "youtube_url": "https://www.youtube.com/watch?v=8hliNWUsbck",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-02T20:24:35.291840",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165037_Chánh_Nghiệp__Samma_Kammanta___Hành_Động.mp4",
+    "file_name": "auto_20260828_165037_Chánh_Nghiệp__Samma_Kammanta___Hành_Động.mp4",
+    "title": "Chánh Nghiệp Samma Kammanta Hành Động",
+    "privacy": "public",
+    "status": "failed",
+    "youtube_video_id": null,
+    "youtube_url": null,
+    "error": "Lỗi upload: <urlopen error [Errno 32] Broken pipe>"
+  },
+  {
+    "uploaded_at": "2026-09-02T20:24:56.618264",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_165037_Chánh_Nghiệp__Samma_Kammanta___Hành_Động.mp4",
+    "file_name": "auto_20260828_165037_Chánh_Nghiệp__Samma_Kammanta___Hành_Động.mp4",
+    "title": "Chánh Nghiệp Samma Kammanta Hành Động",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "gYiwx2NY6jU",
+    "youtube_url": "https://www.youtube.com/watch?v=gYiwx2NY6jU",
+    "error": null
   }
 ]
