@@ -4128,3 +4128,8 @@ Conversion failed!
 [2026-08-28 19:39:28] ✅   Step 3: Audio EQ + Mix nhạc
 [2026-08-28 19:39:29] ✅   Step 4: FFmpeg encode (25.9s)
 [2026-08-28 19:39:38] ✅   ✅ OK: auto_20260828_193857_Sona_Và_Bài_Học_Dây_Đàn__Triết_Lý_Trung_.mp4 (1.91MB)
+[2026-09-02 14:56:35] 🔵 BUILD: Ambapali - Kỹ Nữ Trở Thành A La Hán: Bài Học Vô Thường Từ Ng
+[2026-09-02 14:56:35] ✅   Step 1: BG = bg_Zen1.jpg
+[2026-09-02 14:56:35] ✅   Step 2: TTS (vi-VN-HoaiMyNeural)
+[2026-09-02 14:56:55] ✅   Step 3: Audio EQ + Mix nhạc
+[2026-09-02 14:56:55] ✅   Step 4: FFmpeg encode (25.9s)
