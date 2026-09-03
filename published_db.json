@@ -712,5 +712,18 @@
     "calendar_date": "03/09/2026",
     "category": "Series A - Sơ Cứu Tâm Lý & Chữa Lành Trưa",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": 31,
+    "day": 13,
+    "slot": "slot_18pm",
+    "title": "Tứ Diệu Đế #1 - Khổ Đế: Tại Sao Phật Dạy Đời Là Khổ Và Đây Không Phải Bi Quan #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=e1W3lVlgBt0",
+    "video_id": "e1W3lVlgBt0",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_13_slot_18pm.mp4",
+    "published_at": "2026-09-03T18:00:17.329457",
+    "calendar_date": "03/09/2026",
+    "category": "Triết Lý Nikaya Kinh Đêm",
+    "status": "LIVE_SUCCESS"
   }
 ]

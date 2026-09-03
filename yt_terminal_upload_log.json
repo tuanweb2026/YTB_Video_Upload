@@ -1571,5 +1571,27 @@
     "youtube_video_id": "oWOagnETKXg",
     "youtube_url": "https://www.youtube.com/watch?v=oWOagnETKXg",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T18:00:09.299330",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_192851_Học_Như_Người_Tu_Tập__Chánh_Tinh_Tấn_Và_.mp4",
+    "file_name": "auto_20260828_192851_Học_Như_Người_Tu_Tập__Chánh_Tinh_Tấn_Và_.mp4",
+    "title": "Học Như Người Tu Tập Chánh Tinh Tấn Và",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "6e7Odx9Sdts",
+    "youtube_url": "https://www.youtube.com/watch?v=6e7Odx9Sdts",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T18:00:33.678181",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_192925_Ngũ_Uẩn__Pañcakkhandha___Phật_Phân_Tích_.mp4",
+    "file_name": "auto_20260828_192925_Ngũ_Uẩn__Pañcakkhandha___Phật_Phân_Tích_.mp4",
+    "title": "Ngũ Uẩn Pañcakkhandha Phật Phân Tích",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "-7h3yaFSm4U",
+    "youtube_url": "https://www.youtube.com/watch?v=-7h3yaFSm4U",
+    "error": null
   }
 ]
