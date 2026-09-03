@@ -699,5 +699,18 @@
     "calendar_date": "03/09/2026",
     "category": "Series B - Tư Duy Deep Work Sáng",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": null,
+    "day": 13,
+    "slot": "slot_11am",
+    "title": "Khi Sự Nhiệt Huyết Biến Mất: Vượt Qua Giai Đoạn Tê Liệt Cảm Xúc #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=X0RVVINf2n4",
+    "video_id": "X0RVVINf2n4",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_13_slot_11am.mp4",
+    "published_at": "2026-09-03T11:57:15.244744",
+    "calendar_date": "03/09/2026",
+    "category": "Series A - Sơ Cứu Tâm Lý & Chữa Lành Trưa",
+    "status": "LIVE_SUCCESS"
   }
 ]
