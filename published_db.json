@@ -725,5 +725,18 @@
     "calendar_date": "03/09/2026",
     "category": "Triết Lý Nikaya Kinh Đêm",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": 32,
+    "day": 13,
+    "slot": "slot_20pm",
+    "title": "Tứ Diệu Đế #2 - Tập Đế: Khám Phá Nguồn Gốc Tham Sân Si Làm Khổ Cuộc Đời Bạn #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=caGbMv7o3HU",
+    "video_id": "caGbMv7o3HU",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_13_slot_20pm.mp4",
+    "published_at": "2026-09-03T20:00:10.878279",
+    "calendar_date": "03/09/2026",
+    "category": "Triết Lý Nikaya Kinh Đêm",
+    "status": "LIVE_SUCCESS"
   }
 ]
