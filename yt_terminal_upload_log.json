@@ -1296,5 +1296,27 @@
     "youtube_video_id": "d6ZVaGr_KpA",
     "youtube_url": "https://www.youtube.com/watch?v=d6ZVaGr_KpA",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T08:00:05.494995",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_191552_Nghệ_Thuật_Nuôi_Dạy_Con_Theo_Triết_Lý_Ph.mp4",
+    "file_name": "auto_20260828_191552_Nghệ_Thuật_Nuôi_Dạy_Con_Theo_Triết_Lý_Ph.mp4",
+    "title": "Nghệ Thuật Nuôi Dạy Con Theo Triết Lý Ph",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "SX5dx0RYxPU",
+    "youtube_url": "https://www.youtube.com/watch?v=SX5dx0RYxPU",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T08:00:24.893237",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_191628_Làm_Thế_Nào_Khi_Làm_Việc_Với_Người_Khó_C.mp4",
+    "file_name": "auto_20260828_191628_Làm_Thế_Nào_Khi_Làm_Việc_Với_Người_Khó_C.mp4",
+    "title": "Làm Thế Nào Khi Làm Việc Với Người Khó C",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "lbRosSKaYv4",
+    "youtube_url": "https://www.youtube.com/watch?v=lbRosSKaYv4",
+    "error": null
   }
 ]
