@@ -1549,5 +1549,27 @@
     "youtube_video_id": "kdHU1ASdq1g",
     "youtube_url": "https://www.youtube.com/watch?v=kdHU1ASdq1g",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T17:30:05.444011",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_192814_Mối_Liên_Hệ_Giữa_Thiền_Định_Và_Sáng_Tạo_.mp4",
+    "file_name": "auto_20260828_192814_Mối_Liên_Hệ_Giữa_Thiền_Định_Và_Sáng_Tạo_.mp4",
+    "title": "Mối Liên Hệ Giữa Thiền Định Và Sáng Tạo",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "RLc2LAc32YU",
+    "youtube_url": "https://www.youtube.com/watch?v=RLc2LAc32YU",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T17:30:07.761479",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_192814_Mối_Liên_Hệ_Giữa_Thiền_Định_Và_Sáng_Tạo_.mp4",
+    "file_name": "auto_20260828_192814_Mối_Liên_Hệ_Giữa_Thiền_Định_Và_Sáng_Tạo_.mp4",
+    "title": "Mối Liên Hệ Giữa Thiền Định Và Sáng Tạo",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "oWOagnETKXg",
+    "youtube_url": "https://www.youtube.com/watch?v=oWOagnETKXg",
+    "error": null
   }
 ]
