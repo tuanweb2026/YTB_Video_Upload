@@ -1318,5 +1318,38 @@
     "youtube_video_id": "lbRosSKaYv4",
     "youtube_url": "https://www.youtube.com/watch?v=lbRosSKaYv4",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T08:51:53.742231",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_191655_Khoa_Học_Của_Sự_Tha_Thứ__Tại_Sao_Phật_Dạ.mp4",
+    "file_name": "auto_20260828_191655_Khoa_Học_Của_Sự_Tha_Thứ__Tại_Sao_Phật_Dạ.mp4",
+    "title": "Khoa Học Của Sự Tha Thứ Tại Sao Phật Dạ",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "HfUQD-v0CBw",
+    "youtube_url": "https://www.youtube.com/watch?v=HfUQD-v0CBw",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T09:51:14.858460",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_191729_Quy_Y_Tam_Bảo_Trong_Thế_Giới_Hiện_Đại__P.mp4",
+    "file_name": "auto_20260828_191729_Quy_Y_Tam_Bảo_Trong_Thế_Giới_Hiện_Đại__P.mp4",
+    "title": "Quy Y Tam Bảo Trong Thế Giới Hiện Đại P",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "ddnQcj2y1MM",
+    "youtube_url": "https://www.youtube.com/watch?v=ddnQcj2y1MM",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-03T10:02:06.088124",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260828_191803_Luật_Nhân_Quả_Trong_Phật_Giáo__Không_Phả.mp4",
+    "file_name": "auto_20260828_191803_Luật_Nhân_Quả_Trong_Phật_Giáo__Không_Phả.mp4",
+    "title": "Luật Nhân Quả Trong Phật Giáo Không Phả",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "mfKWerKKyUM",
+    "youtube_url": "https://www.youtube.com/watch?v=mfKWerKKyUM",
+    "error": null
   }
 ]
