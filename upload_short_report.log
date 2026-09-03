@@ -4798,3 +4798,33 @@
 [2026-09-03 15:42:26] URL: https://www.youtube.com/watch?v=qHYF7Ak4r7k
 [2026-09-03 15:42:26] DONE: Còn 202 video chờ upload.
 [2026-09-03 15:42:26] === AUTO-SHORT UPLOAD END (OK) ===
+
+============================================================
+[2026-09-03 17:28:27] === AUTO-SHORT UPLOAD START ===
+[2026-09-03 17:28:27] STARTING: auto_20260828_192743_Lãnh_Đạo_Với_Trái_Tim_Rộng_Lượng__7_Phẩm.mp4 (1.5 MB)
+[2026-09-03 17:28:31] FILE: auto_20260828_192743_Lãnh_Đạo_Với_Trái_Tim_Rộng_Lượng__7_Phẩm.mp4 → YT ID: kdHU1ASdq1g (status: uploaded)
+[2026-09-03 17:28:31] URL: https://www.youtube.com/watch?v=kdHU1ASdq1g
+[2026-09-03 17:28:31] DONE: Còn 201 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-03 17:28:27] STARTING: auto_20260828_192743_Lãnh_Đạo_Với_Trái_Tim_Rộng_Lượng__7_Phẩm.mp4 (1.5 MB)
+[36mℹ️  Pending: 202 video · Đang upload: auto_20260828_192743_Lãnh_Đạo_Với_Trái_Tim_Rộng_Lượng__7_Phẩm.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260828_192743_Lãnh_Đạo_Với_Trái_Tim_Rộng_Lượng__7_Phẩm.mp4[0m
+  📝 Tiêu đề: [1mLãnh Đạo Với Trái Tim Rộng Lượng 7 Phẩm[0m
+  📦 Size   : [33m1.5 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.5 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.7 MB/s
+[2026-09-03 17:28:31] FILE: auto_20260828_192743_Lãnh_Đạo_Với_Trái_Tim_Rộng_Lượng__7_Phẩm.mp4 → YT ID: kdHU1ASdq1g (status: uploaded)
+[2026-09-03 17:28:31] URL: https://www.youtube.com/watch?v=kdHU1ASdq1g
+[2026-09-03 17:28:31] DONE: Còn 201 video chờ upload.
+[2026-09-03 17:28:31] === AUTO-SHORT UPLOAD END (OK) ===
