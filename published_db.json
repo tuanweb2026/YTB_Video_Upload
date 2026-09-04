@@ -751,5 +751,18 @@
     "calendar_date": "04/09/2026",
     "category": "Series B - Tư Duy Deep Work Sáng",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": null,
+    "day": 14,
+    "slot": "slot_11am",
+    "title": "Hội Chứng Sợ Ngày Mai: Tại Sao Luôn Lo Âu Khi Chiều Buông Xuống? #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=XifZEXsK3mc",
+    "video_id": "XifZEXsK3mc",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_14_slot_11am.mp4",
+    "published_at": "2026-09-04T11:00:10.313043",
+    "calendar_date": "04/09/2026",
+    "category": "Series A - Sơ Cứu Tâm Lý & Chữa Lành Trưa",
+    "status": "LIVE_SUCCESS"
   }
 ]
