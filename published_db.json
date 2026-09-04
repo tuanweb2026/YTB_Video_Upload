@@ -738,5 +738,18 @@
     "calendar_date": "03/09/2026",
     "category": "Triết Lý Nikaya Kinh Đêm",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": null,
+    "day": 14,
+    "slot": "slot_08am",
+    "title": "Quy Tắc 2 Phút Đánh Bại Sự Trì Hoãn Ngay Lập Tức #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=qFUsL95FLOE",
+    "video_id": "qFUsL95FLOE",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_14_slot_08am.mp4",
+    "published_at": "2026-09-04T08:31:48.051771",
+    "calendar_date": "04/09/2026",
+    "category": "Series B - Tư Duy Deep Work Sáng",
+    "status": "LIVE_SUCCESS"
   }
 ]
