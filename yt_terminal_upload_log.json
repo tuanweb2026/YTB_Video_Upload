@@ -2385,5 +2385,27 @@
     "youtube_video_id": "dEqoLKd3v14",
     "youtube_url": "https://www.youtube.com/watch?v=dEqoLKd3v14",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-05T20:00:10.456590",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260902_151351_Einstein_Đến_Dalai_Lama__Khi_Các_Nhà_Kho.mp4",
+    "file_name": "auto_20260902_151351_Einstein_Đến_Dalai_Lama__Khi_Các_Nhà_Kho.mp4",
+    "title": "Einstein Đến Dalai Lama Khi Các Nhà Kho",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "tkMSA1lHsFU",
+    "youtube_url": "https://www.youtube.com/watch?v=tkMSA1lHsFU",
+    "error": null
+  },
+  {
+    "uploaded_at": "2026-09-05T20:01:19.503415",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260902_151420_Phật_Giáo_Việt_Nam__Từ_Thời_Đinh_Lê_Đến_.mp4",
+    "file_name": "auto_20260902_151420_Phật_Giáo_Việt_Nam__Từ_Thời_Đinh_Lê_Đến_.mp4",
+    "title": "Phật Giáo Việt Nam Từ Thời Đinh Lê Đến",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "lqTKaZw_HUs",
+    "youtube_url": "https://www.youtube.com/watch?v=lqTKaZw_HUs",
+    "error": null
   }
 ]
