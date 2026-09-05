@@ -7087,3 +7087,85 @@
 [31m❌ Refresh token lỗi: <urlopen error [Errno 8] nodename nor servname provided, or not known>[0m
 [2026-09-04 22:05:21] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
 [2026-09-04 22:05:21] === AUTO-SHORT UPLOAD END (EXIT CODE: 2) ===
+
+============================================================
+[2026-09-04 22:30:00] === AUTO-SHORT UPLOAD START ===
+[2026-09-04 22:30:00] STARTING: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 (1.4 MB)
+
+============================================================
+[2026-09-04 22:30:05] === AUTO-SHORT UPLOAD START ===
+[2026-09-04 22:30:05] STARTING: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 (1.4 MB)
+[2026-09-04 22:30:10] FILE: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 → YT ID: 84MUVo2rpjA (status: uploaded)
+[2026-09-04 22:30:10] URL: https://www.youtube.com/watch?v=84MUVo2rpjA
+[2026-09-04 22:30:10] DONE: Còn 162 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-04 22:30:00] STARTING: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 (1.4 MB)
+[36mℹ️  Pending: 163 video · Đang upload: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4[0m
+  📝 Tiêu đề: [1mCác Thiện Pháp Căn Bản Cần Học Trước Khi[0m
+  📦 Size   : [33m1.4 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.4 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[2026-09-04 22:30:10] FILE: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 → YT ID: 84MUVo2rpjA (status: uploaded)
+[2026-09-04 22:30:10] URL: https://www.youtube.com/watch?v=84MUVo2rpjA
+[2026-09-04 22:30:10] DONE: Còn 162 video chờ upload.
+[2026-09-04 22:30:10] === AUTO-SHORT UPLOAD END (OK) ===
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-04 22:30:00] STARTING: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 (1.4 MB)
+[36mℹ️  Pending: 163 video · Đang upload: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4[0m
+  📝 Tiêu đề: [1mCác Thiện Pháp Căn Bản Cần Học Trước Khi[0m
+  📦 Size   : [33m1.4 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.4 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[2026-09-04 22:30:10] FILE: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 → YT ID: 84MUVo2rpjA (status: uploaded)
+[2026-09-04 22:30:10] URL: https://www.youtube.com/watch?v=84MUVo2rpjA
+[2026-09-04 22:30:10] DONE: Còn 162 video chờ upload.
+[2026-09-04 22:30:14] FILE: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 → YT ID: JVrXFajZ8Tc (status: uploaded)
+[2026-09-04 22:30:14] URL: https://www.youtube.com/watch?v=JVrXFajZ8Tc
+[2026-09-04 22:30:14] DONE: Còn 162 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-04 22:30:05] STARTING: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 (1.4 MB)
+[36mℹ️  Pending: 163 video · Đang upload: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4[0m
+  📝 Tiêu đề: [1mCác Thiện Pháp Căn Bản Cần Học Trước Khi[0m
+  📦 Size   : [33m1.4 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.4 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.2 MB/s
+[2026-09-04 22:30:14] FILE: auto_20260902_150629_Các_Thiện_Pháp_Căn_Bản_Cần_Học_Trước_Khi.mp4 → YT ID: JVrXFajZ8Tc (status: uploaded)
+[2026-09-04 22:30:14] URL: https://www.youtube.com/watch?v=JVrXFajZ8Tc
+[2026-09-04 22:30:14] DONE: Còn 162 video chờ upload.
+[2026-09-04 22:30:14] === AUTO-SHORT UPLOAD END (OK) ===

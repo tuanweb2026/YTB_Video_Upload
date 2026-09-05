@@ -803,5 +803,18 @@
     "calendar_date": "04/09/2026",
     "category": "Triết Lý Nikaya Kinh Đêm",
     "status": "LIVE_SUCCESS"
+  },
+  {
+    "post_index": null,
+    "day": 15,
+    "slot": "slot_08am",
+    "title": "Tư Duy Tối Ưu Hiệu Suất & Kỷ Luật Bản Thân Đầu Sáng #Shorts #ThaoDuongTV",
+    "youtube_url": "https://www.youtube.com/watch?v=-3LR65_ky7Q",
+    "video_id": "-3LR65_ky7Q",
+    "local_file": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_queue/shorts_day_15_slot_08am.mp4",
+    "published_at": "2026-09-05T08:09:48.492754",
+    "calendar_date": "05/09/2026",
+    "category": "Series B - Tư Duy Deep Work Sáng",
+    "status": "LIVE_SUCCESS"
   }
 ]
