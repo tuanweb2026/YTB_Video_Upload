@@ -7945,3 +7945,48 @@
 [2026-09-05 14:42:11] URL: https://www.youtube.com/watch?v=vj8CgVLpWmc
 [2026-09-05 14:42:11] DONE: Còn 148 video chờ upload.
 [2026-09-05 14:42:11] === AUTO-SHORT UPLOAD END (OK) ===
+
+============================================================
+[2026-09-05 15:50:03] === AUTO-SHORT UPLOAD START ===
+[2026-09-05 15:50:03] STARTING: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4 (0.8 MB)
+[2026-09-05 15:50:10] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-05 15:50:03] STARTING: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4 (0.8 MB)
+[36mℹ️  Pending: 148 video · Đang upload: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 8] nodename nor servname provided, or not known>[0m
+[2026-09-05 15:50:10] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+[2026-09-05 15:50:10] === AUTO-SHORT UPLOAD END (EXIT CODE: 2) ===
+
+============================================================
+[2026-09-05 16:03:03] === AUTO-SHORT UPLOAD START ===
+[2026-09-05 16:03:03] STARTING: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4 (0.8 MB)
+[2026-09-05 16:03:14] FILE: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4 → YT ID: dEqoLKd3v14 (status: uploaded)
+[2026-09-05 16:03:14] URL: https://www.youtube.com/watch?v=dEqoLKd3v14
+[2026-09-05 16:03:14] DONE: Còn 147 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-05 16:03:03] STARTING: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4 (0.8 MB)
+[36mℹ️  Pending: 148 video · Đang upload: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4[0m
+  📝 Tiêu đề: [1mSáng Tạo Nghệ Thuật Trong Trạng Thái Thi[0m
+  📦 Size   : [33m0.8 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 0.8 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.1 MB/s
+[2026-09-05 16:03:14] FILE: auto_20260902_151302_Sáng_Tạo_Nghệ_Thuật_Trong_Trạng_Thái_Thi.mp4 → YT ID: dEqoLKd3v14 (status: uploaded)
+[2026-09-05 16:03:14] URL: https://www.youtube.com/watch?v=dEqoLKd3v14
+[2026-09-05 16:03:14] DONE: Còn 147 video chờ upload.
+[2026-09-05 16:03:14] === AUTO-SHORT UPLOAD END (OK) ===
