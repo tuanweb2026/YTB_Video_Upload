@@ -7900,3 +7900,48 @@
 [2026-09-05 14:01:01] URL: https://www.youtube.com/watch?v=O7Mo92igvoM
 [2026-09-05 14:01:01] DONE: Còn 149 video chờ upload.
 [2026-09-05 14:01:01] === AUTO-SHORT UPLOAD END (OK) ===
+
+============================================================
+[2026-09-05 14:35:30] === AUTO-SHORT UPLOAD START ===
+[2026-09-05 14:35:30] STARTING: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4 (1.4 MB)
+[2026-09-05 14:35:30] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-05 14:35:30] STARTING: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4 (1.4 MB)
+[36mℹ️  Pending: 149 video · Đang upload: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4[0m
+[31m❌ Refresh token lỗi: <urlopen error [Errno 8] nodename nor servname provided, or not known>[0m
+[2026-09-05 14:35:30] ERROR: OAuth token không hợp lệ — chạy: python3 setup_token_direct.py
+[2026-09-05 14:35:30] === AUTO-SHORT UPLOAD END (EXIT CODE: 2) ===
+
+============================================================
+[2026-09-05 14:42:08] === AUTO-SHORT UPLOAD START ===
+[2026-09-05 14:42:08] STARTING: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4 (1.4 MB)
+[2026-09-05 14:42:11] FILE: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4 → YT ID: vj8CgVLpWmc (status: uploaded)
+[2026-09-05 14:42:11] URL: https://www.youtube.com/watch?v=vj8CgVLpWmc
+[2026-09-05 14:42:11] DONE: Còn 148 video chờ upload.
+
+[35m[1m╔══════════════════════════════════════════════════════════╗[0m
+[35m[1m║  🎬 YouTube Terminal Uploader — @1995lido                ║[0m
+[35m[1m╚══════════════════════════════════════════════════════════╝[0m
+
+[2026-09-05 14:42:08] STARTING: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4 (1.4 MB)
+[36mℹ️  Pending: 149 video · Đang upload: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4[0m
+
+[1m────────────────────────────────────────────────────────────[0m
+  📁 File   : [36mauto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4[0m
+  📝 Tiêu đề: [1mTriết Lý Nikaya Giúp Học Sinh Sinh Viên[0m
+  📦 Size   : [33m1.4 MB[0m
+  🔒 Privacy: [35mpublic[0m
+[1m────────────────────────────────────────────────────────────[0m
+[34m🔵 Tạo upload session...[0m
+[32m✅ Upload session OK[0m
+[34m🔵 Đang upload 1.4 MB lên YouTube...[0m
+
+  [██████████████████████████████] 100.0% · 0.9 MB/s
+[2026-09-05 14:42:11] FILE: auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4 → YT ID: vj8CgVLpWmc (status: uploaded)
+[2026-09-05 14:42:11] URL: https://www.youtube.com/watch?v=vj8CgVLpWmc
+[2026-09-05 14:42:11] DONE: Còn 148 video chờ upload.
+[2026-09-05 14:42:11] === AUTO-SHORT UPLOAD END (OK) ===

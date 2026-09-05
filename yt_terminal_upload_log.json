@@ -2363,5 +2363,16 @@
     "youtube_video_id": "O7Mo92igvoM",
     "youtube_url": "https://www.youtube.com/watch?v=O7Mo92igvoM",
     "error": null
+  },
+  {
+    "uploaded_at": "2026-09-05T14:42:11.314195",
+    "file_path": "/Users/abc/.gemini/antigravity/scratch/1995lido_youtube_management/output_manual/auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4",
+    "file_name": "auto_20260902_151232_Triết_Lý_Nikaya_Giúp_Học_Sinh_Sinh_Viên_.mp4",
+    "title": "Triết Lý Nikaya Giúp Học Sinh Sinh Viên",
+    "privacy": "public",
+    "status": "uploaded",
+    "youtube_video_id": "vj8CgVLpWmc",
+    "youtube_url": "https://www.youtube.com/watch?v=vj8CgVLpWmc",
+    "error": null
   }
 ]
